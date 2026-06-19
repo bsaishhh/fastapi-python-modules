@@ -1,0 +1,49 @@
+{
+  "role_key": "CORE_SCIENCE_RND",
+  "family": "CORE_SCIENCE_RND",
+  "sub_roles": [
+    "Physics",
+    "Chemistry",
+    "Math",
+    "Research",
+    "Operations Research"
+  ],
+  "required_skills": [
+    "Research",
+    "Statistics",
+    "Python",
+    "MATLAB",
+    "Scientific Writing"
+  ],
+  "preferred_skills": [
+    "LaTeX",
+    "R",
+    "Simulation",
+    "Lab Techniques"
+  ],
+  "tools": [
+    "MATLAB",
+    "Python",
+    "LaTeX",
+    "Jupyter"
+  ],
+  "frameworks": [
+    "NumPy",
+    "SciPy"
+  ],
+  "responsibilities": [
+    "Conduct research experiments",
+    "Publish papers",
+    "Data analysis",
+    "Model development"
+  ],
+  "keywords": [
+    "Research",
+    "Publications",
+    "Statistics",
+    "Python",
+    "MATLAB",
+    "Simulation",
+    "Scientific Writing"
+  ]
+}

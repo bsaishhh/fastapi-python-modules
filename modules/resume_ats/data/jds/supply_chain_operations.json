@@ -1,0 +1,47 @@
+{
+  "role_key": "SUPPLY_CHAIN_OPERATIONS",
+  "family": "SUPPLY_CHAIN_OPERATIONS",
+  "sub_roles": [
+    "SCM",
+    "Logistics",
+    "Procurement",
+    "Planning",
+    "Operations"
+  ],
+  "required_skills": [
+    "Supply Chain",
+    "Operations",
+    "Excel",
+    "Inventory Management",
+    "Logistics"
+  ],
+  "preferred_skills": [
+    "SAP",
+    "SQL",
+    "Python",
+    "Forecasting",
+    "Lean Six Sigma"
+  ],
+  "tools": [
+    "SAP",
+    "Excel",
+    "ERP",
+    "Tableau"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Supply chain optimization",
+    "Inventory planning",
+    "Vendor management",
+    "Operations analytics"
+  ],
+  "keywords": [
+    "Supply Chain",
+    "Logistics",
+    "Procurement",
+    "Inventory",
+    "SAP",
+    "Operations",
+    "Forecasting"
+  ]
+}

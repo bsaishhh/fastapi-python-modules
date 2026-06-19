@@ -1,0 +1,58 @@
+{
+  "role_key": "AI_ML_ENGINEER",
+  "family": "AI_ML_DATA_SCIENCE",
+  "sub_roles": [
+    "AI Engineer",
+    "ML Engineer",
+    "LLM Engineer",
+    "GenAI Engineer",
+    "Research Scientist"
+  ],
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "preferred_skills": [
+    "LangChain",
+    "RAG",
+    "Transformers",
+    "MLOps",
+    "Vector Databases"
+  ],
+  "tools": [
+    "Docker",
+    "AWS",
+    "Git",
+    "MLflow",
+    "Kubernetes"
+  ],
+  "frameworks": [
+    "FastAPI",
+    "scikit-learn",
+    "Hugging Face Transformers",
+    "LangChain"
+  ],
+  "responsibilities": [
+    "Design and deploy ML models in production",
+    "Build LLM and RAG pipelines",
+    "Optimize model inference and training",
+    "Collaborate with data and platform teams"
+  ],
+  "keywords": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Transformers",
+    "LLM",
+    "RAG",
+    "LangChain",
+    "Vector Database",
+    "FastAPI",
+    "Docker",
+    "AWS",
+    "MLOps"
+  ]
+}

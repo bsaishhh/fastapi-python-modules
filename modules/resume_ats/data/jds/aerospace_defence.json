@@ -1,0 +1,47 @@
+{
+  "role_key": "AEROSPACE_DEFENCE",
+  "family": "AEROSPACE_DEFENCE",
+  "sub_roles": [
+    "Avionics",
+    "Propulsion",
+    "GNC",
+    "Structures",
+    "Flight Testing"
+  ],
+  "required_skills": [
+    "Aerodynamics",
+    "MATLAB",
+    "Control Systems",
+    "Structures",
+    "CFD"
+  ],
+  "preferred_skills": [
+    "Simulink",
+    "FEA",
+    "Avionics",
+    "Propulsion"
+  ],
+  "tools": [
+    "MATLAB",
+    "ANSYS",
+    "CATIA",
+    "SolidWorks"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Aerospace system design",
+    "GNC algorithm development",
+    "Structural analysis",
+    "Flight test support"
+  ],
+  "keywords": [
+    "Aerospace",
+    "Avionics",
+    "GNC",
+    "Propulsion",
+    "CFD",
+    "Control Systems",
+    "Structures",
+    "MATLAB"
+  ]
+}

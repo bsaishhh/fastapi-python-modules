@@ -1,0 +1,48 @@
+{
+  "role_key": "ELECTRICAL_ELECTRONICS",
+  "family": "ELECTRICAL_ELECTRONICS",
+  "sub_roles": [
+    "VLSI",
+    "ASIC",
+    "Embedded",
+    "Firmware",
+    "RF",
+    "Power Electronics"
+  ],
+  "required_skills": [
+    "Circuit Design",
+    "Embedded Systems",
+    "C",
+    "Verilog",
+    "VHDL"
+  ],
+  "preferred_skills": [
+    "FPGA",
+    "RTOS",
+    "PCB Design",
+    "Signal Processing"
+  ],
+  "tools": [
+    "Altium",
+    "Cadence",
+    "Oscilloscope",
+    "MATLAB"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Design circuits and PCBs",
+    "Develop firmware",
+    "VLSI/ASIC design",
+    "Hardware testing"
+  ],
+  "keywords": [
+    "Embedded",
+    "VLSI",
+    "Verilog",
+    "FPGA",
+    "Circuit Design",
+    "Firmware",
+    "PCB",
+    "Signal Processing"
+  ]
+}

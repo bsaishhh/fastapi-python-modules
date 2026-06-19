@@ -1,0 +1,46 @@
+{
+  "role_key": "FOUNDERS_OFFICE",
+  "family": "FOUNDERS_OFFICE",
+  "sub_roles": [
+    "Growth",
+    "CEO Office",
+    "Strategy Ops",
+    "Startup Generalist"
+  ],
+  "required_skills": [
+    "Strategy",
+    "Operations",
+    "Communication",
+    "Excel",
+    "Problem Solving"
+  ],
+  "preferred_skills": [
+    "SQL",
+    "Python",
+    "Fundraising",
+    "Market Research",
+    "Product"
+  ],
+  "tools": [
+    "Excel",
+    "Notion",
+    "SQL",
+    "CRM"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Support founder initiatives",
+    "Cross-functional projects",
+    "Investor relations",
+    "Growth experiments"
+  ],
+  "keywords": [
+    "Strategy",
+    "Operations",
+    "Startup",
+    "Growth",
+    "Fundraising",
+    "Cross-functional",
+    "CEO Office"
+  ]
+}

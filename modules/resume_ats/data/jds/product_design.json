@@ -1,0 +1,50 @@
+{
+  "role_key": "PRODUCT_DESIGN",
+  "family": "PRODUCT_DESIGN",
+  "sub_roles": [
+    "APM",
+    "PM",
+    "UX",
+    "UI",
+    "Product Engineer"
+  ],
+  "required_skills": [
+    "Product Management",
+    "User Research",
+    "Roadmapping",
+    "Agile",
+    "Communication"
+  ],
+  "preferred_skills": [
+    "Figma",
+    "SQL",
+    "A/B Testing",
+    "Analytics",
+    "Prototyping"
+  ],
+  "tools": [
+    "Figma",
+    "Jira",
+    "Amplitude",
+    "Mixpanel"
+  ],
+  "frameworks": [
+    "React"
+  ],
+  "responsibilities": [
+    "Define product vision",
+    "Prioritize features",
+    "Work with engineering",
+    "User research and testing"
+  ],
+  "keywords": [
+    "Product Management",
+    "UX",
+    "UI",
+    "Figma",
+    "Agile",
+    "Roadmap",
+    "User Research",
+    "A/B Testing"
+  ]
+}

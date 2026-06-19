@@ -1,0 +1,49 @@
+{
+  "role_key": "MECHANICAL_MANUFACTURING",
+  "family": "MECHANICAL_MANUFACTURING",
+  "sub_roles": [
+    "Mechanical Design",
+    "CFD",
+    "FEA",
+    "Thermal",
+    "Materials",
+    "Manufacturing"
+  ],
+  "required_skills": [
+    "CAD",
+    "SolidWorks",
+    "Mechanical Design",
+    "Thermodynamics",
+    "Manufacturing Processes"
+  ],
+  "preferred_skills": [
+    "ANSYS",
+    "CFD",
+    "FEA",
+    "AutoCAD",
+    "GD&T"
+  ],
+  "tools": [
+    "SolidWorks",
+    "ANSYS",
+    "AutoCAD",
+    "MATLAB"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Design mechanical systems",
+    "Perform FEA/CFD analysis",
+    "Optimize manufacturing",
+    "Prototype testing"
+  ],
+  "keywords": [
+    "CAD",
+    "SolidWorks",
+    "FEA",
+    "CFD",
+    "Mechanical Design",
+    "Manufacturing",
+    "ANSYS",
+    "Thermal"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "role_key": "EDUCATION_EDTECH",
+  "family": "EDUCATION_EDTECH",
+  "sub_roles": [
+    "Faculty",
+    "SME",
+    "JEE",
+    "NEET",
+    "Instructional Design"
+  ],
+  "required_skills": [
+    "Teaching",
+    "Curriculum Design",
+    "Subject Matter Expertise",
+    "Communication"
+  ],
+  "preferred_skills": [
+    "EdTech",
+    "LMS",
+    "Assessment Design",
+    "Video Content"
+  ],
+  "tools": [
+    "LMS",
+    "Google Classroom",
+    "Zoom",
+    "Canva"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Design curriculum",
+    "Create learning content",
+    "Student assessment",
+    "EdTech product input"
+  ],
+  "keywords": [
+    "Teaching",
+    "Curriculum",
+    "EdTech",
+    "Instructional Design",
+    "Assessment",
+    "JEE",
+    "NEET"
+  ]
+}

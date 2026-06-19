@@ -1,0 +1,33 @@
+{
+  "Computer Science and Engineering": [
+    "SOFTWARE_ENGINEERING",
+    "AI_ML_DATA_SCIENCE",
+    "DATA_ENGINEERING_ANALYTICS",
+    "QUANT_FINANCE",
+    "PRODUCT_DESIGN",
+    "FOUNDERS_OFFICE"
+  ],
+  "Aerospace Engineering": ["AEROSPACE_DEFENCE", "ROBOTICS_AUTONOMOUS", "MECHANICAL_MANUFACTURING"],
+  "Biosciences and Bioengineering": ["CORE_SCIENCE_RND", "AI_ML_DATA_SCIENCE"],
+  "Chemical Engineering": ["CORE_SCIENCE_RND", "MECHANICAL_MANUFACTURING", "SUPPLY_CHAIN_OPERATIONS"],
+  "Chemistry": ["CORE_SCIENCE_RND"],
+  "Civil Engineering": ["CIVIL_INFRASTRUCTURE"],
+  "Earth Sciences": ["CORE_SCIENCE_RND", "CIVIL_INFRASTRUCTURE"],
+  "Economics": ["QUANT_FINANCE", "CONSULTING_STRATEGY"],
+  "Electrical Engineering": ["ELECTRICAL_ELECTRONICS", "AI_ML_DATA_SCIENCE", "ROBOTICS_AUTONOMOUS"],
+  "Energy Science and Engineering": ["MECHANICAL_MANUFACTURING", "ELECTRICAL_ELECTRONICS"],
+  "Environmental Science and Engineering": ["CIVIL_INFRASTRUCTURE", "CORE_SCIENCE_RND"],
+  "Humanities and Social Sciences": ["CONSULTING_STRATEGY", "EDUCATION_EDTECH"],
+  "Industrial Engineering and Operations Research": ["SUPPLY_CHAIN_OPERATIONS", "CONSULTING_STRATEGY", "DATA_ENGINEERING_ANALYTICS"],
+  "Mathematics": ["QUANT_FINANCE", "AI_ML_DATA_SCIENCE", "CORE_SCIENCE_RND"],
+  "Mechanical Engineering": ["MECHANICAL_MANUFACTURING", "ROBOTICS_AUTONOMOUS", "AEROSPACE_DEFENCE"],
+  "Metallurgical Engineering and Materials Science": ["MECHANICAL_MANUFACTURING", "CORE_SCIENCE_RND"],
+  "Physics": ["CORE_SCIENCE_RND", "AI_ML_DATA_SCIENCE", "QUANT_FINANCE"],
+  "IDC School of Design": ["PRODUCT_DESIGN", "GAMING_GRAPHICS"],
+  "CSRE": ["AI_ML_DATA_SCIENCE", "CORE_SCIENCE_RND"],
+  "CTARA": ["EDUCATION_EDTECH", "CONSULTING_STRATEGY"],
+  "C-MInDS": ["AI_ML_DATA_SCIENCE", "DATA_ENGINEERING_ANALYTICS"],
+  "Centre for Multidisciplinary Education": ["FOUNDERS_OFFICE", "CONSULTING_STRATEGY"],
+  "Centre for Educational Technology": ["EDUCATION_EDTECH", "PRODUCT_DESIGN"],
+  "Centre for Climate Studies": ["CORE_SCIENCE_RND", "CIVIL_INFRASTRUCTURE"]
+}

@@ -1,0 +1,1 @@
+"""Resume ATS database models."""

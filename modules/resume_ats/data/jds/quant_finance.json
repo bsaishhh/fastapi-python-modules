@@ -1,0 +1,51 @@
+{
+  "role_key": "QUANT_FINANCE",
+  "family": "QUANT_FINANCE",
+  "sub_roles": [
+    "Quant Research",
+    "Quant Developer",
+    "Trader",
+    "IB Analyst"
+  ],
+  "required_skills": [
+    "Python",
+    "C++",
+    "Statistics",
+    "Probability",
+    "Financial Modeling"
+  ],
+  "preferred_skills": [
+    "R",
+    "MATLAB",
+    "Time Series",
+    "Stochastic Calculus",
+    "Risk Models"
+  ],
+  "tools": [
+    "Bloomberg",
+    "Git",
+    "Linux",
+    "SQL"
+  ],
+  "frameworks": [
+    "NumPy",
+    "Pandas",
+    "QuantLib"
+  ],
+  "responsibilities": [
+    "Develop trading strategies",
+    "Build pricing models",
+    "Backtest algorithms",
+    "Analyze market data"
+  ],
+  "keywords": [
+    "Python",
+    "C++",
+    "Statistics",
+    "Quantitative",
+    "Derivatives",
+    "Risk",
+    "Backtesting",
+    "Financial Modeling"
+  ]
+}

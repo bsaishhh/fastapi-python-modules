@@ -1,0 +1,55 @@
+{
+  "role_key": "DATA_ENGINEER",
+  "family": "DATA_ENGINEERING_ANALYTICS",
+  "sub_roles": [
+    "Data Engineer",
+    "BI",
+    "Analytics",
+    "ETL",
+    "Data Platform"
+  ],
+  "required_skills": [
+    "Python",
+    "SQL",
+    "ETL",
+    "Data Pipelines",
+    "Spark"
+  ],
+  "preferred_skills": [
+    "Airflow",
+    "dbt",
+    "Kafka",
+    "Snowflake",
+    "BigQuery"
+  ],
+  "tools": [
+    "Apache Spark",
+    "Airflow",
+    "PostgreSQL",
+    "AWS",
+    "Docker"
+  ],
+  "frameworks": [
+    "PySpark",
+    "dbt",
+    "Pandas"
+  ],
+  "responsibilities": [
+    "Build data pipelines",
+    "Design data warehouses",
+    "Ensure data quality",
+    "Optimize ETL jobs"
+  ],
+  "keywords": [
+    "Python",
+    "SQL",
+    "Spark",
+    "Airflow",
+    "ETL",
+    "Data Pipeline",
+    "dbt",
+    "Kafka",
+    "AWS",
+    "Data Warehouse"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "SOFTWARE_ENGINEERING": {
+    "sub_roles": ["Backend", "Frontend", "Full Stack", "Mobile", "Platform", "DevOps", "SRE"],
+    "jd_file": "software_engineer.json"
+  },
+  "AI_ML_DATA_SCIENCE": {
+    "sub_roles": ["AI Engineer", "ML Engineer", "Data Scientist", "LLM Engineer", "Research Scientist", "GenAI Engineer"],
+    "jd_file": "ai_ml_engineer.json"
+  },
+  "DATA_ENGINEERING_ANALYTICS": {
+    "sub_roles": ["Data Engineer", "BI", "Analytics", "ETL", "Data Platform"],
+    "jd_file": "data_engineer.json"
+  },
+  "QUANT_FINANCE": {
+    "sub_roles": ["Quant Research", "Quant Developer", "Trader", "IB Analyst"],
+    "jd_file": "quant_finance.json"
+  },
+  "CONSULTING_STRATEGY": {
+    "sub_roles": ["Business Analyst", "Consultant", "Associate", "M&A", "Program Manager"],
+    "jd_file": "consulting_strategy.json"
+  },
+  "PRODUCT_DESIGN": {
+    "sub_roles": ["APM", "PM", "UX", "UI", "Product Engineer"],
+    "jd_file": "product_design.json"
+  },
+  "MECHANICAL_MANUFACTURING": {
+    "sub_roles": ["Mechanical Design", "CFD", "FEA", "Thermal", "Materials", "Manufacturing"],
+    "jd_file": "mechanical_manufacturing.json"
+  },
+  "ELECTRICAL_ELECTRONICS": {
+    "sub_roles": ["VLSI", "ASIC", "Embedded", "Firmware", "RF", "Power Electronics"],
+    "jd_file": "electrical_electronics.json"
+  },
+  "AEROSPACE_DEFENCE": {
+    "sub_roles": ["Avionics", "Propulsion", "GNC", "Structures", "Flight Testing"],
+    "jd_file": "aerospace_defence.json"
+  },
+  "CORE_SCIENCE_RND": {
+    "sub_roles": ["Physics", "Chemistry", "Math", "Research", "Operations Research"],
+    "jd_file": "core_science_rnd.json"
+  },
+  "CIVIL_INFRASTRUCTURE": {
+    "sub_roles": ["Structural", "Geotech", "BIM", "Construction"],
+    "jd_file": "civil_infrastructure.json"
+  },
+  "ROBOTICS_AUTONOMOUS": {
+    "sub_roles": ["Robotics", "Perception", "SLAM", "ROS", "Controls", "Automation", "Drones"],
+    "jd_file": "robotics_autonomous.json"
+  },
+  "FOUNDERS_OFFICE": {
+    "sub_roles": ["Growth", "CEO Office", "Strategy Ops", "Startup Generalist"],
+    "jd_file": "founders_office.json"
+  },
+  "EDUCATION_EDTECH": {
+    "sub_roles": ["Faculty", "SME", "JEE", "NEET", "Instructional Design"],
+    "jd_file": "education_edtech.json"
+  },
+  "GAMING_GRAPHICS": {
+    "sub_roles": ["Game Development", "Rendering", "Graphics", "3D Art"],
+    "jd_file": "gaming_graphics.json"
+  },
+  "SUPPLY_CHAIN_OPERATIONS": {
+    "sub_roles": ["SCM", "Logistics", "Procurement", "Planning", "Operations"],
+    "jd_file": "supply_chain_operations.json"
+  }
+}

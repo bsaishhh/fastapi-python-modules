@@ -1,0 +1,53 @@
+{
+  "role_key": "ROBOTICS_AUTONOMOUS",
+  "family": "ROBOTICS_AUTONOMOUS",
+  "sub_roles": [
+    "Robotics",
+    "Perception",
+    "SLAM",
+    "ROS",
+    "Controls",
+    "Automation",
+    "Drones"
+  ],
+  "required_skills": [
+    "ROS",
+    "Python",
+    "C++",
+    "Computer Vision",
+    "Control Systems"
+  ],
+  "preferred_skills": [
+    "SLAM",
+    "OpenCV",
+    "PyTorch",
+    "Gazebo",
+    "Motion Planning"
+  ],
+  "tools": [
+    "ROS",
+    "Gazebo",
+    "OpenCV",
+    "Docker"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "OpenCV"
+  ],
+  "responsibilities": [
+    "Build autonomous systems",
+    "Perception and SLAM",
+    "Robot control",
+    "Sensor integration"
+  ],
+  "keywords": [
+    "ROS",
+    "SLAM",
+    "Computer Vision",
+    "Robotics",
+    "OpenCV",
+    "Control Systems",
+    "Autonomous",
+    "Drones"
+  ]
+}

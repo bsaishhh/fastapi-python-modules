@@ -1,0 +1,47 @@
+{
+  "role_key": "CIVIL_INFRASTRUCTURE",
+  "family": "CIVIL_INFRASTRUCTURE",
+  "sub_roles": [
+    "Structural",
+    "Geotech",
+    "BIM",
+    "Construction"
+  ],
+  "required_skills": [
+    "Structural Analysis",
+    "AutoCAD",
+    "STAAD",
+    "Concrete Design",
+    "Surveying"
+  ],
+  "preferred_skills": [
+    "Revit",
+    "BIM",
+    "ETABS",
+    "SAP2000",
+    "Geotechnical"
+  ],
+  "tools": [
+    "AutoCAD",
+    "Revit",
+    "STAAD Pro",
+    "ETABS"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Structural design",
+    "BIM modeling",
+    "Site supervision",
+    "Infrastructure planning"
+  ],
+  "keywords": [
+    "Structural",
+    "BIM",
+    "AutoCAD",
+    "Revit",
+    "Construction",
+    "Geotech",
+    "STAAD",
+    "Infrastructure"
+  ]
+}

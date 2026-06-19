@@ -1,0 +1,46 @@
+{
+  "role_key": "GAMING_GRAPHICS",
+  "family": "GAMING_GRAPHICS",
+  "sub_roles": [
+    "Game Development",
+    "Rendering",
+    "Graphics",
+    "3D Art"
+  ],
+  "required_skills": [
+    "C++",
+    "Unity",
+    "Unreal Engine",
+    "Game Design",
+    "3D Graphics"
+  ],
+  "preferred_skills": [
+    "OpenGL",
+    "Vulkan",
+    "Blender",
+    "Shader Programming"
+  ],
+  "tools": [
+    "Unity",
+    "Unreal Engine",
+    "Blender",
+    "Git"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Game development",
+    "Graphics rendering",
+    "Gameplay programming",
+    "Performance optimization"
+  ],
+  "keywords": [
+    "Unity",
+    "Unreal Engine",
+    "C++",
+    "Game Development",
+    "Rendering",
+    "OpenGL",
+    "3D",
+    "Graphics"
+  ]
+}

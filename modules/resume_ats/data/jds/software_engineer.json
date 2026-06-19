@@ -1,0 +1,61 @@
+{
+  "role_key": "SOFTWARE_ENGINEER",
+  "family": "SOFTWARE_ENGINEERING",
+  "sub_roles": [
+    "Backend",
+    "Frontend",
+    "Full Stack",
+    "Mobile",
+    "Platform",
+    "DevOps",
+    "SRE"
+  ],
+  "required_skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "Data Structures",
+    "Algorithms",
+    "System Design"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "React",
+    "Go",
+    "Microservices",
+    "CI/CD"
+  ],
+  "tools": [
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "frameworks": [
+    "FastAPI",
+    "Django",
+    "Spring",
+    "React",
+    "Node.js"
+  ],
+  "responsibilities": [
+    "Build scalable backend services",
+    "Design REST APIs",
+    "Write clean maintainable code",
+    "Participate in code reviews"
+  ],
+  "keywords": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "REST API",
+    "Microservices",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
+    "System Design",
+    "CI/CD"
+  ]
+}

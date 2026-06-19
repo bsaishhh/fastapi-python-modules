@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ATS Resume Analyzer — Test UI</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #1e293b;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --good: #4ade80;
+      --warn: #fbbf24;
+      --bad: #f87171;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, Segoe UI, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #111827);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 24px; }
+    h1 { margin: 0 0 8px; font-size: 1.8rem; }
+    .sub { color: var(--muted); margin-bottom: 16px; }
+    .badges { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+    .badge {
+      font-size: 0.75rem;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: #334155;
+      color: var(--muted);
+    }
+    .badge.ok { background: #14532d; color: var(--good); }
+    .badge.err { background: #450a0a; color: var(--bad); }
+    .grid { display: grid; grid-template-columns: 380px 1fr; gap: 20px; }
+    @media (max-width: 960px) { .grid { grid-template-columns: 1fr; } }
+    .card {
+      background: var(--panel);
+      border: 1px solid #334155;
+      border-radius: 14px;
+      padding: 18px;
+    }
+    label { display: block; font-size: 0.85rem; color: var(--muted); margin-bottom: 6px; }
+    input, select, button {
+      width: 100%;
+      border-radius: 10px;
+      border: 1px solid #475569;
+      background: #0b1220;
+      color: var(--text);
+      padding: 10px 12px;
+      font-size: 0.95rem;
+    }
+    button {
+      cursor: pointer;
+      background: var(--accent);
+      color: #082f49;
+      font-weight: 600;
+      border: none;
+      margin-top: 8px;
+    }
+    button.secondary { background: #334155; color: var(--text); }
+    button.primary { background: #2563eb; color: white; }
+    button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .actions { display: grid; gap: 8px; margin-top: 14px; }
+    .status {
+      margin-top: 12px;
+      font-size: 0.9rem;
+      color: var(--muted);
+      min-height: 22px;
+      white-space: pre-wrap;
+    }
+    .section { margin-bottom: 18px; }
+    .section h3 { margin: 0 0 8px; font-size: 1rem; display: flex; align-items: center; gap: 8px; }
+    ul { margin: 0; padding-left: 18px; }
+    li { margin-bottom: 6px; line-height: 1.4; }
+    .pill {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      background: #334155;
+      color: var(--muted);
+      margin-right: 6px;
+      margin-bottom: 4px;
+    }
+    pre {
+      background: #0b1220;
+      border: 1px solid #334155;
+      border-radius: 10px;
+      padding: 12px;
+      overflow: auto;
+      max-height: 360px;
+      font-size: 0.78rem;
+      line-height: 1.45;
+      margin: 0;
+    }
+    .tag-good { color: var(--good); margin: 12px 0 6px; }
+    .tag-bad { color: var(--bad); margin: 12px 0 6px; }
+    .tag-warn { color: var(--warn); margin: 12px 0 6px; }
+    .score-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 10px;
+      margin: 12px 0 16px;
+    }
+    .score-card {
+      background: #0b1220;
+      border: 1px solid #334155;
+      border-radius: 10px;
+      padding: 10px;
+      text-align: center;
+    }
+    .score-card .val { font-size: 1.5rem; font-weight: 700; color: var(--accent); }
+    .score-card .lbl { font-size: 0.72rem; color: var(--muted); margin-top: 4px; }
+    .score-card.overall .val { color: var(--good); font-size: 2rem; }
+    .tabs { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
+    .tab {
+      width: auto;
+      padding: 6px 12px;
+      font-size: 0.82rem;
+      margin: 0;
+      background: #334155;
+      color: var(--text);
+    }
+    .tab.active { background: var(--accent); color: #082f49; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>ATS Resume Analyzer</h1>
+    <p class="sub">Test extraction, LLM feedback, and MongoDB persistence through the FastAPI backend.</p>
+
+    <div class="badges">
+      <span id="healthBadge" class="badge">API: checking...</span>
+      <span id="mongoBadge" class="badge">MongoDB: unknown</span>
+      <span id="llmBadge" class="badge">OpenRouter: unknown</span>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="section">
+          <label for="resumeFile">Resume PDF</label>
+          <input id="resumeFile" type="file" accept="application/pdf,.pdf" />
+        </div>
+
+        <div class="section">
+          <label for="role">Benchmark Role</label>
+          <select id="role">
+            <option>Loading roles...</option>
+          </select>
+        </div>
+
+        <div class="section">
+          <label for="bearerToken">Resume Extraction Bearer Token</label>
+          <input id="bearerToken" type="password" placeholder="Paste bearer token for extract-text API" />
+        </div>
+
+        <div class="actions">
+          <button id="btnFull" class="primary">Run Full Pipeline (Extract + Analyze)</button>
+          <button id="btnExtract">1. Extract Only</button>
+          <button id="btnAnalyze" class="secondary">2. LLM Analyze / Feedback</button>
+          <button id="btnDomain" class="secondary">Domain Detect</button>
+          <button id="btnResults" class="secondary">Load Saved Results (MongoDB)</button>
+        </div>
+
+        <div id="status" class="status">Ready. Start the server with: uvicorn app.main:app --reload</div>
+      </div>
+
+      <div class="card">
+        <div class="tabs">
+          <button class="tab active" data-tab="analysis">Analysis</button>
+          <button class="tab" data-tab="extraction">Extraction</button>
+          <button class="tab" data-tab="saved">Saved Results</button>
+          <button class="tab" data-tab="raw">Raw JSON</button>
+        </div>
+
+        <div id="panel-analysis">
+          <div class="section">
+            <h3>ATS Scores + LLM Feedback <span id="analysisMeta" class="pill"></span></h3>
+            <div id="analysisOut">Upload a PDF and click <strong>Run Full Pipeline</strong> or <strong>LLM Analyze</strong>.</div>
+          </div>
+        </div>
+
+        <div id="panel-extraction" class="hidden">
+          <div class="section">
+            <h3>Extracted Resume Text <span id="extractMeta" class="pill"></span></h3>
+            <pre id="extractOut">No extraction yet.</pre>
+          </div>
+        </div>
+
+        <div id="panel-saved" class="hidden">
+          <div class="section">
+            <h3>MongoDB — domain-analysis collection</h3>
+            <pre id="resultsOut">Click "Load Saved Results" to fetch recent analyses.</pre>
+          </div>
+        </div>
+
+        <div id="panel-raw" class="hidden">
+          <div class="section">
+            <h3>Last API Response</h3>
+            <pre id="rawOut">{}</pre>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API = "/api/v1/resume";
+    const statusEl = document.getElementById("status");
+    const extractOut = document.getElementById("extractOut");
+    const analysisOut = document.getElementById("analysisOut");
+    const resultsOut = document.getElementById("resultsOut");
+    const rawOut = document.getElementById("rawOut");
+    const extractMeta = document.getElementById("extractMeta");
+    const analysisMeta = document.getElementById("analysisMeta");
+
+    let lastResponse = {};
+
+    function setStatus(msg, isError = false) {
+      statusEl.textContent = msg;
+      statusEl.style.color = isError ? "#f87171" : "#94a3b8";
+    }
+
+    function setBadge(id, text, ok) {
+      const el = document.getElementById(id);
+      el.textContent = text;
+      el.className = "badge " + (ok ? "ok" : "err");
+    }
+
+    async function checkHealth() {
+      try {
+        const res = await fetch("/health");
+        const data = await res.json();
+        setBadge("healthBadge", "API: ok", true);
+        setBadge("mongoBadge", "MongoDB: " + (data.mongo_configured ? "configured" : "missing URI"), data.mongo_configured);
+        setBadge("llmBadge", "OpenRouter: " + (data.openrouter_configured ? "configured" : "missing key"), data.openrouter_configured);
+      } catch {
+        setBadge("healthBadge", "API: offline", false);
+        setBadge("mongoBadge", "MongoDB: unknown", false);
+        setBadge("llmBadge", "OpenRouter: unknown", false);
+      }
+    }
+
+    async function loadRolesForSelect() {
+      try {
+        const res = await fetch(`${API}/roles/jds`);
+        const data = await res.json();
+        if (!res.ok) throw new Error(parseError(data));
+        const sel = document.getElementById("role");
+        sel.innerHTML = "";
+        (data.jds || []).forEach(r => {
+          const opt = document.createElement("option");
+          opt.value = r;
+          opt.textContent = r.replace(/_/g, " ");
+          sel.appendChild(opt);
+        });
+        if ((data.jds || []).length === 0) {
+          const opt = document.createElement("option");
+          opt.value = "SOFTWARE_ENGINEER";
+          opt.textContent = "SOFTWARE_ENGINEER";
+          sel.appendChild(opt);
+        }
+      } catch (e) {
+        console.warn("Failed to load JD roles:", e);
+        // Fallback: add a default option
+        const sel = document.getElementById("role");
+        const opt = document.createElement("option");
+        opt.value = "SOFTWARE_ENGINEER";
+        opt.textContent = "SOFTWARE_ENGINEER";
+        sel.appendChild(opt);
+      }
+    }
+
+    function getFile() {
+      const file = document.getElementById("resumeFile").files[0];
+      if (!file) throw new Error("Please choose a PDF resume first.");
+      return file;
+    }
+
+    function getRole() {
+      return document.getElementById("role").value;
+    }
+
+    function getBearerToken() {
+      return document.getElementById("bearerToken").value.trim();
+    }
+
+    function parseError(data) {
+      if (typeof data.detail === "string") return data.detail;
+      if (Array.isArray(data.detail)) return data.detail.map(d => d.msg || JSON.stringify(d)).join("; ");
+      return JSON.stringify(data);
+    }
+
+    async function postForm(path, file, extra = {}) {
+      const form = new FormData();
+      form.append("resume_file", file);
+      const bearerToken = getBearerToken();
+      if (bearerToken) form.append("bearer_token", bearerToken);
+      Object.entries(extra).forEach(([k, v]) => {
+        if (v !== null && v !== undefined) form.append(k, v);
+      });
+      const res = await fetch(`${API}${path}`, { method: "POST", body: form });
+      const data = await res.json();
+      if (!res.ok) throw new Error(parseError(data));
+      lastResponse = data;
+      rawOut.textContent = JSON.stringify(data, null, 2);
+      return data;
+    }
+
+    function showTab(name) {
+      ["analysis", "extraction", "saved", "raw"].forEach(t => {
+        document.getElementById("panel-" + t).classList.toggle("hidden", t !== name);
+        document.querySelector(`.tab[data-tab="${t}"]`).classList.toggle("active", t === name);
+      });
+    }
+
+    document.querySelectorAll(".tab").forEach(btn => {
+      btn.onclick = () => showTab(btn.dataset.tab);
+    });
+
+    function renderExtraction(data) {
+      extractMeta.textContent = data.extraction_id || "";
+      extractOut.textContent = data.extracted_text || JSON.stringify(data, null, 2);
+    }
+
+    function renderScores(data) {
+      if (data.overall_score === undefined) return "";
+      return `
+        <div class="score-grid">
+          <div class="score-card overall"><div class="val">${data.overall_score}<span style="font-size:1rem;color:var(--muted)">/100</span></div><div class="lbl">Overall Score</div></div>
+          <div class="score-card"><div class="val">${data.semantic_score ?? "-"}<span style="font-size:0.8rem;color:var(--muted)">/100</span></div><div class="lbl">Semantic (nbk)</div></div>
+          <div class="score-card"><div class="val">${data.keyword_score ?? "-"}<span style="font-size:0.8rem;color:var(--muted)">/100</span></div><div class="lbl">TF-IDF</div></div>
+          <div class="score-card"><div class="val">${data.jaccard_score ?? "-"}<span style="font-size:0.8rem;color:var(--muted)">/100</span></div><div class="lbl">Jaccard</div></div>
+          <div class="score-card"><div class="val">${data.exact_keyword_score ?? "-"}<span style="font-size:0.8rem;color:var(--muted)">/100</span></div><div class="lbl">Exact Keywords</div></div>
+          <div class="score-card"><div class="val">${data.domain_score ?? "-"}<span style="font-size:0.8rem;color:var(--muted)">/100</span></div><div class="lbl">Domain Match</div></div>
+        </div>
+        <p><span class="pill">model: ${escapeHtml(data.embedding_model || "0xnbk/nbk-ats-semantic-v1-en")}</span>
+           <span class="pill">scoring: ${escapeHtml(data.scoring_version || "-")}</span></p>
+      `;
+    }
+
+    function renderAnalysis(data) {
+      const analysis = data.analysis || {};
+      const view = data.data || {};
+      const scoreBreakdown = view.scoreBreakdown || analysis.scoreBreakdown || {};
+      const strengths = data.strengths || analysis.strengths || view.strengths || [];
+      const improvement = data.areas_of_improvement || analysis.areasOfImprovement || view.areasOfImprovement || [];
+      const missing = data.critical_missing_keywords || analysis.criticalMissingKeywords || view.criticalMissingKeywords || [];
+      const actions = data.action_plan || analysis.actionPlan || view.actionPlan || [];
+      analysisMeta.textContent = data.role || "";
+      analysisOut.innerHTML = `
+        ${renderScores(data)}
+        <p>
+          <span class="pill">resume_id: ${data.resume_id || "-"}</span>
+          <span class="pill">extraction_id: ${data.extraction_id || "-"}</span>
+          <span class="pill">analysis_id: ${data.analysis_id || "-"}</span>
+        </p>
+        <h4 style="color: var(--accent); margin: 12px 0 6px;">Best-Fit Subrole(s)</h4>
+        <div style="margin-bottom: 12px; display: flex; gap: 6px; flex-wrap: wrap;">
+          ${(data.best_fit_subroles || []).map(s => `<span class="badge ok" style="font-size: 0.85rem;">${escapeHtml(s)}</span>`).join("") || "<span class='badge'>Generalist</span>"}
+        </div>
+        <h4 style="margin: 8px 0 6px;">Supplied Role Assessment</h4>
+        <p>${escapeHtml(data.supplied_role_assessment || "")} <span class="pill">Fit: ${data.supplied_role_fit_score ?? "-"}/100</span></p>
+        <h4 style="margin: 8px 0 6px;">Recommended Primary Role</h4>
+        <p><span class="badge ok">${escapeHtml(data.recommended_primary_role || "-")}</span>
+        ${(data.recommended_secondary_roles || []).map(r => `<span class="badge" style="margin-left:8px">${escapeHtml(r)}</span>`).join(" ")}</p>
+        <h4 style="margin: 12px 0 6px;">Top 5 Best-Fit Roles (global)</h4>
+        <ul>
+          ${(data.top_5_best_fit_roles || []).map(r => `<li><strong>${escapeHtml(r.role_key)}</strong> — ${r.fit_score}/100 — ${escapeHtml(r.role_family || "")}<br/><em>${escapeHtml(r.reasoning || "")}</em></li>`).join("")}
+        </ul>
+        <h4 style="margin: 12px 0 6px;">Response Summary</h4>
+        <p>
+          <span class="pill">score level: ${escapeHtml(view.scoreLevel?.level || "-")}</span>
+          <span class="pill">processing: ${view.processingTimeMs ?? "-"} ms</span>
+          <span class="pill">request: ${escapeHtml(data.requestId || "-")}</span>
+        </p>
+        <h4 style="margin: 12px 0 6px;">Score Breakdown</h4>
+        <ul>
+          <li>Keyword Match: ${scoreBreakdown.keywordMatch?.score ?? "-"} / ${scoreBreakdown.keywordMatch?.maxScore ?? "-"}</li>
+          <li>Formatting: ${scoreBreakdown.formatting?.score ?? "-"} / ${scoreBreakdown.formatting?.maxScore ?? "-"}</li>
+          <li>Section Structure: ${scoreBreakdown.sectionStructure?.score ?? "-"} / ${scoreBreakdown.sectionStructure?.maxScore ?? "-"}</li>
+          <li>Content Quality: ${scoreBreakdown.contentQuality?.score ?? "-"} / ${scoreBreakdown.contentQuality?.maxScore ?? "-"}</li>
+        </ul>
+        <h4 class="tag-good">Strengths</h4>
+        <ul>${strengths.map(s => `<li>${escapeHtml(s)}</li>`).join("") || "<li>None</li>"}</ul>
+        <h4 class="tag-bad">Areas of Improvement</h4>
+        <ul>${improvement.map(s => `<li>${escapeHtml(s)}</li>`).join("") || "<li>None</li>"}</ul>
+        <h4 class="tag-warn">Critical Missing Keywords</h4>
+        <ul>${missing.map(s => `<li>${escapeHtml(s)}</li>`).join("") || "<li>None</li>"}</ul>
+        <h4>Action Plan</h4>
+        <ul>${actions.map(item => `<li>${escapeHtml(typeof item === "string" ? item : `${item.priority || "Priority"}: ${item.action || ""}${item.impact ? ` — ${item.impact}` : ""}`)}</li>`).join("") || "<li>None</li>"}</ul>
+      `;
+    }
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function setLoading(loading) {
+      ["btnFull", "btnExtract", "btnAnalyze", "btnDomain", "btnResults"].forEach(id => {
+        document.getElementById(id).disabled = loading;
+      });
+    }
+
+    document.getElementById("btnExtract").onclick = async () => {
+      try {
+        setLoading(true);
+        setStatus("Extracting PDF text and saving to MongoDB...");
+        const data = await postForm("/extract", getFile(), { role: getRole() });
+        renderExtraction(data);
+        showTab("extraction");
+        setStatus("Done. Saved extracted text and linked it to the selected role.");
+      } catch (e) {
+        setStatus(e.message, true);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    document.getElementById("btnAnalyze").onclick = async () => {
+      try {
+        setLoading(true);
+        setStatus("Running deterministic scorers + OpenRouter LLM analysis...");
+        const data = await postForm("/feedback", getFile(), { role: getRole() });
+        renderExtraction(data);
+        renderAnalysis(data);
+        showTab("analysis");
+        setStatus("Done. Analysis saved to domain-analysis collection.");
+      } catch (e) {
+        setStatus(e.message, true);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    document.getElementById("btnFull").onclick = async () => {
+      try {
+        setLoading(true);
+        setStatus("Step 1/2: Extracting resume...");
+        const file = getFile();
+        const role = getRole();
+        const extracted = await postForm("/extract", file, { role });
+        renderExtraction(extracted);
+        setStatus("Step 2/2: Running semantic/TF-IDF/Jaccard scorers + LLM feedback...");
+        const analyzed = await postForm("/feedback", file, { role });
+        renderAnalysis(analyzed);
+        showTab("analysis");
+        setStatus("Full pipeline complete. Data saved to MongoDB.");
+      } catch (e) {
+        setStatus(e.message, true);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    document.getElementById("btnDomain").onclick = async () => {
+      try {
+        setLoading(true);
+        setStatus("Running domain detection...");
+        const data = await postForm("/domain-detect", getFile(), { role: getRole() });
+        analysisOut.innerHTML = `<pre>${escapeHtml(JSON.stringify(data, null, 2))}</pre>`;
+        showTab("analysis");
+        setStatus("Domain detect complete.");
+      } catch (e) {
+        setStatus(e.message, true);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    document.getElementById("btnResults").onclick = async () => {
+      try {
+        setLoading(true);
+        setStatus("Loading from MongoDB domain-analysis collection...");
+        const res = await fetch(`${API}/results?limit=15`);
+        const data = await res.json();
+        if (!res.ok) throw new Error(parseError(data));
+        lastResponse = data;
+        rawOut.textContent = JSON.stringify(data, null, 2);
+        resultsOut.textContent = JSON.stringify(data, null, 2);
+        showTab("saved");
+        setStatus(`Loaded ${data.count || 0} saved analyses.`);
+      } catch (e) {
+        setStatus(e.message, true);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    checkHealth();
+    loadRolesForSelect();
+  </script>
+</body>
+</html>

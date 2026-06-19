@@ -1,0 +1,46 @@
+{
+  "role_key": "CONSULTING_STRATEGY",
+  "family": "CONSULTING_STRATEGY",
+  "sub_roles": [
+    "Business Analyst",
+    "Consultant",
+    "Associate",
+    "M&A",
+    "Program Manager"
+  ],
+  "required_skills": [
+    "Problem Solving",
+    "Excel",
+    "PowerPoint",
+    "Business Analysis",
+    "Communication"
+  ],
+  "preferred_skills": [
+    "SQL",
+    "Python",
+    "Financial Modeling",
+    "Market Research"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "SQL"
+  ],
+  "frameworks": [],
+  "responsibilities": [
+    "Conduct market analysis",
+    "Develop strategic recommendations",
+    "Client presentations",
+    "Data-driven insights"
+  ],
+  "keywords": [
+    "Strategy",
+    "Consulting",
+    "Business Analysis",
+    "Excel",
+    "PowerPoint",
+    "Market Research",
+    "Financial Modeling"
+  ]
+}
