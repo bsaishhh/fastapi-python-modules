@@ -2,7 +2,10 @@ import pytest
 
 from modules.resume_ats.contracts import ResumeEntities, StructuredResume
 from modules.resume_ats.data.jd_loader import load_jd
+from modules.resume_ats.domain_classifier.classifier import DomainClassifier
+from modules.resume_ats.entities.extractor import EntityExtractor
 from modules.resume_ats.scoring.orchestrator import ScoringOrchestrator
+from modules.resume_ats.services.resume_service import _build_score_breakdown, _build_weighted_overall_score
 
 
 
@@ -184,3 +187,78 @@ def test_resume_quality_score_independent_of_jd():
     assert hq_score > lq_score
     assert hq_score >= 50
     assert lq_score < 50
+
+
+def test_consulting_resume_detects_synonyms_and_required_skills():
+    resume: StructuredResume = {
+        "profile": {
+            "summary": "Business Analyst with strategy and manufacturing optimization experience. "
+                       "Built an AI classification project and digital twin strategy recommendations."
+        },
+        "education": [{"degree": "B.Tech", "school": "IIT"}],
+        "experience": [
+            {
+                "company": "Accenture",
+                "title": "Business Analyst",
+                "start_date": "2022",
+                "end_date": "2024",
+                "bullets": [
+                    "Created market analysis and strategy recommendations for client engagements",
+                    "Managed 200+ people during public events and led embassy negotiations",
+                    "Delivered client presentations using MS Office and mentored junior students",
+                    "Drove cost reduction and manufacturing optimization initiatives",
+                ],
+            }
+        ],
+        "projects": [
+            {
+                "name": "AI Classification Project",
+                "description": "Built a Python classification workflow and digital twin strategy for manufacturing optimization",
+                "technologies": ["Python", "AWS"],
+            }
+        ],
+        "skills": ["Python", "AWS", "MATLAB", "MS Office", "Strategy", "Leadership"],
+        "achievements": ["Head of Proshows", "Debate award winner", "Mentor for student teams"],
+        "certifications": [],
+        "publications": [],
+    }
+
+    extractor = EntityExtractor()
+    entities = extractor.extract(resume)
+    jd = load_jd("CONSULTING_STRATEGY")
+    result = ScoringOrchestrator().score(resume, entities, jd)
+    best_role = DomainClassifier().suggest_best_role(entities, resume=resume)["best_role"]
+
+    assert best_role == "CONSULTING_STRATEGY"
+    assert result["detected_domain"] == "CONSULTING_STRATEGY"
+    assert result["domain_score"] >= 80
+    assert result["skill_depth_score"] >= 40
+
+    critical_missing = set(result["missing_keyword_severity"]["critical"])
+    assert "Business Analysis" not in critical_missing
+    assert "Problem Solving" not in critical_missing
+    assert "Communication" not in critical_missing
+    assert "Excel" not in critical_missing
+    assert "PowerPoint" not in critical_missing
+
+    optional_missing = set(result["missing_keyword_severity"]["optional"])
+    assert "SQL" not in optional_missing
+
+
+def test_weighted_overall_score_follows_visible_breakdown():
+    scores = {
+        "keyword_score": 20,
+        "exact_keyword_score": 20,
+        "domain_score": 20,
+        "resume_quality_score": 100,
+        "semantic_score": 80,
+        "experience_score": 80,
+        "skill_depth_score": 80,
+    }
+
+    breakdown = _build_score_breakdown(scores)
+    overall = _build_weighted_overall_score(breakdown)
+
+    assert breakdown["keywordMatch"]["score"] == 2
+    assert breakdown["formatting"]["score"] == 10
+    assert overall < 75

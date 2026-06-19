@@ -13,6 +13,7 @@ async def feedback(
     resume_file: UploadFile = File(...),
     role: str = Form(..., examples=["AI_ML_ENGINEER"]),
     bearer_token: str | None = Form(default=None),
+    custom_jd: str | None = Form(default=None, description="Custom job description text (optional)"),
 ) -> ATSAnalysisResponse:
     if not resume_file.filename or not resume_file.filename.lower().endswith(".pdf"):
         raise ValidationError("Only PDF resume files are supported")
@@ -25,5 +26,6 @@ async def feedback(
         filename=resume_file.filename,
         role=role,
         bearer_token=bearer_token,
+        custom_jd=custom_jd,
     )
     return ATSAnalysisResponse(**result)

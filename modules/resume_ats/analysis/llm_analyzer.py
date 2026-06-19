@@ -25,35 +25,53 @@ You will receive:
 
 CRITICAL EVALUATION RULES:
 
-1. Evidence-Based Only
+1. Evidence-Based Only - NO HALLUCINATIONS
    - Do NOT hallucinate experience, skills, or projects not explicitly stated in the resume.
+   - Do NOT infer industries from generic words (e.g., "management" does not imply "healthcare management").
    - Consider common abbreviations and synonyms (e.g., "ML" = "Machine Learning", "HF" = "Hugging Face", "PyTorch transformers" ≡ "Transformers").
    - Extract year counts, project impact, and leadership indicators from the resume.
+   - If evidence is missing, state it as missing - do not infer it.
 
 2. Precise Skill Matching
    - Match resume skills to JD required skills with HIGH precision.
    - Differentiate between "exposure" (mentioned once in project) vs "proficiency" (multiple projects/years of experience).
    - Flag missing critical skills that are CORE to the role.
    - Do NOT penalize for missing optional/preferred skills unless they indicate a significant domain gap.
+   - Link missing evidence directly to missing keywords.
 
 3. Domain Depth Assessment
    - Evaluate whether the candidate demonstrates depth in the required domain.
    - Consider: years of experience in domain, complexity of projects, breadth of skill coverage.
    - Example: 5 years Python experience with ML projects = stronger match than 1 year Python with random projects.
+   - Penalize roles with insufficient direct evidence.
 
 4. Subrole Alignment
    - Identify 1-2 specific subroles where the candidate excels based on their experience trajectory.
    - Example: Resume shows "Backend API development + DevOps automation" → "Backend Engineer" or "DevOps Engineer".
    - Do NOT suggest subroles unsupported by evidence.
+   - Maximum 2 subroles recommended.
 
 5. Critical vs. Important Keywords
    - CRITICAL: Must-have skills for role success (e.g., Python for AI_ML_ENGINEER).
    - IMPORTANT: High-value optional skills (e.g., Docker for AI_ML_ENGINEER).
    - OPTIONAL: Nice-to-have (e.g., Kubernetes for AI_ML_ENGINEER).
    - Only flag CRITICAL missing keywords in output.
+   - Always return critical missing skills if they are missing.
+
+6. Scoring Rules
+   - Do NOT give 100/100 scores unless evidence is overwhelming and explicit.
+   - Maximum score should be 95 unless exceptional evidence is present.
+   - Use explainable scoring weights in your reasoning.
+   - Role-specific mandatory skill checks: if mandatory skills are missing, significantly reduce score.
+
+7. Output Quality
+   - Remove all markdown artifacts (no **, *, ##, etc.)
+   - Use plain text for all outputs
+   - Be concise and specific
 
 OUTPUT JSON SCHEMA:
 {
+  "overall_score": 0,
   "best_fit_subroles": ["Subrole1", "Subrole2"],
   "strengths": ["Evidence-based strength 1", "Evidence-based strength 2", ...],
   "areas_of_improvement": ["Gap or weakness 1", ...],
@@ -69,6 +87,15 @@ OUTPUT JSON SCHEMA:
 }
 
 GENERATION GUIDELINES:
+
+Overall Score (0-100):
+- This is the FINAL score used by the system.
+- Assign it using semantic reasoning and evidence from the full resume, not naive keyword counting.
+- Reward demonstrated leadership, consulting signals, business analysis evidence, communication, ownership, and domain-fit when clearly supported by the resume.
+- Do not over-penalize resumes that use equivalent phrasing instead of exact JD keywords.
+- Use this final score as a holistic ATS + role-fit judgment for the supplied role.
+- MAXIMUM 95 unless overwhelming evidence is present.
+- If critical mandatory skills are missing, score should not exceed 70.
 
 Strengths (3-8):
 - Start with most important JD requirement evidence.
@@ -95,6 +122,7 @@ Subrole Guidelines:
 - Example for SOFTWARE_ENGINEERING (subroles: Backend, Frontend, Full Stack, Mobile, Platform, DevOps, SRE):
   * Resume shows "5 years backend APIs + database design" → "Backend Engineer" (primary), "Platform Engineer" (secondary).
 - If experience doesn't clearly map to any subrole, suggest "Generalist".
+- MAXIMUM 2 subroles - no more.
 
 DOMAIN-SPECIFIC EVALUATION CRITERIA:
 
@@ -111,7 +139,8 @@ Evaluate the resume STRICTLY against the supplied role only. Assess how well the
 
 
 class ATSAnalysis(BaseModel):
-    best_fit_subroles: list[str] = Field(..., description="Best-fit specific subroles within the selected cluster")
+    overall_score: int = Field(..., ge=0, le=95, description="Final holistic score assigned by the LLM (max 95 unless overwhelming evidence)")
+    best_fit_subroles: list[str] = Field(..., max_length=2, description="Best-fit specific subroles within the selected cluster (max 2)")
     strengths: list[str] = Field(..., description="Strengths identified from resume")
     areas_of_improvement: list[str] = Field(..., description="Most important gaps identified against role benchmark")
     critical_missing_keywords: list[str] = Field(..., description="Most important missing keywords")
@@ -204,9 +233,22 @@ class LLMAnalyzer:
         ]
 
         return ATSAnalysis(
+            overall_score=_fallback_overall_score(strengths, areas_of_improvement, missing),
             best_fit_subroles=["Generalist"],
             strengths=strengths,
             areas_of_improvement=areas_of_improvement,
             critical_missing_keywords=missing[:5],
             action_plan=action_plan,
         )
+
+
+def _fallback_overall_score(
+    strengths: list[str],
+    areas_of_improvement: list[str],
+    missing: list[str],
+) -> int:
+    base = 72
+    base += min(12, len(strengths) * 4)
+    base -= min(18, len(areas_of_improvement) * 3)
+    base -= min(15, len(missing) * 2)
+    return max(35, min(92, base))

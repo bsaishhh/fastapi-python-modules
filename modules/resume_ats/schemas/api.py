@@ -86,7 +86,7 @@ class ScoreLevelSchema(BaseModel):
 
 
 class AnalysisDataSchema(BaseModel):
-    overallScore: int
+    llm_overall_score: int
     scoreLevel: ScoreLevelSchema
     scoreBreakdown: AnalysisScoreBreakdownSchema
     strengths: list[str] = Field(default_factory=list)
@@ -103,7 +103,6 @@ class ATSAnalysisResponse(BaseModel):
 
     success: bool = True
     cached: bool = False
-    analysis: AnalysisSectionSchema
     data: AnalysisDataSchema
     timestamp: str
     requestId: str
@@ -112,35 +111,11 @@ class ATSAnalysisResponse(BaseModel):
     analysis_id: str | None = None
     role: str
     analysis_version: str
-    overall_score: int
-    semantic_score: int
-    keyword_score: int
-    bm25_score: int = 0
-    jaccard_score: int = 0
-    exact_keyword_score: int
-    domain_score: int
-    experience_score: int = 0
-    skill_depth_score: int = 0
-    resume_quality_score: int = 0
-    domain_boost: float = 0.0
-    missing_keyword_severity: MissingKeywordSeveritySchema = Field(
-        default_factory=MissingKeywordSeveritySchema
-    )
     detected_domain: str | None = None
     scoring_version: str
-    embedding_model: str | None = None
-    strengths: list[str] = Field(default_factory=list)
-    areas_of_improvement: list[str] = Field(default_factory=list)
-    critical_missing_keywords: list[str] = Field(default_factory=list)
-    action_plan: list[Any] = Field(default_factory=list)
-    # Global role-fit recommendations
-    supplied_role_fit_score: int | None = None
-    supplied_role_assessment: str | None = None
-    top_5_best_fit_roles: list[dict] | None = None
-    top_10_best_fit_roles: list[dict] | None = None
     recommended_primary_role: str | None = None
-    recommended_secondary_roles: list[str] | None = None
-    career_track_summary: str | None = None
+    deterministic_overall_score: int
+    llm_overall_score: int
 
 
 class ResumeAnalysisRequest(BaseModel):

@@ -7,6 +7,7 @@ so that e.g. "Qdrant" contributes toward "Vector Database" score.
 from __future__ import annotations
 
 from functools import lru_cache
+import re
 
 # Canonical → [synonyms/aliases/related-tools]
 # Keys must be lowercase; all lookups are case-insensitive.
@@ -163,6 +164,39 @@ SYNONYM_GRAPH: dict[str, list[str]] = {
         "quant", "financial modeling", "derivatives",
         "risk management", "stochastic calculus",
     ],
+    "business analysis": [
+        "business analyst", "business analytics", "market analysis", "market research",
+        "competitive analysis", "requirements gathering", "requirements analysis",
+        "process analysis", "strategy analysis",
+    ],
+    "consulting": [
+        "consultant", "strategy consulting", "management consulting", "technology consulting",
+        "business consulting", "operations consulting", "advisory",
+    ],
+    "communication": [
+        "stakeholder management", "stakeholder communication", "public speaking", "presentation",
+        "presentations", "negotiation", "negotiations", "debate", "debating",
+        "speaker", "speaking", "mentoring", "mentor", "client communication",
+        "public events", "event management", "embassy negotiations", "team management",
+    ],
+    "problem solving": [
+        "problem-solving", "problem solving", "optimization", "cost reduction",
+        "strategy", "classification", "decision-making", "analytical thinking",
+        "root cause analysis", "improvement initiative", "digital twin",
+        "manufacturing optimization", "process improvement", "ai classification project",
+    ],
+    "excel": [
+        "ms office", "microsoft office", "spreadsheets", "spreadsheet analysis",
+        "financial modeling", "advanced excel", "microsoft excel",
+    ],
+    "powerpoint": [
+        "ms office", "microsoft office", "slides", "slide design", "deck",
+        "pitch deck", "presentation", "presentations", "microsoft powerpoint",
+    ],
+    "leadership": [
+        "led", "managed", "head of", "captain", "coordinator", "organized",
+        "mentored", "ownership", "initiative", "team lead",
+    ],
     # ── General ─────────────────────────────────────────────────────
     "git": [
         "version control", "github", "gitlab", "bitbucket",
@@ -214,3 +248,39 @@ def expand_skill_list(skills: list[str]) -> set[str]:
     for skill in skills:
         expanded |= expand_skill(skill)
     return expanded
+
+
+def aliases_for_skill(skill: str) -> set[str]:
+    """Return canonical names plus known aliases for a skill."""
+    aliases: set[str] = {skill.lower()}
+    for canonical in expand_skill(skill):
+        aliases.add(canonical)
+        aliases.update(s.lower() for s in SYNONYM_GRAPH.get(canonical, []))
+    return {alias for alias in aliases if alias.strip()}
+
+
+def text_matches_skill(text: str, skill: str) -> bool:
+    """Check whether resume text contains the skill or one of its aliases."""
+    haystack = text.lower()
+    for alias in sorted(aliases_for_skill(skill), key=len, reverse=True):
+        tokens = re.findall(r"[a-z0-9+#./]+", alias)
+        if not tokens:
+            continue
+        pattern = r"(?<![a-z0-9+#./])" + r"[\s\-/,&()]+".join(re.escape(t) for t in tokens) + r"(?![a-z0-9+#./])"
+        if re.search(pattern, haystack, re.IGNORECASE):
+            return True
+    return False
+
+
+def collection_matches_skill(values: set[str] | list[str], skill: str) -> bool:
+    """Check whether any token or phrase from a collection matches a target skill."""
+    target = skill.lower()
+    for value in values:
+        lower = value.lower()
+        if lower == target or target in lower or lower in target:
+            return True
+        if synonym_match(lower, skill):
+            return True
+        if text_matches_skill(lower, skill):
+            return True
+    return False

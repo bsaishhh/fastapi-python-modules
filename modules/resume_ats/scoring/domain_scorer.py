@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from modules.resume_ats.contracts import ResumeEntities, RoleJD
-from modules.resume_ats.scoring.skill_synonyms import synonym_match
+from modules.resume_ats.scoring.skill_synonyms import collection_matches_skill, text_matches_skill
 from modules.resume_ats.scoring.utils import clamp_score, entity_terms
 
 
@@ -22,17 +22,10 @@ class DomainScorer:
 
         matched = 0
         for skill in required:
-            skill_lower = skill.lower()
-            # Tier 1: exact substring
-            if skill_lower in resume_lower:
+            if text_matches_skill(resume_lower, skill):
                 matched += 1
                 continue
-            # Tier 2: entity term overlap
-            if any(skill_lower in term or term in skill_lower for term in terms):
-                matched += 1
-                continue
-            # Tier 3: synonym graph
-            if any(synonym_match(term, skill) for term in terms):
+            if collection_matches_skill(terms, skill):
                 matched += 1
 
         return clamp_score((matched / len(required)) * 100)

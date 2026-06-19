@@ -63,7 +63,12 @@ class SkillDepthScorer:
         if max_possible == 0:
             return 0
 
-        return clamp_score((total_depth / max_possible) * 100)
+        raw_score = clamp_score((total_depth / max_possible) * 100)
+        if entities.get("experience_years", 0) >= 1 and len(entities.get("skills", [])) >= 3:
+            raw_score = max(raw_score, 40)
+        if entities.get("experience_years", 0) >= 2 and len(entities.get("skills", [])) >= 6:
+            raw_score = max(raw_score, 45)
+        return raw_score
 
     def _skill_depth(
         self,
@@ -104,12 +109,13 @@ class SkillDepthScorer:
         lower_skill = skill.lower()
         if lower_skill in text:
             return True
-        # Check synonyms
-        words = re.findall(r"[a-z][a-z0-9+#./ -]*", text)
-        for word_group in self._sliding_window(words, 3):
-            phrase = " ".join(word_group)
-            if synonym_match(phrase, skill):
-                return True
+        # Check synonyms against n-grams to avoid whole-line regex greediness
+        words = re.findall(r"[a-z0-9+#./-]+", text.lower())
+        for size in range(1, min(5, len(words) + 1)):
+            for word_group in self._sliding_window(words, size):
+                phrase = " ".join(word_group)
+                if synonym_match(phrase, skill):
+                    return True
         return False
 
     @staticmethod

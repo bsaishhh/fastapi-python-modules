@@ -160,6 +160,11 @@
           <input id="bearerToken" type="password" placeholder="Paste bearer token for extract-text API" />
         </div>
 
+        <div class="section">
+          <label for="customJd">Custom Job Description (Optional)</label>
+          <textarea id="customJd" rows="6" placeholder="Paste your custom job description here. If provided, it will be used instead of the system JD for analysis."></textarea>
+        </div>
+
         <div class="actions">
           <button id="btnFull" class="primary">Run Full Pipeline (Extract + Analyze)</button>
           <button id="btnExtract">1. Extract Only</button>
@@ -291,6 +296,10 @@
       return document.getElementById("bearerToken").value.trim();
     }
 
+    function getCustomJd() {
+      return document.getElementById("customJd").value.trim();
+    }
+
     function parseError(data) {
       if (typeof data.detail === "string") return data.detail;
       if (Array.isArray(data.detail)) return data.detail.map(d => d.msg || JSON.stringify(d)).join("; ");
@@ -384,7 +393,7 @@
         <ul>
           <li>Keyword Match: ${scoreBreakdown.keywordMatch?.score ?? "-"} / ${scoreBreakdown.keywordMatch?.maxScore ?? "-"}</li>
           <li>Formatting: ${scoreBreakdown.formatting?.score ?? "-"} / ${scoreBreakdown.formatting?.maxScore ?? "-"}</li>
-          <li>Section Structure: ${scoreBreakdown.sectionStructure?.score ?? "-"} / ${scoreBreakdown.sectionStructure?.maxScore ?? "-"}</li>
+          <li>Other: ${scoreBreakdown.sectionStructure?.score ?? "-"} / ${scoreBreakdown.sectionStructure?.maxScore ?? "-"}</li>
           <li>Content Quality: ${scoreBreakdown.contentQuality?.score ?? "-"} / ${scoreBreakdown.contentQuality?.maxScore ?? "-"}</li>
         </ul>
         <h4 class="tag-good">Strengths</h4>
@@ -431,7 +440,7 @@
       try {
         setLoading(true);
         setStatus("Running deterministic scorers + OpenRouter LLM analysis...");
-        const data = await postForm("/feedback", getFile(), { role: getRole() });
+        const data = await postForm("/feedback", getFile(), { role: getRole(), custom_jd: getCustomJd() });
         renderExtraction(data);
         renderAnalysis(data);
         showTab("analysis");
@@ -449,10 +458,11 @@
         setStatus("Step 1/2: Extracting resume...");
         const file = getFile();
         const role = getRole();
+        const customJd = getCustomJd();
         const extracted = await postForm("/extract", file, { role });
         renderExtraction(extracted);
         setStatus("Step 2/2: Running semantic/TF-IDF/Jaccard scorers + LLM feedback...");
-        const analyzed = await postForm("/feedback", file, { role });
+        const analyzed = await postForm("/feedback", file, { role, custom_jd: customJd });
         renderAnalysis(analyzed);
         showTab("analysis");
         setStatus("Full pipeline complete. Data saved to MongoDB.");

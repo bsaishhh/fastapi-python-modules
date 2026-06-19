@@ -4,6 +4,7 @@ import re
 from modules.resume_ats.contracts import ResumeEntities, RoleJD, StructuredResume
 from modules.resume_ats.data.jd_loader import list_roles, load_jd
 from modules.resume_ats.domain_classifier.iit_department_map import get_roles_for_department
+from modules.resume_ats.scoring.skill_synonyms import collection_matches_skill, synonym_match, text_matches_skill
 
 # High-fidelity Direct Signals & Target Keywords for all 16 Role Families
 DIRECT_SIGNALS = {
@@ -208,6 +209,12 @@ DIRECT_SIGNALS = {
     }
 }
 
+GENERIC_DOMAIN_KEYWORDS = {
+    "python", "java", "javascript", "typescript", "c++", "c", "r", "matlab",
+    "sql", "aws", "gcp", "azure", "docker", "kubernetes", "git",
+    "math", "statistics", "probability",
+}
+
 
 class DomainClassifier:
     """Classify resume domain relevance against role benchmark JDs."""
@@ -299,12 +306,13 @@ class DomainClassifier:
 
         target_titles = signals["titles"]
         target_keywords = signals["keywords"]
+        specific_keywords = [kw for kw in target_keywords if kw.lower() not in GENERIC_DOMAIN_KEYWORDS]
 
         def contains_phrase(text: str, phrase: str) -> bool:
-            return bool(re.search(r"\b" + re.escape(phrase.lower()) + r"\b", text.lower()))
+            return text_matches_skill(text, phrase)
 
         def contains_any_phrase(text: str, phrases: list[str]) -> bool:
-            return any(contains_phrase(text, p) for p in phrases)
+            return any(text_matches_skill(text, p) for p in phrases)
 
         matching_evidence = []
         missing_evidence = []
@@ -328,22 +336,23 @@ class DomainClassifier:
             is_internship = contains_any_phrase(title, ["intern", "trainee", "apprenticeship", "student", "fellow", "assistant"])
             title_match = contains_any_phrase(title, target_titles)
             matched_kws = [kw for kw in target_keywords if contains_phrase(bullets_text, kw)]
+            specific_matched_kws = [kw for kw in specific_keywords if contains_phrase(bullets_text, kw)]
 
             if is_internship:
                 if title_match:
                     intern_direct.append(exp)
                     matching_evidence.append(f"Internship as '{title}' at {company} directly aligns with {family_key}")
-                elif matched_kws:
-                    matching_evidence.append(f"Internship as '{title}' at {company} involved relevant skills: {', '.join(matched_kws[:3])}")
+                elif specific_matched_kws:
+                    matching_evidence.append(f"Internship as '{title}' at {company} involved relevant skills: {', '.join(specific_matched_kws[:3])}")
             else:
                 if title_match:
                     prof_exp_direct.append(exp)
                     matching_evidence.append(f"Professional Experience as '{title}' at {company} directly aligns with {family_key}")
-                elif matched_kws:
-                    matching_evidence.append(f"Professional Experience as '{title}' at {company} involved relevant skills: {', '.join(matched_kws[:3])}")
+                elif specific_matched_kws:
+                    matching_evidence.append(f"Professional Experience as '{title}' at {company} involved relevant skills: {', '.join(specific_matched_kws[:3])}")
 
-            if matched_kws:
-                bullets_direct.extend(matched_kws)
+            if specific_matched_kws:
+                bullets_direct.extend(specific_matched_kws)
 
         # Parse Projects
         projects = resume.get("projects", []) or []
@@ -355,20 +364,22 @@ class DomainClassifier:
             proj_text = name + " " + desc + " " + " ".join(techs)
             name_match = contains_any_phrase(name, target_titles)
             matched_kws = [kw for kw in target_keywords if contains_phrase(proj_text, kw)]
+            specific_matched_kws = [kw for kw in specific_keywords if contains_phrase(proj_text, kw)]
 
             if name_match:
                 project_direct.append(proj)
                 matching_evidence.append(f"Project '{name}' directly aligns with {family_key}")
-            elif matched_kws:
+            elif specific_matched_kws:
                 project_direct.append(proj)
-                matching_evidence.append(f"Project '{name}' utilized relevant technologies/skills: {', '.join(matched_kws[:3])}")
+                matching_evidence.append(f"Project '{name}' utilized relevant technologies/skills: {', '.join(specific_matched_kws[:3])}")
 
         # Parse Skills
         skills = resume.get("skills", []) or []
         matched_skills = [s for s in skills if contains_any_phrase(s, target_keywords) or contains_any_phrase(s, target_titles)]
+        specific_matched_skills = [s for s in matched_skills if s.lower() not in GENERIC_DOMAIN_KEYWORDS]
         if matched_skills:
-            skills_direct.extend(matched_skills)
-            matching_evidence.append(f"Listed Skills: {', '.join(matched_skills)}")
+            skills_direct.extend(specific_matched_skills or matched_skills[:2])
+            matching_evidence.append(f"Listed Skills: {', '.join((specific_matched_skills or matched_skills)[:5])}")
 
         # Parse Education
         education = resume.get("education", []) or []
@@ -402,17 +413,17 @@ class DomainClassifier:
             has_transferable = True
 
         # Base scoring
-        skill_score = min(20, (len(skills_direct) / max(1, len(target_keywords))) * 40)
-        project_score = min(30, len(project_direct) * 15)
-        intern_score = min(30, len(intern_direct) * 20)
-        exp_score = min(40, len(prof_exp_direct) * 30)
+        skill_score = min(18, len(skills_direct) * 4)
+        project_score = min(24, len(project_direct) * 12)
+        intern_score = min(24, len(intern_direct) * 16)
+        exp_score = min(52, len(prof_exp_direct) * 40)
 
         # Trajectory Boost
         trajectory_boost = 0
         if experiences:
             latest_title = experiences[0].get("title", "").lower()
             if contains_any_phrase(latest_title, target_titles):
-                trajectory_boost = 15
+                trajectory_boost = 18
 
         base_fit_score = skill_score + project_score + intern_score + exp_score + trajectory_boost
 
@@ -434,7 +445,7 @@ class DomainClassifier:
         required_skills = jd.get("required_skills", [])
         resume_text_corpus = self._resume_to_text_internal(resume)
         for rs in required_skills:
-            if not contains_phrase(resume_text_corpus, rs):
+            if not text_matches_skill(resume_text_corpus, rs):
                 missing_evidence.append(rs)
 
         # Build reasoning string
@@ -516,7 +527,10 @@ class DomainClassifier:
         resume_terms = {t.lower() for t in (
             entities["skills"] + entities["tools"] + entities["frameworks"]
         )}
-        return [t for t in terms if any(t.lower() in r or r in t.lower() for r in resume_terms)]
+        return [
+            t for t in terms
+            if collection_matches_skill(resume_terms, t)
+        ]
 
     def _missing(self, entities: ResumeEntities, terms: list[str]) -> list[str]:
         resume_terms = {t.lower() for t in (
@@ -524,7 +538,6 @@ class DomainClassifier:
         )}
         missing = []
         for term in terms:
-            lower = term.lower()
-            if not any(lower in r or r in lower for r in resume_terms):
+            if not collection_matches_skill(resume_terms, term):
                 missing.append(term)
         return missing

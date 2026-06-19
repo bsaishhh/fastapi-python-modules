@@ -90,6 +90,7 @@ def mock_mongo_llm_and_extraction(monkeypatch):
 
     def fake_analyze(self, role, resume_text, entities, master_jd):
         return ATSAnalysis(
+            overall_score=84,
             best_fit_subroles=["Generalist"],
             strengths=["Strong Python background"],
             areas_of_improvement=["Missing RAG experience"],

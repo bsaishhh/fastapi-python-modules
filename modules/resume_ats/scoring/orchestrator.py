@@ -12,8 +12,9 @@ from modules.resume_ats.scoring.jaccard_scorer import JaccardScorer
 from modules.resume_ats.scoring.resume_quality_scorer import ResumeQualityScorer
 from modules.resume_ats.scoring.semantic_scorer import SemanticScorer
 from modules.resume_ats.scoring.skill_depth_scorer import SkillDepthScorer
+from modules.resume_ats.scoring.skill_synonyms import collection_matches_skill, text_matches_skill
 from modules.resume_ats.scoring.tfidf_scorer import TfidfScorer
-from modules.resume_ats.scoring.utils import SCORING_WEIGHTS, clamp_score, jd_to_text, resume_to_text
+from modules.resume_ats.scoring.utils import SCORING_WEIGHTS, clamp_score, entity_terms, jd_to_text, resume_to_text
 from modules.resume_ats.domain_classifier.classifier import DomainClassifier
 
 logger = logging.getLogger(__name__)
@@ -58,7 +59,7 @@ class ScoringOrchestrator:
         jd_text = jd_to_text(jd)
 
         # ── Layer 0: domain classification confidence boost ──────────────
-        domain_classification = self.domain_classifier.suggest_best_role(entities)
+        domain_classification = self.domain_classifier.suggest_best_role(entities, resume=resume)
         best_role = domain_classification.get("best_role", "")
         classifier_confidence = domain_classification.get("domain_score", 0)
 
@@ -112,7 +113,7 @@ class ScoringOrchestrator:
         )
 
         # ── Missing keyword severity levels ───────────────────────────────
-        missing_severity = self._classify_missing_severity(entities, jd)
+        missing_severity = self._classify_missing_severity(resume_text, entities, jd)
 
         return {
             "overall_score": overall_score,
@@ -134,39 +135,19 @@ class ScoringOrchestrator:
 
     def _classify_missing_severity(
         self,
+        resume_text: str,
         entities: ResumeEntities,
         jd: RoleJD,
     ) -> dict[str, list[str]]:
         """Classify missing keywords into CRITICAL / IMPORTANT / OPTIONAL tiers."""
-        resume_terms = {t.lower() for t in (
-            entities.get("skills", [])
-            + entities.get("tools", [])
-            + entities.get("frameworks", [])
-            + entities.get("languages", [])
-        )}
+        resume_terms = entity_terms(resume_text, entities)
+        resume_lower = resume_text.lower()
 
         def is_present(term: str) -> bool:
-            lower = term.lower()
-            
-            # Common ATS synonym map
-            aliases = {
-                "vector databases": ["vector db", "vector database", "vectordb"],
-                "scikit-learn": ["sklearn", "scikit learn"],
-                "hugging face transformers": ["huggingface", "hugging face"],
-                "machine learning": ["ml", "machine-learning"],
-                "deep learning": ["dl", "deep-learning"],
-                "artificial intelligence": ["ai"],
-            }
-            
-            # Check exact or partial match first
-            if lower in resume_terms or any(lower in t or t in lower for t in resume_terms):
+            if text_matches_skill(resume_lower, term):
                 return True
-                
-            # Check aliases
-            for alias in aliases.get(lower, []):
-                if alias in resume_terms or any(alias in t or t in alias for t in resume_terms):
-                    return True
-                    
+            if collection_matches_skill(resume_terms, term):
+                return True
             return False
 
         critical: list[str] = []

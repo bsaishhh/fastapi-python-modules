@@ -4,6 +4,7 @@ import re
 from functools import lru_cache
 
 from modules.resume_ats.contracts import ResumeEntities, StructuredResume
+from modules.resume_ats.scoring.skill_synonyms import expand_skill_list
 
 PROGRAMMING_LANGUAGES = {
     "python", "java", "javascript", "typescript", "c++", "c", "go", "rust", "ruby", "scala", "r", "matlab", "sql",
@@ -15,6 +16,16 @@ FRAMEWORKS = {
 TOOLS = {
     "docker", "kubernetes", "aws", "gcp", "azure", "git", "jenkins", "terraform", "redis", "postgresql", "mongodb",
     "pinecone", "qdrant", "weaviate", "mlflow", "kubeflow", "grafana", "prometheus",
+}
+INFERRED_SKILL_PATTERNS: dict[str, list[str]] = {
+    "business analysis": [r"\bbusiness analyst\b", r"\bmarket analysis\b", r"\bmarket research\b", r"\brequirements\b"],
+    "consulting": [r"\bconsultant\b", r"\bstrategy\b", r"\badvisory\b", r"\baccenture\b"],
+    "communication": [r"\bdebate\b", r"\bnegotiat", r"\bmentor", r"\bpresent", r"\bstakeholder", r"\bpublic event", r"\bembassy\b"],
+    "problem solving": [r"\boptimization\b", r"\bclassification\b", r"\bcost reduction\b", r"\bstrategy\b", r"\bdigital twin\b", r"\bprocess improvement\b"],
+    "excel": [r"\bms office\b", r"\bmicrosoft office\b", r"\bfinancial modeling\b", r"\bspreadsheet"],
+    "powerpoint": [r"\bms office\b", r"\bmicrosoft office\b", r"\bpresentation", r"\bslide"],
+    "leadership": [r"\bhead of\b", r"\bmanaged\b", r"\bled\b", r"\bmentor", r"\bteam\b"],
+    "sql": [r"\bsql\b", r"\bpostgres", r"\bmysql\b", r"\bdatabase\b"],
 }
 DEGREE_PATTERNS = [
     r"\bb\.?\s*tech\b", r"\bm\.?\s*tech\b", r"\bb\.?\s*e\b", r"\bm\.?\s*e\b",
@@ -51,7 +62,8 @@ class EntityExtractor:
         certifications = list(resume.get("certifications", []))
         experience_years = self._estimate_experience_years(resume)
 
-        all_skills = list(dict.fromkeys(skills + languages + frameworks + tools))
+        inferred_skills = self._infer_skills(text_corpus)
+        all_skills = list(dict.fromkeys(skills + inferred_skills + languages + frameworks + tools))
 
         return ResumeEntities(
             skills=all_skills,
@@ -83,6 +95,16 @@ class EntityExtractor:
 
     def _tokenize(self, text: str) -> list[str]:
         return re.findall(r"[A-Za-z][A-Za-z0-9+#./-]*", text)
+
+    def _infer_skills(self, text: str) -> list[str]:
+        lower = text.lower()
+        inferred: list[str] = []
+        for skill, patterns in INFERRED_SKILL_PATTERNS.items():
+            if any(re.search(pattern, lower, re.IGNORECASE) for pattern in patterns):
+                inferred.append(skill)
+
+        expanded = expand_skill_list(inferred)
+        return list(dict.fromkeys(inferred + sorted(expanded)))
 
     def _extract_degrees(self, resume: StructuredResume) -> list[str]:
         degrees: list[str] = []
