@@ -1,0 +1,84 @@
+{
+  "role_key": "OPERATIONS_RESEARCH_ANALYST",
+  "family": "Core Science & R&D",
+  "sub_roles": [
+    "OR Analyst",
+    "Senior Operations Research Analyst",
+    "Decision Scientist",
+    "Quantitative Analyst",
+    "Management Scientist"
+  ],
+  "required_skills": [
+    "Operations Research",
+    "Mathematical Optimization",
+    "Linear Programming",
+    "Statistical Modeling",
+    "Simulation Modeling",
+    "Decision Analysis",
+    "Predictive Analytics",
+    "Python Programming",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "Integer Programming",
+    "Stochastic Modeling",
+    "Supply Chain Analytics",
+    "Machine Learning (ML)",
+    "Discrete Event Simulation",
+    "Queuing Theory",
+    "Heuristic Algorithms"
+  ],
+  "tools": [
+    "Gurobi",
+    "IBM CPLEX",
+    "AnyLogic",
+    "Arena Simulation",
+    "Tableau",
+    "Power BI",
+    "AWS",
+    "Snowflake"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "SciPy",
+    "Pyomo",
+    "scikit-learn"
+  ],
+  "responsibilities": [
+    "Formulate and solve large-scale linear and integer programming models to optimize supply chain and logistics decisions",
+    "Build discrete event simulation models to evaluate operational scenarios and predict system performance under uncertainty",
+    "Develop statistical and predictive models in Python to support data-driven decision-making across business units",
+    "Analyze complex operational datasets using SQL and statistical software to identify efficiency improvement opportunities",
+    "Design optimization algorithms to solve resource allocation, scheduling, and network design problems at scale",
+    "Present quantitative findings and actionable recommendations to executive stakeholders to influence strategic decisions",
+    "Collaborate with engineering and business teams to translate operational challenges into mathematical optimization models",
+    "Validate model accuracy through sensitivity analysis and back-testing against historical operational data"
+  ],
+  "keywords": [
+    "Operations Research",
+    "OR",
+    "Mathematical Optimization",
+    "Linear Programming",
+    "LP",
+    "Integer Programming",
+    "Statistical Modeling",
+    "Simulation Modeling",
+    "Decision Analysis",
+    "Predictive Analytics",
+    "Python",
+    "SQL",
+    "Stochastic Modeling",
+    "Supply Chain Analytics",
+    "Machine Learning",
+    "ML",
+    "Discrete Event Simulation",
+    "Queuing Theory",
+    "Heuristic Algorithms",
+    "Gurobi",
+    "CPLEX",
+    "Data-Driven Decision Making",
+    "Resource Allocation",
+    "Scheduling Optimization"
+  ]
+}

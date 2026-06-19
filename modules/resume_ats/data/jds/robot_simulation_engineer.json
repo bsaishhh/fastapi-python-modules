@@ -1,0 +1,91 @@
+{
+  "role_key": "ROBOT_SIMULATION_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Robotics Simulation Engineer",
+    "Simulation Software Engineer",
+    "Digital Twin Engineer",
+    "Sim-to-Real Engineer",
+    "Senior Robot Simulation Engineer"
+  ],
+  "required_skills": [
+    "Robot Simulation",
+    "Physics Engine Development",
+    "Digital Twin Development",
+    "C++ Programming",
+    "Python Programming",
+    "Robot Operating System (ROS)",
+    "3D Modeling and Rendering",
+    "Sensor Simulation",
+    "Kinematics and Dynamics",
+    "Software Architecture Design"
+  ],
+  "preferred_skills": [
+    "Sim-to-Real Transfer",
+    "Reinforcement Learning Environments",
+    "Procedural Environment Generation",
+    "GPU-Accelerated Simulation",
+    "Synthetic Data Generation",
+    "Multi-Robot Simulation",
+    "Cloud-Based Simulation Infrastructure"
+  ],
+  "tools": [
+    "Gazebo",
+    "NVIDIA Isaac Sim",
+    "Unity",
+    "Unreal Engine",
+    "MuJoCo",
+    "Webots",
+    "Git",
+    "Docker",
+    "AWS",
+    "NVIDIA Omniverse"
+  ],
+  "frameworks": [
+    "ROS",
+    "ROS2",
+    "PyBullet",
+    "MuJoCo",
+    "PyTorch",
+    "Isaac Gym"
+  ],
+  "responsibilities": [
+    "Design and develop high-fidelity robot simulation environments that accurately model sensor, actuator, and physics behavior",
+    "Build digital twin systems that mirror real-world robot hardware to accelerate software testing and reduce physical testing costs",
+    "Implement sensor simulation models including cameras, LiDAR, and IMUs to generate realistic synthetic data for perception training",
+    "Develop and tune physics engine parameters to ensure simulated robot dynamics closely match real-world hardware behavior",
+    "Create procedurally generated environments and test scenarios to enable scalable, automated validation of robot software",
+    "Collaborate with perception and controls teams to integrate simulation environments into continuous integration and testing pipelines",
+    "Optimize simulation performance using GPU acceleration to support large-scale parallel training and testing workloads",
+    "Validate sim-to-real transfer by comparing simulated and real robot performance and iteratively refining simulation fidelity",
+    "Build tooling and APIs that allow researchers and engineers to easily configure, run, and analyze simulation experiments"
+  ],
+  "keywords": [
+    "Robot Simulation",
+    "Digital Twin",
+    "Physics Engine",
+    "Gazebo",
+    "NVIDIA Isaac Sim",
+    "Unity",
+    "Unreal Engine",
+    "MuJoCo",
+    "Webots",
+    "Sensor Simulation",
+    "Sim-to-Real Transfer",
+    "Synthetic Data Generation",
+    "ROS",
+    "ROS2",
+    "PyBullet",
+    "Isaac Gym",
+    "GPU-Accelerated Simulation",
+    "Reinforcement Learning",
+    "Kinematics",
+    "Dynamics",
+    "3D Modeling",
+    "NVIDIA Omniverse",
+    "Cloud Simulation",
+    "Multi-Robot Simulation",
+    "C++",
+    "Python"
+  ]
+}

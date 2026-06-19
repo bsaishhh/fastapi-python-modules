@@ -1,0 +1,86 @@
+{
+  "role_key": "RELIABILITY_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Reliability Engineer",
+    "Reliability and Maintainability Engineer",
+    "Product Reliability Engineer",
+    "Systems Reliability Engineer",
+    "RAM Engineer"
+  ],
+  "required_skills": [
+    "Reliability Engineering",
+    "Failure Mode and Effects Analysis",
+    "FMEA",
+    "Root Cause Analysis",
+    "Reliability Testing",
+    "Statistical Reliability Analysis",
+    "Weibull Analysis",
+    "Mean Time Between Failures",
+    "MTBF"
+  ],
+  "preferred_skills": [
+    "Accelerated Life Testing",
+    "Fault Tree Analysis",
+    "Reliability-Centered Maintenance",
+    "Six Sigma Black Belt",
+    "Predictive Maintenance Analytics",
+    "Design for Reliability",
+    "Warranty Data Analysis"
+  ],
+  "tools": [
+    "Minitab",
+    "ReliaSoft Weibull++",
+    "MATLAB",
+    "SAP",
+    "JMP",
+    "Power BI",
+    "SolidWorks",
+    "ANSYS Mechanical",
+    "JIRA",
+    "Oracle ERP"
+  ],
+  "frameworks": [
+    "FMEA Frameworks",
+    "Fault Tree Analysis (FTA)",
+    "DMAIC",
+    "RCM Framework"
+  ],
+  "responsibilities": [
+    "Design and execute reliability test plans, including accelerated life testing, to predict product lifespan and failure modes",
+    "Lead FMEA and fault tree analysis sessions with cross-functional teams to identify and mitigate design risks",
+    "Analyze field failure and warranty data using Weibull and statistical methods to quantify reliability metrics like MTBF",
+    "Conduct root cause investigations on product failures and recommend design or process improvements to enhance reliability",
+    "Develop reliability growth models and track reliability KPIs throughout the product development lifecycle",
+    "Collaborate with design engineers to implement design-for-reliability principles during new product development",
+    "Establish reliability-centered maintenance strategies to optimize equipment uptime and reduce unplanned downtime",
+    "Present reliability findings and risk assessments to engineering leadership to support product release decisions"
+  ],
+  "keywords": [
+    "Reliability Engineering",
+    "FMEA",
+    "Failure Mode and Effects Analysis",
+    "Fault Tree Analysis",
+    "FTA",
+    "Weibull Analysis",
+    "MTBF",
+    "Mean Time Between Failures",
+    "Accelerated Life Testing",
+    "Reliability-Centered Maintenance",
+    "RCM",
+    "Root Cause Analysis",
+    "Reliability Testing",
+    "Predictive Maintenance",
+    "Design for Reliability",
+    "Statistical Analysis",
+    "Warranty Analysis",
+    "Reliability Growth Modeling",
+    "Six Sigma",
+    "DMAIC",
+    "Maintainability Engineering",
+    "RAM Analysis",
+    "Risk Assessment",
+    "ReliaSoft",
+    "Quality Engineering"
+  ]
+}

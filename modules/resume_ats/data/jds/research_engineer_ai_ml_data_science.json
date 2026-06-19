@@ -1,0 +1,84 @@
+{
+  "role_key": "RESEARCH_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "ML Research Engineer",
+    "Senior Research Engineer",
+    "AI Research Engineer",
+    "Research Software Engineer",
+    "Staff Research Engineer"
+  ],
+  "required_skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Python Programming",
+    "Experimental Pipeline Development",
+    "Research Paper Implementation",
+    "Distributed Training",
+    "Software Engineering Best Practices",
+    "Statistical Analysis"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "Natural Language Processing (NLP)",
+    "Computer Vision",
+    "High-Performance Computing (HPC)",
+    "Academic Publishing",
+    "Open-Source Contribution",
+    "CUDA Kernel Optimization"
+  ],
+  "tools": [
+    "NVIDIA CUDA",
+    "Weights & Biases",
+    "Slurm",
+    "Docker",
+    "AWS",
+    "Google Cloud Platform",
+    "Jupyter",
+    "GitHub",
+    "TensorBoard"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "JAX",
+    "TensorFlow",
+    "Hugging Face Transformers",
+    "PyTorch Lightning",
+    "DeepSpeed"
+  ],
+  "responsibilities": [
+    "Implement and reproduce cutting-edge research papers, adapting algorithms to internal infrastructure and datasets",
+    "Build robust, reusable experimental pipelines that accelerate iteration speed for research scientists",
+    "Collaborate with research scientists to design and execute large-scale experiments testing novel hypotheses",
+    "Optimize training code for performance and scalability across multi-GPU and multi-node compute clusters",
+    "Develop internal tooling and libraries that streamline data preprocessing, training, and evaluation workflows",
+    "Debug and resolve numerical instability, convergence issues, and performance bottlenecks in training runs",
+    "Translate promising research prototypes into production-quality, well-tested, and documented code",
+    "Contribute to open-source research codebases and internal benchmarking suites used across the organization",
+    "Profile GPU and memory utilization to identify and eliminate inefficiencies in large-scale training jobs",
+    "Partner with infrastructure teams to scale experimental compute resources for growing research demands"
+  ],
+  "keywords": [
+    "Research Engineer",
+    "Machine Learning",
+    "Deep Learning",
+    "Research Paper Implementation",
+    "Experimental Pipelines",
+    "Distributed Training",
+    "Multi-GPU Training",
+    "High-Performance Computing",
+    "HPC",
+    "PyTorch",
+    "JAX",
+    "TensorFlow",
+    "DeepSpeed",
+    "CUDA",
+    "Reinforcement Learning",
+    "NLP",
+    "Computer Vision",
+    "Open-Source Contribution",
+    "Academic Publishing",
+    "Software Engineering Best Practices",
+    "Model Benchmarking"
+  ]
+}

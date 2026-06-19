@@ -1,0 +1,81 @@
+{
+  "role_key": "TREASURY_ANALYST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Corporate Treasury Analyst",
+    "Senior Treasury Analyst",
+    "Cash Management Analyst",
+    "Treasury Operations Analyst",
+    "Liquidity Risk Analyst"
+  ],
+  "required_skills": [
+    "Cash Flow Forecasting",
+    "Liquidity Risk Management",
+    "Financial Modeling",
+    "Capital Markets Knowledge",
+    "Excel Modeling",
+    "Foreign Exchange Risk Management",
+    "FX Risk Management",
+    "Debt Management",
+    "Interest Rate Risk Analysis",
+    "Working Capital Management"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Bank Relationship Management",
+    "Derivatives Hedging Strategy",
+    "Regulatory Compliance Reporting",
+    "ERP Systems Knowledge",
+    "Credit Rating Analysis",
+    "SQL Database Querying"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "SAP",
+    "Excel",
+    "Kyriba",
+    "Oracle Treasury",
+    "FactSet",
+    "Reuters",
+    "GTreasury"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Forecast daily, weekly, and monthly cash flow positions to ensure adequate liquidity for operational and strategic needs",
+    "Manage short-term investment portfolios and money market instruments to optimize yield on excess corporate cash balances",
+    "Analyze foreign exchange exposure and execute hedging strategies using forwards and swaps to mitigate currency risk",
+    "Monitor and report on debt covenants, credit facilities, and interest rate exposure across the company's capital structure",
+    "Prepare treasury reports and liquidity dashboards for senior management summarizing cash position and funding risk",
+    "Coordinate with banking partners to manage credit lines, letters of credit, and corporate banking relationships",
+    "Support debt issuance and refinancing activities including credit rating agency presentations and lender negotiations",
+    "Conduct interest rate risk analysis and recommend hedging instruments to manage exposure on variable-rate debt"
+  ],
+  "keywords": [
+    "Treasury Analyst",
+    "Corporate Treasury",
+    "Cash Management",
+    "Liquidity Risk",
+    "Cash Flow Forecasting",
+    "FX Risk Management",
+    "Foreign Exchange Hedging",
+    "Interest Rate Risk",
+    "Debt Management",
+    "Working Capital",
+    "Capital Markets",
+    "Bank Relationship Management",
+    "Credit Facilities",
+    "Money Market Instruments",
+    "Excel",
+    "SAP",
+    "Bloomberg",
+    "Kyriba",
+    "Derivatives Hedging",
+    "Credit Rating",
+    "Regulatory Compliance",
+    "CTP",
+    "CFA"
+  ]
+}

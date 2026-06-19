@@ -1,0 +1,86 @@
+{
+  "role_key": "DATA_SCIENTIST",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Senior Data Scientist",
+    "Applied Data Scientist",
+    "Staff Data Scientist",
+    "DS",
+    "Data Science Analyst"
+  ],
+  "required_skills": [
+    "Statistical Analysis",
+    "Machine Learning",
+    "Python Programming",
+    "SQL",
+    "Data Visualization",
+    "Hypothesis Testing",
+    "A/B Testing",
+    "Exploratory Data Analysis (EDA)"
+  ],
+  "preferred_skills": [
+    "Deep Learning",
+    "Causal Inference",
+    "Predictive Modeling",
+    "R Programming",
+    "Big Data Processing",
+    "Business Intelligence Reporting",
+    "Experimental Design"
+  ],
+  "tools": [
+    "Jupyter",
+    "Tableau",
+    "Snowflake",
+    "Databricks",
+    "Looker",
+    "AWS",
+    "Power BI",
+    "Airflow",
+    "Git"
+  ],
+  "frameworks": [
+    "Pandas",
+    "Scikit-learn",
+    "NumPy",
+    "Statsmodels",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  "responsibilities": [
+    "Analyze large, complex datasets to uncover actionable insights that inform product and business strategy",
+    "Design and build predictive models to forecast key business metrics such as churn, revenue, and demand",
+    "Design and analyze A/B tests to measure the impact of product changes on user behavior and KPIs",
+    "Build interactive dashboards and visualizations that communicate findings clearly to non-technical stakeholders",
+    "Partner with product and engineering teams to define data-driven success metrics for new feature launches",
+    "Clean, transform, and validate raw data from multiple sources to ensure analysis-ready datasets",
+    "Apply statistical hypothesis testing to validate assumptions and quantify confidence in business recommendations",
+    "Present findings and recommendations to leadership, translating technical results into clear business narratives",
+    "Develop and maintain reusable SQL queries and Python scripts for recurring reporting and analysis needs",
+    "Collaborate with data engineers to define requirements for new data pipelines supporting analytical needs"
+  ],
+  "keywords": [
+    "Data Scientist",
+    "Statistical Analysis",
+    "Machine Learning",
+    "ML",
+    "Python",
+    "SQL",
+    "Data Visualization",
+    "A/B Testing",
+    "Hypothesis Testing",
+    "Exploratory Data Analysis",
+    "EDA",
+    "Predictive Modeling",
+    "Causal Inference",
+    "Pandas",
+    "Scikit-learn",
+    "NumPy",
+    "Tableau",
+    "Power BI",
+    "Looker",
+    "Business Intelligence",
+    "Big Data",
+    "Data Storytelling",
+    "Dashboarding"
+  ]
+}

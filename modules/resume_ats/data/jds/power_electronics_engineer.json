@@ -1,0 +1,84 @@
+{
+  "role_key": "POWER_ELECTRONICS_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Power Electronics Design Engineer",
+    "Power Converter Engineer",
+    "Power Systems Design Engineer",
+    "Senior Power Electronics Engineer",
+    "Power Supply Design Engineer"
+  ],
+  "required_skills": [
+    "Power Converter Design (AC-DC, DC-DC)",
+    "Switch-Mode Power Supply (SMPS) Design",
+    "Power Semiconductor Devices (MOSFET, IGBT)",
+    "Motor Drive Design",
+    "Power Electronics Topology Design",
+    "Magnetics Design (Transformers & Inductors)",
+    "Thermal Management for Power Systems",
+    "Power Factor Correction (PFC)"
+  ],
+  "preferred_skills": [
+    "Battery Management System (BMS) Design",
+    "Electric Vehicle (EV) Powertrain Design",
+    "Renewable Energy Inverter Design",
+    "Digital Power Control (DSP-based)",
+    "Wide-Bandgap Semiconductors (SiC, GaN)",
+    "Functional Safety for Power Electronics (ISO 26262)"
+  ],
+  "tools": [
+    "PSIM",
+    "MATLAB",
+    "Simulink",
+    "PLECS",
+    "LTspice",
+    "Altium Designer",
+    "Texas Instruments WEBENCH",
+    "Ansys Icepak"
+  ],
+  "frameworks": [
+    "Simulink Power Systems Toolbox",
+    "TI Code Composer Studio",
+    "MATLAB Simscape Electrical",
+    "SPICE"
+  ],
+  "responsibilities": [
+    "Design and develop power converter topologies including buck, boost, and flyback circuits for AC-DC and DC-DC power conversion.",
+    "Select and qualify power semiconductor devices such as MOSFETs and IGBTs based on voltage, current, and switching frequency requirements.",
+    "Design magnetic components including transformers and inductors to optimize efficiency, size, and thermal performance of power systems.",
+    "Develop and tune digital control loops for switch-mode power supplies using DSP or microcontroller-based feedback systems.",
+    "Conduct thermal analysis and heatsink design to ensure reliable operation of power electronics under full load conditions.",
+    "Simulate power converter performance using PSIM, PLECS, or Simulink to validate efficiency, stability, and transient response.",
+    "Collaborate with PCB layout engineers to ensure proper creepage, clearance, and thermal management in power electronic designs.",
+    "Perform power factor correction (PFC) circuit design and EMI filtering to meet regulatory compliance standards.",
+    "Test and validate power converter prototypes for efficiency, ripple, and load regulation using lab power analyzers and oscilloscopes.",
+    "Support design transition to production, working with manufacturing teams on test fixtures and qualification procedures."
+  ],
+  "keywords": [
+    "Power Electronics",
+    "Power Converter Design",
+    "AC-DC Conversion",
+    "DC-DC Conversion",
+    "SMPS",
+    "Switch-Mode Power Supply",
+    "MOSFET",
+    "IGBT",
+    "Motor Drive Design",
+    "Magnetics Design",
+    "Transformer Design",
+    "Power Factor Correction",
+    "PFC",
+    "Thermal Management",
+    "PSIM",
+    "PLECS",
+    "Simulink",
+    "LTspice",
+    "Battery Management System",
+    "BMS",
+    "Electric Vehicle",
+    "EV Powertrain",
+    "SiC",
+    "GaN",
+    "Wide-Bandgap Semiconductors"
+  ]
+}

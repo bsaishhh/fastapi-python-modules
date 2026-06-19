@@ -1,0 +1,82 @@
+{
+  "role_key": "CIVIL_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Civil Design Engineer",
+    "Senior Civil Engineer",
+    "Site Civil Engineer",
+    "Infrastructure Engineer",
+    "Project Civil Engineer"
+  ],
+  "required_skills": [
+    "Civil Engineering Design",
+    "Site Development",
+    "Hydrology and Hydraulics",
+    "Stormwater Management",
+    "Construction Documentation",
+    "Land Development",
+    "AutoCAD Drafting",
+    "Engineering Calculations",
+    "Permitting and Regulatory Compliance"
+  ],
+  "preferred_skills": [
+    "Geographic Information Systems (GIS)",
+    "Transportation Engineering",
+    "Utility Design",
+    "Erosion and Sediment Control",
+    "Cost Estimation",
+    "Construction Administration",
+    "Professional Engineer (PE) Licensure"
+  ],
+  "tools": [
+    "AutoCAD",
+    "Civil 3D",
+    "Bentley OpenRoads",
+    "ArcGIS",
+    "Bluebeam",
+    "HEC-RAS",
+    "Microsoft Project",
+    "Procore"
+  ],
+  "frameworks": [
+    "AASHTO Standards",
+    "ASCE Standards",
+    "ICC Codes"
+  ],
+  "responsibilities": [
+    "Design site grading, drainage, and utility layouts using Civil 3D to support residential and commercial land development projects",
+    "Prepare construction drawings, specifications, and engineering calculations to ensure compliance with local building codes",
+    "Conduct hydrology and hydraulic analyses to design stormwater management systems that meet regulatory requirements",
+    "Coordinate with surveyors, architects, and contractors to resolve site design conflicts and ensure constructability",
+    "Prepare and submit permit applications to municipal and state agencies to secure project approvals",
+    "Perform site visits and construction administration to verify field conditions align with approved design documents",
+    "Develop cost estimates and quantity take-offs to support project budgeting and bid preparation",
+    "Review and incorporate geotechnical and environmental study findings into civil design deliverables"
+  ],
+  "keywords": [
+    "Civil Engineering",
+    "Site Development",
+    "Hydrology",
+    "Hydraulics",
+    "Stormwater Management",
+    "Land Development",
+    "AutoCAD",
+    "Civil 3D",
+    "GIS",
+    "Geographic Information Systems",
+    "Transportation Engineering",
+    "Utility Design",
+    "Erosion Control",
+    "Permitting",
+    "Regulatory Compliance",
+    "PE License",
+    "Professional Engineer",
+    "AASHTO",
+    "ASCE",
+    "Construction Administration",
+    "Cost Estimation",
+    "Grading Design",
+    "Drainage Design",
+    "Site Plans"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "role_key": "CHEMIST",
+  "family": "Core Science & R&D",
+  "sub_roles": [
+    "Research Chemist",
+    "Senior Chemist",
+    "Analytical Chemist",
+    "Process Chemist",
+    "R&D Chemist"
+  ],
+  "required_skills": [
+    "Organic Chemistry",
+    "Analytical Chemistry",
+    "Spectroscopy",
+    "Chromatography",
+    "High-Performance Liquid Chromatography (HPLC)",
+    "Gas Chromatography (GC)",
+    "Laboratory Safety Protocols",
+    "Good Laboratory Practice (GLP)",
+    "Chemical Synthesis",
+    "Statistical Data Analysis"
+  ],
+  "preferred_skills": [
+    "Mass Spectrometry",
+    "Nuclear Magnetic Resonance (NMR) Spectroscopy",
+    "Method Validation",
+    "Design of Experiments (DOE)",
+    "Process Optimization",
+    "Regulatory Compliance Documentation",
+    "Quality Control (QC) Testing"
+  ],
+  "tools": [
+    "ChemDraw",
+    "Waters Empower",
+    "Agilent MassHunter",
+    "LabVantage LIMS",
+    "MestReNova",
+    "Thermo Fisher Chromeleon",
+    "Microsoft Excel",
+    "JMP"
+  ],
+  "frameworks": [
+    "Six Sigma",
+    "ISO 17025",
+    "ICH Guidelines"
+  ],
+  "responsibilities": [
+    "Design and execute synthetic chemistry experiments to develop novel compounds meeting target purity and yield specifications",
+    "Operate and maintain HPLC, GC, and spectroscopy instrumentation to perform quantitative and qualitative analysis of chemical samples",
+    "Develop and validate analytical methods to support quality control and regulatory submission requirements",
+    "Document experimental procedures and results in laboratory notebooks following Good Laboratory Practice standards",
+    "Conduct root cause investigations for out-of-specification results and recommend corrective actions",
+    "Collaborate with cross-functional R&D, process engineering, and quality teams to scale lab-scale processes to production",
+    "Interpret spectroscopic and chromatographic data to characterize chemical structures and confirm product identity",
+    "Author technical reports, SOPs, and regulatory documentation summarizing experimental findings and methodologies",
+    "Apply statistical methods and Design of Experiments to optimize reaction conditions and improve process efficiency"
+  ],
+  "keywords": [
+    "Organic Chemistry",
+    "Analytical Chemistry",
+    "Spectroscopy",
+    "Chromatography",
+    "HPLC",
+    "High-Performance Liquid Chromatography",
+    "GC",
+    "Gas Chromatography",
+    "Mass Spectrometry",
+    "NMR",
+    "Nuclear Magnetic Resonance",
+    "GLP",
+    "Good Laboratory Practice",
+    "Chemical Synthesis",
+    "Method Validation",
+    "Design of Experiments",
+    "DOE",
+    "Quality Control",
+    "QC",
+    "Process Optimization",
+    "Six Sigma",
+    "ISO 17025",
+    "Regulatory Compliance",
+    "Laboratory Safety",
+    "Wet Chemistry"
+  ]
+}

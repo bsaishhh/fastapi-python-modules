@@ -1,0 +1,83 @@
+{
+  "role_key": "RECOMMENDATION_SYSTEMS_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Recommender Systems Engineer",
+    "Senior Recommendation Systems Engineer",
+    "Personalization Engineer",
+    "Ranking Systems Engineer",
+    "Search and Recommendations Engineer"
+  ],
+  "required_skills": [
+    "Recommendation Systems",
+    "Collaborative Filtering",
+    "Ranking Algorithms",
+    "Python Programming",
+    "Machine Learning",
+    "Feature Engineering",
+    "A/B Testing",
+    "Large-Scale Data Processing"
+  ],
+  "preferred_skills": [
+    "Deep Learning",
+    "Content-Based Filtering",
+    "Real-Time Inference Systems",
+    "Embedding Techniques",
+    "Graph Neural Networks",
+    "Cold-Start Problem Solutions",
+    "Multi-Armed Bandit Algorithms"
+  ],
+  "tools": [
+    "AWS SageMaker",
+    "Databricks",
+    "Spark",
+    "Redis",
+    "Kafka",
+    "Snowflake",
+    "Airflow",
+    "Elasticsearch"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "Apache Spark MLlib",
+    "LightFM",
+    "XGBoost"
+  ],
+  "responsibilities": [
+    "Design and build recommendation models that personalize content, products, or media for individual users",
+    "Develop collaborative filtering and content-based algorithms to improve relevance of recommended items",
+    "Build real-time ranking systems that serve personalized recommendations at low latency and high scale",
+    "Engineer user and item embeddings that capture behavioral and contextual signals for personalization",
+    "Design and analyze A/B tests to measure the impact of recommendation algorithm changes on engagement",
+    "Address cold-start challenges for new users and items using hybrid and content-based recommendation strategies",
+    "Optimize feature pipelines that aggregate user interaction data for real-time and batch model training",
+    "Collaborate with product teams to define ranking objectives that balance relevance, diversity, and business goals",
+    "Monitor recommendation system performance, detecting and addressing model staleness or feedback loop bias",
+    "Scale recommendation infrastructure to handle millions of users and items with sub-second response times"
+  ],
+  "keywords": [
+    "Recommendation Systems Engineer",
+    "Recommender Systems",
+    "Collaborative Filtering",
+    "Content-Based Filtering",
+    "Ranking Algorithms",
+    "Personalization",
+    "Embeddings",
+    "Graph Neural Networks",
+    "Cold-Start Problem",
+    "Multi-Armed Bandit",
+    "A/B Testing",
+    "Feature Engineering",
+    "Real-Time Inference",
+    "Large-Scale Data Processing",
+    "Machine Learning",
+    "Deep Learning",
+    "Spark",
+    "PyTorch",
+    "TensorFlow",
+    "XGBoost",
+    "Search Relevance"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "role_key": "QUANTITATIVE_RESEARCHER",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Senior Quantitative Researcher",
+    "Quant Research Scientist",
+    "Quantitative Strategist",
+    "Quant Researcher (QR)",
+    "Systematic Trading Researcher"
+  ],
+  "required_skills": [
+    "Stochastic Calculus",
+    "Time Series Analysis",
+    "Statistical Modeling",
+    "Machine Learning",
+    "ML",
+    "Python Programming",
+    "Alpha Research",
+    "Signal Generation",
+    "Backtesting Methodology",
+    "Probability Theory"
+  ],
+  "preferred_skills": [
+    "C++ Programming",
+    "Market Microstructure",
+    "Options Pricing Theory",
+    "Natural Language Processing",
+    "NLP",
+    "Portfolio Optimization",
+    "High-Frequency Data Analysis",
+    "Bayesian Inference"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "Refinitiv Eikon",
+    "KDB+",
+    "Jupyter",
+    "Git",
+    "Linux",
+    "Slurm",
+    "Snowflake",
+    "Tableau"
+  ],
+  "frameworks": [
+    "NumPy",
+    "pandas",
+    "scikit-learn",
+    "PyTorch",
+    "TensorFlow",
+    "statsmodels",
+    "Zipline",
+    "QuantLib"
+  ],
+  "responsibilities": [
+    "Design and validate quantitative alpha signals using statistical and machine learning models across multi-asset class universes",
+    "Conduct rigorous backtesting of trading strategies to evaluate Sharpe ratio, drawdown, and turnover before live deployment",
+    "Develop stochastic models to forecast price dynamics, volatility surfaces, and correlation structures across global markets",
+    "Collaborate with portfolio managers and traders to translate research findings into deployable systematic trading strategies",
+    "Analyze large-scale historical and high-frequency market data to identify exploitable patterns and statistical anomalies",
+    "Build and maintain Python-based research infrastructure for factor analysis, signal decay testing, and risk attribution",
+    "Present research findings and strategy performance to investment committees and senior portfolio management stakeholders",
+    "Optimize existing alpha models through feature engineering, hyperparameter tuning, and out-of-sample validation techniques",
+    "Research and implement novel machine learning architectures for predicting asset returns and market regime shifts"
+  ],
+  "keywords": [
+    "Quantitative Research",
+    "Quant Researcher",
+    "QR",
+    "Alpha Generation",
+    "Signal Research",
+    "Stochastic Calculus",
+    "Time Series Analysis",
+    "Statistical Arbitrage",
+    "Machine Learning",
+    "ML",
+    "Deep Learning",
+    "Backtesting",
+    "Python",
+    "C++",
+    "Market Microstructure",
+    "Factor Models",
+    "Portfolio Optimization",
+    "Risk Management",
+    "Derivatives Pricing",
+    "Volatility Modeling",
+    "High-Frequency Trading",
+    "HFT",
+    "Systematic Trading",
+    "Bayesian Statistics",
+    "CFA"
+  ]
+}

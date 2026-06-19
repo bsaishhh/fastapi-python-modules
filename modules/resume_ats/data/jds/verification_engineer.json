@@ -1,0 +1,82 @@
+{
+  "role_key": "VERIFICATION_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "ASIC Verification Engineer",
+    "Design Verification Engineer",
+    "DV Engineer",
+    "UVM Verification Engineer",
+    "Functional Verification Engineer"
+  ],
+  "required_skills": [
+    "UVM (Universal Verification Methodology)",
+    "SystemVerilog",
+    "Functional Verification",
+    "Testbench Architecture",
+    "Constrained-Random Verification",
+    "Functional Coverage Analysis",
+    "Assertion-Based Verification (SVA)",
+    "Verification Test Planning"
+  ],
+  "preferred_skills": [
+    "Formal Verification",
+    "Emulation & FPGA Prototyping",
+    "Low-Power Verification (UPF)",
+    "C/C++ for Verification",
+    "Python Scripting for Test Automation",
+    "Coverage-Driven Verification Methodology"
+  ],
+  "tools": [
+    "Synopsys VCS",
+    "Cadence Xcelium",
+    "Mentor Questa",
+    "Cadence JasperGold",
+    "Synopsys Verdi",
+    "Cadence Palladium",
+    "Perforce",
+    "JIRA"
+  ],
+  "frameworks": [
+    "OVM",
+    "VMM",
+    "Cocotb",
+    "UVM Register Abstraction Layer (RAL)"
+  ],
+  "responsibilities": [
+    "Develop UVM-based testbenches and verification environments to validate functional correctness of complex digital and SoC designs.",
+    "Write verification test plans defining coverage goals, test scenarios, and verification strategy for new RTL features.",
+    "Implement constrained-random stimulus generation and functional coverage models to maximize verification thoroughness and bug detection.",
+    "Develop SystemVerilog assertions (SVA) to check protocol compliance and catch design errors early in simulation.",
+    "Debug simulation failures by analyzing waveforms, log files, and RTL behavior using Synopsys Verdi or similar tools.",
+    "Collaborate with RTL design engineers to triage bugs, reproduce failures, and verify fixes through regression testing.",
+    "Run and maintain regression suites, analyzing coverage reports to identify verification gaps and close coverage holes.",
+    "Apply formal verification techniques to prove design properties and identify corner-case bugs missed by simulation-based testing.",
+    "Participate in verification sign-off reviews, ensuring all coverage and quality metrics are met before tapeout.",
+    "Automate testbench infrastructure and regression flows using Python or Perl scripting to improve verification efficiency."
+  ],
+  "keywords": [
+    "Verification Engineering",
+    "Design Verification",
+    "DV",
+    "UVM",
+    "Universal Verification Methodology",
+    "SystemVerilog",
+    "Functional Verification",
+    "Testbench",
+    "Constrained-Random Verification",
+    "Functional Coverage",
+    "SVA",
+    "Assertion-Based Verification",
+    "Formal Verification",
+    "Synopsys VCS",
+    "Cadence Xcelium",
+    "Mentor Questa",
+    "Synopsys Verdi",
+    "Regression Testing",
+    "Emulation",
+    "FPGA Prototyping",
+    "Coverage-Driven Verification",
+    "Python Scripting",
+    "Tapeout"
+  ]
+}

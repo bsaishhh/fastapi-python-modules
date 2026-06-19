@@ -1,0 +1,86 @@
+{
+  "role_key": "PROCUREMENT_SPECIALIST",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Procurement Specialist",
+    "Strategic Sourcing Specialist",
+    "Purchasing Specialist",
+    "Procurement Operations Specialist",
+    "Category Procurement Specialist"
+  ],
+  "required_skills": [
+    "Strategic Sourcing and Supplier Selection",
+    "Purchase Order Management and Procurement Operations",
+    "Vendor Management and Supplier Relationship Management",
+    "Contract Administration and Procurement Compliance",
+    "Negotiation and Cost Reduction Strategies",
+    "Procure-to-Pay (P2P) Process Management",
+    "Enterprise Resource Planning (ERP) Procurement Systems",
+    "Spend Analysis and Procurement Reporting"
+  ],
+  "preferred_skills": [
+    "Supplier Risk Assessment and Mitigation",
+    "Category Management and Market Intelligence",
+    "Inventory Replenishment Coordination",
+    "Lean Procurement and Process Improvement",
+    "Sustainable Sourcing Practices",
+    "Financial Analysis and Budget Monitoring",
+    "International Procurement and Trade Compliance",
+    "Business Intelligence Dashboard Development"
+  ],
+  "tools": [
+    "SAP Ariba",
+    "Coupa",
+    "Oracle Procurement Cloud",
+    "SAP S/4HANA",
+    "Jaggaer",
+    "Microsoft Excel",
+    "Power BI",
+    "Tableau",
+    "Snowflake",
+    "Microsoft Dynamics 365"
+  ],
+  "frameworks": [
+    "APICS SCOR Model",
+    "Lean Six Sigma",
+    "ITIL",
+    "Kanban"
+  ],
+  "responsibilities": [
+    "Manage end-to-end procurement activities including supplier selection, purchase order processing, and contract administration to ensure uninterrupted material availability.",
+    "Conduct supplier evaluations using performance metrics, pricing benchmarks, and compliance requirements to support strategic sourcing decisions.",
+    "Negotiate pricing agreements and commercial terms with vendors to achieve cost savings while maintaining quality and service standards.",
+    "Develop procurement reports and spend analytics dashboards to identify sourcing opportunities and monitor supplier performance trends.",
+    "Collaborate with supply chain, finance, and operations teams to align purchasing strategies with organizational objectives and demand forecasts.",
+    "Implement procurement process improvements that streamline purchasing workflows, reduce cycle times, and enhance operational efficiency.",
+    "Monitor contract compliance and vendor obligations to mitigate procurement risks and maintain regulatory adherence across purchasing activities.",
+    "Support category management initiatives through market research, supplier benchmarking, and total cost of ownership analysis."
+  ],
+  "keywords": [
+    "Procurement",
+    "Purchasing",
+    "Strategic Sourcing",
+    "Supplier Management",
+    "Vendor Management",
+    "Purchase Orders",
+    "PO Management",
+    "Procure-to-Pay",
+    "P2P",
+    "Contract Management",
+    "Spend Analysis",
+    "Cost Reduction",
+    "Supplier Evaluation",
+    "SAP Ariba",
+    "Coupa",
+    "Oracle Procurement Cloud",
+    "ERP Procurement",
+    "Category Management",
+    "Supplier Negotiation",
+    "Procurement Compliance",
+    "Total Cost of Ownership",
+    "TCO",
+    "Market Intelligence",
+    "Supplier Performance",
+    "Sourcing Strategy"
+  ]
+}

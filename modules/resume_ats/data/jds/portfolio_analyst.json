@@ -1,0 +1,83 @@
+{
+  "role_key": "PORTFOLIO_ANALYST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Investment Portfolio Analyst",
+    "Senior Portfolio Analyst",
+    "Portfolio Management Analyst",
+    "Asset Management Analyst",
+    "Buy-Side Portfolio Analyst"
+  ],
+  "required_skills": [
+    "Portfolio Construction",
+    "Asset Allocation",
+    "Performance Attribution Analysis",
+    "Risk-Adjusted Return Analysis",
+    "Financial Modeling",
+    "Statistical Analysis",
+    "Excel Modeling",
+    "Benchmark Analysis",
+    "Investment Risk Management",
+    "Fixed Income Analytics"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Factor Model Analysis",
+    "Derivatives Knowledge",
+    "ESG Integration",
+    "Quantitative Screening",
+    "Manager Due Diligence",
+    "R Programming"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "FactSet",
+    "BlackRock Aladdin",
+    "Excel",
+    "Morningstar Direct",
+    "CapitalIQ",
+    "Tableau",
+    "MSCI BarraOne"
+  ],
+  "frameworks": [
+    "pandas",
+    "NumPy",
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Monitor and rebalance investment portfolios to ensure alignment with target asset allocation and client risk objectives",
+    "Conduct performance attribution analysis to explain portfolio returns relative to benchmarks across asset classes and sectors",
+    "Build and maintain risk and exposure reports tracking factor tilts, sector concentration, and duration risk across portfolios",
+    "Collaborate with portfolio managers to evaluate new investment opportunities and assess their fit within existing mandates",
+    "Prepare client-facing performance reports and investment commentary summarizing portfolio positioning and market outlook",
+    "Conduct due diligence on external fund managers and investment strategies considered for portfolio inclusion",
+    "Analyze portfolio risk metrics including volatility, tracking error, and Value at Risk to support investment decision-making",
+    "Support quarterly and annual investment committee reviews with data-driven analysis of portfolio performance and risk"
+  ],
+  "keywords": [
+    "Portfolio Analyst",
+    "Portfolio Management",
+    "Asset Allocation",
+    "Performance Attribution",
+    "Benchmark Analysis",
+    "Risk-Adjusted Return",
+    "Tracking Error",
+    "Factor Models",
+    "Fixed Income",
+    "Equities",
+    "Investment Risk Management",
+    "Value at Risk",
+    "VaR",
+    "Manager Due Diligence",
+    "Excel",
+    "Bloomberg",
+    "FactSet",
+    "Aladdin",
+    "Python",
+    "ESG",
+    "CFA",
+    "Investment Committee",
+    "Asset Management"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "role_key": "BIOTECHNOLOGIST",
+  "family": "Core Science & R&D",
+  "sub_roles": [
+    "Biotechnology Scientist",
+    "Research Associate, Biotechnology",
+    "Senior Biotechnologist",
+    "Bioprocess Scientist",
+    "Molecular Biologist"
+  ],
+  "required_skills": [
+    "Molecular Biology",
+    "Cell Culture",
+    "Polymerase Chain Reaction (PCR)",
+    "Genetic Engineering",
+    "Recombinant DNA Technology",
+    "Protein Purification",
+    "ELISA",
+    "Bioprocessing",
+    "Aseptic Technique"
+  ],
+  "preferred_skills": [
+    "CRISPR Gene Editing",
+    "Next-Generation Sequencing (NGS)",
+    "Fermentation Technology",
+    "Bioinformatics",
+    "Flow Cytometry",
+    "Upstream and Downstream Processing",
+    "Good Manufacturing Practice (GMP)"
+  ],
+  "tools": [
+    "Beckman Coulter Flow Cytometer",
+    "BioTek Microplate Reader",
+    "Sartorius Bioreactors",
+    "Illumina Sequencing Systems",
+    "Thermo Fisher QuantStudio",
+    "GraphPad Prism",
+    "LabVantage LIMS",
+    "Zeiss Confocal Microscope"
+  ],
+  "frameworks": [
+    "GMP",
+    "GLP",
+    "ISO 13485",
+    "FDA 21 CFR Part 11"
+  ],
+  "responsibilities": [
+    "Design and execute molecular cloning experiments to engineer recombinant constructs for protein expression studies",
+    "Perform mammalian and microbial cell culture to support upstream bioprocess development and scale-up activities",
+    "Conduct PCR, qPCR, and gel electrophoresis assays to validate genetic modifications and confirm experimental outcomes",
+    "Develop and optimize protein purification workflows using chromatography techniques to achieve target purity and yield",
+    "Operate and monitor bioreactors to optimize fermentation conditions for microbial or cell-based production systems",
+    "Document experimental protocols and results in compliance with GLP and GMP regulatory standards",
+    "Collaborate with process development and quality assurance teams to transition lab-scale processes to pilot production",
+    "Analyze experimental data using statistical software to support research conclusions and regulatory submissions"
+  ],
+  "keywords": [
+    "Molecular Biology",
+    "Cell Culture",
+    "PCR",
+    "Polymerase Chain Reaction",
+    "qPCR",
+    "Genetic Engineering",
+    "Recombinant DNA",
+    "Protein Purification",
+    "ELISA",
+    "Bioprocessing",
+    "CRISPR",
+    "Gene Editing",
+    "NGS",
+    "Next-Generation Sequencing",
+    "Fermentation",
+    "Bioinformatics",
+    "Flow Cytometry",
+    "GMP",
+    "Good Manufacturing Practice",
+    "GLP",
+    "Good Laboratory Practice",
+    "Upstream Processing",
+    "Downstream Processing",
+    "Biopharmaceutical R&D"
+  ]
+}

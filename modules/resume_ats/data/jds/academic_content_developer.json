@@ -1,0 +1,91 @@
+{
+  "role_key": "ACADEMIC_CONTENT_DEVELOPER",
+  "family": "Education & EdTech",
+  "sub_roles": [
+    "Senior Academic Content Developer",
+    "Academic Content Writer",
+    "Subject Matter Expert – Content",
+    "Educational Content Specialist",
+    "Content Development Lead"
+  ],
+  "required_skills": [
+    "Academic content writing and structured knowledge representation",
+    "Subject-matter expertise in one or more core academic disciplines (Mathematics, Science, Humanities, or Commerce)",
+    "Curriculum alignment with national standards (CBSE, ICSE, IB, NCERT, State Board)",
+    "Question bank development including MCQs, short-answer, and long-answer formats",
+    "Pedagogical sequencing and concept scaffolding for learner-appropriate content",
+    "Copyediting, proofreading, and academic style adherence",
+    "Learning objective mapping to content modules",
+    "Bloom's Taxonomy application in question and content design"
+  ],
+  "preferred_skills": [
+    "LaTeX or MathML for typesetting mathematical and scientific content",
+    "Familiarity with EdTech platform content management systems and structured authoring tools",
+    "Multimedia content scripting for explainer videos and animated lessons",
+    "Competitive exam content development (JEE, NEET, UPSC, CAT)",
+    "Adaptive learning content tagging for difficulty levels and learning outcomes",
+    "Data-driven content iteration based on learner performance analytics",
+    "Knowledge of Agile content development workflows and sprint planning"
+  ],
+  "tools": [
+    "Microsoft Word",
+    "Google Docs",
+    "Notion",
+    "Airtable",
+    "Jira",
+    "Confluence",
+    "Canva",
+    "Overleaf (LaTeX)",
+    "Grammarly",
+    "Turnitin"
+  ],
+  "frameworks": [
+    "Bloom's Taxonomy",
+    "Webb's Depth of Knowledge (DOK)",
+    "Understanding by Design (UbD)",
+    "NCERT Curriculum Framework",
+    "Common Core Standards",
+    "Revised National Curriculum Framework (NCF 2023)"
+  ],
+  "responsibilities": [
+    "Develop comprehensive, curriculum-aligned academic content including theory notes, worked examples, and practice problems for K-12 or higher education levels",
+    "Create well-structured question banks with varied difficulty levels (easy, medium, hard) mapped to specific learning objectives and Bloom's cognitive levels",
+    "Collaborate with academic advisors and subject matter experts to ensure content accuracy, depth, and pedagogical appropriateness",
+    "Write detailed solution manuals and explanatory answer keys that articulate step-by-step reasoning for complex academic problems",
+    "Map all content modules to board or competitive exam syllabi (CBSE, ICSE, JEE, NEET) to ensure comprehensive topic coverage",
+    "Review and edit content submitted by freelance authors or SMEs, ensuring consistency in tone, structure, and academic rigor",
+    "Tag and classify content items with metadata (topic, subtopic, difficulty, concept tags) for use in adaptive learning and search systems",
+    "Develop chapter summaries, concept maps, and revision tools that reinforce key learning outcomes for students",
+    "Participate in content audits to identify outdated material and lead updates aligned with latest syllabus revisions or exam pattern changes",
+    "Produce scripts and narration text for video lessons, ensuring alignment between spoken content and on-screen visuals"
+  ],
+  "keywords": [
+    "Academic Content Development",
+    "Content Writing",
+    "Curriculum Alignment",
+    "CBSE",
+    "ICSE",
+    "NCERT",
+    "IB Curriculum",
+    "Question Bank",
+    "MCQ Development",
+    "Bloom's Taxonomy",
+    "Webb's Depth of Knowledge",
+    "DOK",
+    "Pedagogical Sequencing",
+    "K-12 Content",
+    "EdTech Content",
+    "Subject Matter Expert",
+    "SME",
+    "LaTeX",
+    "MathML",
+    "Competitive Exam Content",
+    "JEE Content",
+    "NEET Content",
+    "Learning Objective Mapping",
+    "Adaptive Learning",
+    "Content Tagging",
+    "Understanding by Design",
+    "UbD"
+  ]
+}

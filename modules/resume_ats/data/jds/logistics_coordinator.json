@@ -1,0 +1,86 @@
+{
+  "role_key": "LOGISTICS_COORDINATOR",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Transportation Coordinator",
+    "Distribution Coordinator",
+    "Shipping Coordinator",
+    "Logistics Operations Coordinator",
+    "Freight Coordinator"
+  ],
+  "required_skills": [
+    "Logistics Operations Coordination",
+    "Shipment Scheduling and Tracking",
+    "Transportation Planning and Dispatching",
+    "Carrier and Vendor Coordination",
+    "Warehouse and Distribution Operations",
+    "Order Fulfillment Management",
+    "Inventory Tracking and Reconciliation",
+    "Customer Service and Logistics Communication"
+  ],
+  "preferred_skills": [
+    "International Shipping Documentation",
+    "Freight Audit and Payment Processing",
+    "Customs Compliance Support",
+    "Transportation Management System Administration",
+    "Process Improvement Initiatives",
+    "Performance Reporting and Metrics Tracking",
+    "Demand Planning Coordination",
+    "Risk Mitigation and Escalation Management"
+  ],
+  "tools": [
+    "SAP S/4HANA",
+    "Oracle Transportation Management",
+    "Manhattan Associates",
+    "Blue Yonder",
+    "Microsoft Excel",
+    "Jira",
+    "Project44",
+    "Descartes Systems",
+    "Microsoft Dynamics 365",
+    "Coupa"
+  ],
+  "frameworks": [
+    "ITIL",
+    "Lean Six Sigma",
+    "APICS SCOR Model",
+    "Kanban"
+  ],
+  "responsibilities": [
+    "Coordinate daily shipment scheduling activities and ensure timely movement of goods between suppliers, warehouses, and customer locations.",
+    "Monitor transportation activities through tracking systems and proactively resolve delivery delays, exceptions, and service disruptions.",
+    "Collaborate with carriers, warehouse teams, and suppliers to maintain accurate shipment documentation and logistics records.",
+    "Manage order fulfillment workflows by coordinating inventory availability, transportation capacity, and customer delivery requirements.",
+    "Prepare logistics reports tracking shipment status, delivery performance, and operational metrics for management review.",
+    "Support transportation procurement activities by communicating with carriers and maintaining freight rate and service information.",
+    "Ensure compliance with shipping procedures, transportation regulations, and customer-specific logistics requirements across operations.",
+    "Respond to logistics inquiries and coordinate issue resolution to maintain high levels of customer satisfaction and service quality."
+  ],
+  "keywords": [
+    "Logistics Coordination",
+    "Transportation Coordination",
+    "Shipment Tracking",
+    "Dispatch Management",
+    "Carrier Coordination",
+    "Order Fulfillment",
+    "Distribution Operations",
+    "Warehouse Operations",
+    "Transportation Management System",
+    "TMS",
+    "Freight Coordination",
+    "Shipping Operations",
+    "Inventory Tracking",
+    "Delivery Scheduling",
+    "Logistics Execution",
+    "Supply Chain Operations",
+    "Customer Service",
+    "Project44",
+    "SAP",
+    "Oracle Transportation Management",
+    "Shipment Visibility",
+    "Freight Management",
+    "Logistics Compliance",
+    "Operational Coordination",
+    "Distribution Management"
+  ]
+}

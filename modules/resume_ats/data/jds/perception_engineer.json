@@ -1,0 +1,90 @@
+{
+  "role_key": "PERCEPTION_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Robotics Perception Engineer",
+    "Autonomy Perception Engineer",
+    "Sensor Perception Engineer",
+    "Senior Perception Engineer",
+    "3D Perception Engineer"
+  ],
+  "required_skills": [
+    "Computer Vision",
+    "Sensor Fusion",
+    "LiDAR Processing",
+    "Point Cloud Processing",
+    "Deep Learning",
+    "Object Detection",
+    "Python Programming",
+    "C++ Programming",
+    "Camera Calibration",
+    "3D Geometry"
+  ],
+  "preferred_skills": [
+    "Semantic Segmentation",
+    "Multi-Object Tracking",
+    "Radar Signal Processing",
+    "Depth Estimation",
+    "Neural Network Quantization",
+    "Embedded AI Deployment",
+    "Synthetic Data Generation"
+  ],
+  "tools": [
+    "ROS",
+    "ROS2",
+    "NVIDIA Jetson",
+    "CUDA",
+    "TensorRT",
+    "PCL (Point Cloud Library)",
+    "OpenCV",
+    "Git",
+    "Docker",
+    "Weights & Biases"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "OpenCV",
+    "Open3D",
+    "ONNX",
+    "YOLO"
+  ],
+  "responsibilities": [
+    "Design and train deep learning models for object detection, classification, and segmentation using camera, LiDAR, and radar data",
+    "Develop sensor fusion algorithms that combine camera, LiDAR, and radar inputs to produce robust environmental perception outputs",
+    "Build and optimize point cloud processing pipelines for obstacle detection, ground segmentation, and 3D scene understanding",
+    "Implement multi-object tracking algorithms to maintain consistent identities of dynamic obstacles across consecutive sensor frames",
+    "Calibrate and synchronize multi-sensor rigs including cameras, LiDAR, and IMUs to ensure accurate spatial and temporal alignment",
+    "Optimize and deploy perception models on embedded GPU hardware using TensorRT to meet real-time inference latency budgets",
+    "Collaborate with planning and controls teams to define perception output formats that feed downstream autonomy modules",
+    "Evaluate perception system performance using precision, recall, and mAP metrics across diverse real-world test scenarios",
+    "Curate, label, and augment large-scale image and point cloud datasets to improve model robustness and generalization"
+  ],
+  "keywords": [
+    "Computer Vision",
+    "Perception",
+    "Sensor Fusion",
+    "LiDAR",
+    "Point Cloud Processing",
+    "Deep Learning",
+    "Object Detection",
+    "Object Tracking",
+    "Semantic Segmentation",
+    "Camera Calibration",
+    "3D Geometry",
+    "Neural Networks",
+    "CNN",
+    "Convolutional Neural Networks",
+    "PyTorch",
+    "TensorFlow",
+    "CUDA",
+    "TensorRT",
+    "NVIDIA Jetson",
+    "Radar Processing",
+    "Depth Estimation",
+    "Multi-Sensor Calibration",
+    "ONNX",
+    "Embedded AI",
+    "Autonomous Vehicles"
+  ]
+}

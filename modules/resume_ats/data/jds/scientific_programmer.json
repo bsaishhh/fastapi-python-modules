@@ -1,0 +1,85 @@
+{
+  "role_key": "SCIENTIFIC_PROGRAMMER",
+  "family": "Core Science & R&D",
+  "sub_roles": [
+    "Research Software Engineer",
+    "Computational Scientist",
+    "Scientific Software Developer",
+    "Senior Scientific Programmer",
+    "HPC Software Engineer"
+  ],
+  "required_skills": [
+    "Scientific Computing",
+    "Python Programming",
+    "C++ Programming",
+    "Numerical Methods",
+    "High-Performance Computing (HPC)",
+    "Algorithm Development",
+    "Parallel Computing",
+    "Data Structures and Algorithms",
+    "Linear Algebra"
+  ],
+  "preferred_skills": [
+    "GPU Computing (CUDA)",
+    "Fortran Programming",
+    "Computational Fluid Dynamics (CFD)",
+    "Machine Learning (ML)",
+    "Distributed Computing",
+    "Mathematical Modeling",
+    "Version Control Best Practices"
+  ],
+  "tools": [
+    "Git",
+    "AWS",
+    "Docker",
+    "SLURM",
+    "Jupyter Notebook",
+    "Visual Studio Code",
+    "Linux",
+    "MATLAB"
+  ],
+  "frameworks": [
+    "NumPy",
+    "SciPy",
+    "PyTorch",
+    "MPI",
+    "OpenMP",
+    "Pandas"
+  ],
+  "responsibilities": [
+    "Design and implement high-performance numerical algorithms in Python and C++ to solve complex scientific computing problems",
+    "Develop and optimize parallel computing code using MPI and OpenMP to accelerate simulations on high-performance computing clusters",
+    "Collaborate with research scientists to translate mathematical models into efficient, production-grade software implementations",
+    "Profile and optimize computational code to reduce runtime and memory usage across large-scale scientific simulations",
+    "Build and maintain reusable scientific software libraries and APIs to support cross-team research and reproducibility",
+    "Write automated tests and documentation to ensure correctness and maintainability of scientific codebases",
+    "Integrate GPU-accelerated computing techniques to speed up data-intensive numerical simulations and analyses",
+    "Validate simulation results against experimental or analytical benchmarks to ensure scientific accuracy"
+  ],
+  "keywords": [
+    "Scientific Computing",
+    "Python",
+    "C++",
+    "Numerical Methods",
+    "HPC",
+    "High-Performance Computing",
+    "Parallel Computing",
+    "Algorithm Development",
+    "Linear Algebra",
+    "GPU Computing",
+    "CUDA",
+    "Fortran",
+    "CFD",
+    "Computational Fluid Dynamics",
+    "Machine Learning",
+    "ML",
+    "Distributed Computing",
+    "Mathematical Modeling",
+    "MPI",
+    "OpenMP",
+    "Research Software Engineering",
+    "Simulation",
+    "Numerical Optimization",
+    "Reproducible Research"
+  ]
+}

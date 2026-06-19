@@ -1,0 +1,90 @@
+{
+  "role_key": "ROBOTICS_SOFTWARE_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Robotics Software Developer",
+    "Autonomy Software Engineer",
+    "Robot Software Engineer",
+    "Senior Robotics Software Engineer",
+    "Embedded Robotics Software Engineer"
+  ],
+  "required_skills": [
+    "Robot Operating System (ROS)",
+    "ROS2",
+    "C++ Programming",
+    "Python Programming",
+    "Software Architecture Design",
+    "Motion Planning Algorithms",
+    "Multithreaded Programming",
+    "Linux Systems Programming",
+    "Object-Oriented Programming",
+    "Git Version Control"
+  ],
+  "preferred_skills": [
+    "Behavior Trees",
+    "State Machine Design",
+    "Real-Time Operating Systems (RTOS)",
+    "Distributed Systems",
+    "Continuous Integration / Continuous Deployment (CI/CD)",
+    "Docker Containerization",
+    "Algorithm Optimization"
+  ],
+  "tools": [
+    "ROS",
+    "ROS2",
+    "Gazebo",
+    "Git",
+    "GitHub",
+    "Docker",
+    "Jenkins",
+    "Jira",
+    "Linux",
+    "Visual Studio Code"
+  ],
+  "frameworks": [
+    "ROS",
+    "ROS2",
+    "MoveIt",
+    "Nav2",
+    "Boost",
+    "OpenCV"
+  ],
+  "responsibilities": [
+    "Design and implement modular ROS2-based software architectures that integrate perception, planning, and control subsystems for autonomous robots",
+    "Develop high-performance C++ and Python code to drive real-time robotic behaviors under strict latency and memory constraints",
+    "Build and maintain motion planning and trajectory generation algorithms that enable safe robot navigation in dynamic environments",
+    "Architect and implement state machines and behavior trees to coordinate complex multi-step autonomous robot task execution",
+    "Write and maintain unit, integration, and simulation tests using Gazebo to validate robot software before hardware deployment",
+    "Collaborate with hardware and perception teams to define clean software interfaces between sensors, actuators, and control modules",
+    "Optimize multithreaded and concurrent code to meet real-time performance requirements on embedded and onboard robot computers",
+    "Set up and maintain CI/CD pipelines to automate build, test, and deployment of robotics software across robot fleets",
+    "Debug field issues and analyze robot log data to diagnose software faults and improve system reliability"
+  ],
+  "keywords": [
+    "ROS",
+    "ROS2",
+    "Robot Operating System",
+    "C++",
+    "Python",
+    "Software Architecture",
+    "Motion Planning",
+    "Trajectory Generation",
+    "Behavior Trees",
+    "State Machines",
+    "Multithreading",
+    "Concurrency",
+    "Linux",
+    "RTOS",
+    "Real-Time Operating Systems",
+    "CI/CD",
+    "Continuous Integration",
+    "Continuous Deployment",
+    "Docker",
+    "Gazebo Simulation",
+    "Nav2",
+    "MoveIt",
+    "Git",
+    "Version Control",
+    "Autonomous Navigation"
+  ]
+}

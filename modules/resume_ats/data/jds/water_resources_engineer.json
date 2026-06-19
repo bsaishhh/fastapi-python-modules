@@ -1,0 +1,83 @@
+{
+  "role_key": "WATER_RESOURCES_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Hydraulic Engineer",
+    "Water Resources Project Engineer",
+    "Senior Water Resources Engineer",
+    "Hydrologic Engineer",
+    "Stormwater Engineer"
+  ],
+  "required_skills": [
+    "Hydrology",
+    "Hydraulics",
+    "Stormwater Management",
+    "Floodplain Analysis",
+    "Watershed Modeling",
+    "Water Distribution System Design",
+    "Engineering Calculations",
+    "Permitting and Regulatory Compliance",
+    "AutoCAD Drafting"
+  ],
+  "preferred_skills": [
+    "Wastewater Treatment Design",
+    "Geographic Information Systems (GIS)",
+    "Dam and Levee Design",
+    "Sediment Transport Analysis",
+    "Professional Engineer (PE) Licensure",
+    "Climate Resilience Planning",
+    "Pump Station Design"
+  ],
+  "tools": [
+    "HEC-RAS",
+    "HEC-HMS",
+    "AutoCAD",
+    "Civil 3D",
+    "ArcGIS",
+    "EPA SWMM",
+    "WaterCAD",
+    "Bluebeam"
+  ],
+  "frameworks": [
+    "FEMA Floodplain Standards",
+    "AASHTO Standards",
+    "ASCE Standards",
+    "EPA Regulations"
+  ],
+  "responsibilities": [
+    "Develop hydrologic and hydraulic models using HEC-RAS and HEC-HMS to design stormwater and floodplain management systems",
+    "Design water distribution and conveyance systems to meet municipal capacity, pressure, and regulatory requirements",
+    "Conduct floodplain studies and watershed analyses to support FEMA compliance and flood risk mitigation planning",
+    "Prepare construction documents, specifications, and engineering calculations for water and wastewater infrastructure projects",
+    "Coordinate with regulatory agencies to secure permits for stormwater discharge, wetland impacts, and water resource projects",
+    "Perform sediment transport and erosion analyses to evaluate the long-term stability of waterways and drainage channels",
+    "Collaborate with civil and environmental engineers to integrate water resource designs into broader infrastructure projects",
+    "Conduct field investigations and data collection to validate hydraulic models and support design recommendations"
+  ],
+  "keywords": [
+    "Water Resources Engineering",
+    "Hydrology",
+    "Hydraulics",
+    "Stormwater Management",
+    "Floodplain Analysis",
+    "Watershed Modeling",
+    "Water Distribution Design",
+    "Wastewater Treatment",
+    "HEC-RAS",
+    "HEC-HMS",
+    "GIS",
+    "Geographic Information Systems",
+    "FEMA Compliance",
+    "Dam Design",
+    "Levee Design",
+    "Sediment Transport",
+    "PE License",
+    "Professional Engineer",
+    "Pump Station Design",
+    "EPA Regulations",
+    "Climate Resilience",
+    "Drainage Design",
+    "WaterCAD",
+    "SWMM"
+  ]
+}

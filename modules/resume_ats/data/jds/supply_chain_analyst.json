@@ -1,0 +1,88 @@
+{
+  "role_key": "SUPPLY_CHAIN_ANALYST",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Supply Chain Analyst",
+    "Supply Planning Analyst",
+    "Operations Analyst",
+    "Inventory Analyst",
+    "Supply Chain Planning Analyst"
+  ],
+  "required_skills": [
+    "Supply Chain Planning and Demand Forecasting",
+    "Inventory Management and Inventory Optimization",
+    "Sales and Operations Planning (S&OP)",
+    "Data Analysis and Business Analytics",
+    "Enterprise Resource Planning (ERP) Systems",
+    "Supply Chain Performance Measurement and KPI Analysis",
+    "Advanced Microsoft Excel and Spreadsheet Modeling",
+    "Statistical Forecasting and Predictive Analytics"
+  ],
+  "preferred_skills": [
+    "Network Optimization and Distribution Modeling",
+    "Supplier Performance Evaluation",
+    "Risk Management and Supply Chain Resilience",
+    "Business Intelligence Dashboard Development",
+    "Lean Six Sigma Methodologies",
+    "Cost-to-Serve Analysis",
+    "Scenario Planning and What-If Modeling",
+    "Sustainability and Green Supply Chain Practices"
+  ],
+  "tools": [
+    "SAP S/4HANA",
+    "Oracle SCM Cloud",
+    "Microsoft Excel",
+    "Power BI",
+    "Tableau",
+    "Kinaxis RapidResponse",
+    "Blue Yonder",
+    "Microsoft Power Query",
+    "Snowflake",
+    "Alteryx"
+  ],
+  "frameworks": [
+    "Apache Spark",
+    "Pandas",
+    "NumPy",
+    "scikit-learn",
+    "dbt",
+    "Apache Airflow"
+  ],
+  "responsibilities": [
+    "Analyze demand patterns, inventory levels, and replenishment cycles to improve forecast accuracy and maintain optimal stock availability across distribution networks.",
+    "Develop supply chain performance dashboards using business intelligence tools to monitor service levels, inventory turnover, and operational efficiency metrics.",
+    "Collaborate with procurement, logistics, and production teams to align supply plans with business objectives and customer demand forecasts.",
+    "Build statistical forecasting models using historical sales data to improve planning accuracy and reduce inventory carrying costs.",
+    "Conduct root cause analysis on supply disruptions, stockouts, and excess inventory situations to recommend corrective operational actions.",
+    "Evaluate supplier and distribution performance using key performance indicators and present actionable insights to cross-functional stakeholders.",
+    "Optimize inventory policies, safety stock parameters, and replenishment strategies to balance service levels and working capital objectives.",
+    "Prepare scenario-based analyses to assess supply chain risks, capacity constraints, and demand fluctuations affecting operational performance."
+  ],
+  "keywords": [
+    "Supply Chain Planning",
+    "Demand Forecasting",
+    "Inventory Management",
+    "Inventory Optimization",
+    "S&OP",
+    "Sales and Operations Planning",
+    "Business Analytics",
+    "Data Analysis",
+    "ERP",
+    "Enterprise Resource Planning",
+    "Supply Chain KPIs",
+    "Forecast Accuracy",
+    "Power BI",
+    "Tableau",
+    "SAP",
+    "Oracle SCM",
+    "Excel Modeling",
+    "Predictive Analytics",
+    "Supply Chain Visibility",
+    "Supply Planning",
+    "Inventory Turnover",
+    "Service Level Management",
+    "Supply Chain Resilience",
+    "Lean Six Sigma",
+    "Operational Efficiency"
+  ]
+}

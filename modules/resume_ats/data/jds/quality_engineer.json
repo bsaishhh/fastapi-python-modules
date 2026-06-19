@@ -1,0 +1,88 @@
+{
+  "role_key": "QUALITY_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Quality Engineer",
+    "Quality Assurance Engineer",
+    "Supplier Quality Engineer",
+    "Manufacturing Quality Engineer",
+    "Quality Systems Engineer"
+  ],
+  "required_skills": [
+    "Quality Management Systems",
+    "QMS",
+    "Statistical Process Control",
+    "SPC",
+    "Root Cause Analysis",
+    "Failure Mode and Effects Analysis",
+    "FMEA",
+    "ISO 9001 Compliance",
+    "Corrective and Preventive Action",
+    "CAPA"
+  ],
+  "preferred_skills": [
+    "Supplier Quality Management",
+    "Six Sigma Green Belt",
+    "Measurement Systems Analysis",
+    "MSA",
+    "Internal Auditing",
+    "AS9100 Compliance",
+    "Advanced Product Quality Planning",
+    "APQP"
+  ],
+  "tools": [
+    "Minitab",
+    "SAP",
+    "JIRA",
+    "Zeiss CMM Software",
+    "Oracle ERP",
+    "SolidWorks",
+    "Power BI",
+    "QAD Quality Management",
+    "Arena PLM",
+    "Net-Inspect"
+  ],
+  "frameworks": [
+    "8D Problem Solving",
+    "DMAIC",
+    "PPAP Framework",
+    "APQP Framework"
+  ],
+  "responsibilities": [
+    "Develop and maintain quality control plans, inspection criteria, and PPAP documentation for new and existing products",
+    "Lead root cause analysis and 8D investigations for internal and customer quality complaints to drive corrective action",
+    "Conduct supplier quality audits and evaluations to ensure incoming materials meet specification and compliance requirements",
+    "Analyze production quality data using SPC charts to detect trends and proactively address process variation",
+    "Facilitate FMEA and control plan reviews with cross-functional teams during new product introduction",
+    "Manage CAPA processes from issue identification through verification of effectiveness and closure",
+    "Perform internal quality audits to ensure compliance with ISO 9001, AS9100, or industry-specific standards",
+    "Collaborate with manufacturing and engineering teams to resolve nonconformances and reduce scrap and rework rates"
+  ],
+  "keywords": [
+    "Quality Engineering",
+    "QMS",
+    "Quality Management System",
+    "SPC",
+    "Statistical Process Control",
+    "FMEA",
+    "Root Cause Analysis",
+    "CAPA",
+    "Corrective and Preventive Action",
+    "ISO 9001",
+    "AS9100",
+    "PPAP",
+    "APQP",
+    "8D Problem Solving",
+    "Supplier Quality",
+    "Internal Auditing",
+    "Measurement Systems Analysis",
+    "MSA",
+    "Six Sigma",
+    "Nonconformance Management",
+    "Control Plans",
+    "Inspection Planning",
+    "Continuous Improvement",
+    "CMM",
+    "Coordinate Measuring Machine"
+  ]
+}

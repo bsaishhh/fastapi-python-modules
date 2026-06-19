@@ -1,0 +1,84 @@
+{
+  "role_key": "RISK_ANALYST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Market Risk Analyst",
+    "Credit Risk Analyst",
+    "Senior Risk Analyst",
+    "Risk Management Analyst",
+    "Enterprise Risk Analyst"
+  ],
+  "required_skills": [
+    "Risk Management",
+    "Value at Risk",
+    "VaR",
+    "Financial Modeling",
+    "Statistical Analysis",
+    "Regulatory Compliance Reporting",
+    "Stress Testing",
+    "Credit Risk Analysis",
+    "SQL Database Querying",
+    "Excel Modeling"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Basel III Compliance",
+    "Liquidity Risk Modeling",
+    "Operational Risk Assessment",
+    "Machine Learning",
+    "Counterparty Risk Analysis",
+    "Derivatives Knowledge"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "SQL Server",
+    "Excel",
+    "Murex",
+    "Tableau",
+    "MATLAB",
+    "Power BI",
+    "SAS"
+  ],
+  "frameworks": [
+    "NumPy",
+    "pandas",
+    "scikit-learn",
+    "statsmodels"
+  ],
+  "responsibilities": [
+    "Monitor portfolio-level market and credit risk exposures against established limits and escalate breaches to senior management",
+    "Develop and maintain Value at Risk and stress testing models to quantify potential losses under adverse market scenarios",
+    "Prepare regulatory risk reports in compliance with Basel III, Dodd-Frank, and other applicable financial regulations",
+    "Analyze counterparty credit exposure and recommend hedging or limit adjustments to mitigate concentration risk",
+    "Collaborate with trading desks and risk committees to evaluate the risk implications of new products and trading strategies",
+    "Conduct scenario and sensitivity analysis to assess portfolio vulnerability to interest rate, FX, and credit spread shocks",
+    "Build automated dashboards and reporting tools to track key risk indicators and limit utilization in real time",
+    "Validate risk models and data inputs to ensure accuracy and consistency across front-office and risk management systems"
+  ],
+  "keywords": [
+    "Risk Analyst",
+    "Risk Management",
+    "Market Risk",
+    "Credit Risk",
+    "Operational Risk",
+    "Value at Risk",
+    "VaR",
+    "Stress Testing",
+    "Basel III",
+    "Dodd-Frank",
+    "Regulatory Compliance",
+    "FRTB",
+    "Liquidity Risk",
+    "Counterparty Risk",
+    "Risk Reporting",
+    "SQL",
+    "Excel",
+    "Financial Modeling",
+    "Statistical Analysis",
+    "Scenario Analysis",
+    "Python",
+    "FRM",
+    "CFA",
+    "Risk Limits"
+  ]
+}

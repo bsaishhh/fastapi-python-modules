@@ -1,0 +1,88 @@
+{
+  "role_key": "INDUSTRIAL_ROBOTICS_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Robotics Integration Engineer",
+    "Industrial Robot Programmer",
+    "Manufacturing Robotics Engineer",
+    "Robot Cell Engineer",
+    "Senior Industrial Robotics Engineer"
+  ],
+  "required_skills": [
+    "Industrial Robot Programming",
+    "Robot Cell Design",
+    "FANUC Robot Programming",
+    "ABB Robot Programming",
+    "KUKA Robot Programming",
+    "Kinematics and Dynamics",
+    "Robot Teach Pendant Programming",
+    "Safety System Design",
+    "Process Integration (Welding/Painting/Assembly)",
+    "Electrical and Mechanical Integration"
+  ],
+  "preferred_skills": [
+    "Vision-Guided Robotics",
+    "Offline Robot Programming",
+    "PLC Integration",
+    "Collaborative Robot (Cobot) Programming",
+    "Robot Path Optimization",
+    "Six Sigma",
+    "Lean Manufacturing"
+  ],
+  "tools": [
+    "FANUC RoboGuide",
+    "ABB RobotStudio",
+    "KUKA.Sim",
+    "Universal Robots PolyScope",
+    "Siemens TIA Portal",
+    "AutoCAD",
+    "SolidWorks",
+    "Git",
+    "Allen-Bradley RSLogix",
+    "Cognex Vision Software"
+  ],
+  "frameworks": [
+    "ROS-Industrial",
+    "ROS",
+    "RobotStudio",
+    "RoboDK"
+  ],
+  "responsibilities": [
+    "Program and configure industrial robots from manufacturers such as FANUC, ABB, and KUKA for welding, assembly, and material handling tasks",
+    "Design robotic work cells including fixturing, safety enclosures, and end-effector tooling to optimize cycle time and throughput",
+    "Develop and validate robot motion paths using teach pendant and offline programming software to meet production quality standards",
+    "Integrate vision systems and sensors with industrial robots to enable part inspection and pick-and-place accuracy",
+    "Collaborate with manufacturing engineers to design safety systems and interlocks that comply with industrial robot safety standards",
+    "Troubleshoot and optimize robot programs and PLC interfaces to resolve production line faults and minimize downtime",
+    "Conduct robot cell commissioning and run-off testing to validate cycle time, accuracy, and repeatability before production launch",
+    "Implement collaborative robot (cobot) solutions for tasks requiring close human-robot interaction on the production floor",
+    "Document robot programs, cell layouts, and maintenance procedures to support ongoing production operations and training"
+  ],
+  "keywords": [
+    "Industrial Robotics",
+    "FANUC",
+    "ABB",
+    "KUKA",
+    "Robot Programming",
+    "Teach Pendant",
+    "RoboGuide",
+    "RobotStudio",
+    "KUKA.Sim",
+    "Robot Cell Design",
+    "Welding Automation",
+    "Material Handling",
+    "Vision-Guided Robotics",
+    "Cobot",
+    "Collaborative Robots",
+    "Universal Robots",
+    "ROS-Industrial",
+    "Safety System Design",
+    "PLC Integration",
+    "Offline Programming",
+    "Lean Manufacturing",
+    "Six Sigma",
+    "Cycle Time Optimization",
+    "RoboDK",
+    "Pick and Place"
+  ]
+}

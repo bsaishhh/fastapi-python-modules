@@ -1,0 +1,84 @@
+{
+  "role_key": "HARDWARE_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Hardware Design Engineer",
+    "Computer Hardware Engineer",
+    "Hardware Development Engineer",
+    "Senior Hardware Engineer",
+    "Product Hardware Engineer"
+  ],
+  "required_skills": [
+    "Hardware Architecture Design",
+    "Schematic Design",
+    "PCB Design (Printed Circuit Board Design)",
+    "Digital & Analog Circuit Design",
+    "Hardware Bring-Up & Debugging",
+    "Component Selection & Sourcing",
+    "Hardware Requirements Specification",
+    "Bench Testing & Validation"
+  ],
+  "preferred_skills": [
+    "FPGA-based Hardware Design",
+    "Embedded Systems Integration",
+    "DFM/DFT (Design for Manufacturing/Testability)",
+    "High-Speed Interface Design (USB, PCIe, HDMI)",
+    "Power Supply Design",
+    "Mechanical-Electrical Co-Design"
+  ],
+  "tools": [
+    "Altium Designer",
+    "Cadence OrCAD",
+    "KiCad",
+    "LTspice",
+    "Keysight Oscilloscope",
+    "JTAG Debugger",
+    "JIRA",
+    "Git"
+  ],
+  "frameworks": [
+    "SPICE",
+    "Simulink",
+    "Cadence Virtuoso",
+    "National Instruments LabVIEW"
+  ],
+  "responsibilities": [
+    "Design and architect hardware systems including schematics, PCB layouts, and component selection for new product development.",
+    "Lead hardware bring-up activities, debugging prototype boards using oscilloscopes, logic analyzers, and JTAG debuggers.",
+    "Develop hardware requirements specifications and architecture documents translating product requirements into testable hardware designs.",
+    "Collaborate cross-functionally with firmware, mechanical, and industrial design teams to deliver integrated hardware products.",
+    "Select and qualify electronic components, balancing performance, cost, availability, and long-term supply chain reliability.",
+    "Conduct bench testing and validation of hardware prototypes against functional, electrical, and environmental specifications.",
+    "Drive design for manufacturing (DFM) and design for testability (DFT) reviews to ensure smooth production scale-up.",
+    "Investigate and resolve field failures and hardware defects through root-cause analysis and corrective design changes.",
+    "Create and maintain hardware design documentation including schematics, BOMs, and test procedures throughout the product lifecycle.",
+    "Coordinate with contract manufacturers and suppliers during prototype builds and mass production ramp-up."
+  ],
+  "keywords": [
+    "Hardware Engineering",
+    "Hardware Design",
+    "Hardware Architecture",
+    "Schematic Design",
+    "PCB Design",
+    "Printed Circuit Board",
+    "Digital Circuit Design",
+    "Analog Circuit Design",
+    "Hardware Bring-Up",
+    "Component Selection",
+    "Bench Testing",
+    "Altium Designer",
+    "OrCAD",
+    "KiCad",
+    "LTspice",
+    "JTAG",
+    "FPGA",
+    "Embedded Systems",
+    "DFM",
+    "DFT",
+    "USB",
+    "PCIe",
+    "HDMI",
+    "High-Speed Interface Design",
+    "Power Supply Design"
+  ]
+}

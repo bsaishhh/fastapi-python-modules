@@ -1,0 +1,90 @@
+{
+  "role_key": "AUTOMATION_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Industrial Automation Engineer",
+    "Process Automation Engineer",
+    "PLC Engineer",
+    "Manufacturing Automation Engineer",
+    "Senior Automation Engineer"
+  ],
+  "required_skills": [
+    "PLC Programming",
+    "SCADA Systems",
+    "Industrial Automation",
+    "HMI Development",
+    "Ladder Logic Programming",
+    "Process Control",
+    "Electrical Schematics Reading",
+    "Python Programming",
+    "Industrial Networking Protocols",
+    "Control Systems Design"
+  ],
+  "preferred_skills": [
+    "Robotic Cell Integration",
+    "Manufacturing Execution Systems (MES)",
+    "Predictive Maintenance",
+    "Six Sigma",
+    "Functional Safety Standards",
+    "Vision-Guided Automation",
+    "Digital Twin Development"
+  ],
+  "tools": [
+    "Siemens TIA Portal",
+    "Allen-Bradley RSLogix",
+    "Rockwell Automation",
+    "Wonderware",
+    "Ignition SCADA",
+    "FactoryTalk",
+    "Git",
+    "AutoCAD Electrical",
+    "OPC UA",
+    "Modbus"
+  ],
+  "frameworks": [
+    "CODESYS",
+    "Beckhoff TwinCAT",
+    "OPC UA",
+    "Modbus",
+    "EtherCAT",
+    "ROS"
+  ],
+  "responsibilities": [
+    "Design and program PLC-based control logic to automate manufacturing processes and industrial equipment operations",
+    "Develop and configure SCADA and HMI systems to provide real-time monitoring and control of automated production lines",
+    "Integrate sensors, actuators, and industrial robots into automated work cells to optimize throughput and reduce manual labor",
+    "Troubleshoot and debug PLC programs, electrical circuits, and industrial network communication issues to minimize production downtime",
+    "Configure and commission industrial networking protocols such as EtherCAT, Profinet, and Modbus for device-to-device communication",
+    "Collaborate with mechanical and process engineers to design automated workflows that improve manufacturing efficiency and quality",
+    "Conduct factory acceptance testing and site commissioning to validate automated system performance before production rollout",
+    "Implement predictive maintenance strategies using sensor data analytics to reduce unplanned equipment downtime",
+    "Document control system architecture, wiring diagrams, and standard operating procedures for automated production systems"
+  ],
+  "keywords": [
+    "PLC Programming",
+    "SCADA",
+    "HMI",
+    "Industrial Automation",
+    "Ladder Logic",
+    "Process Control",
+    "Siemens TIA Portal",
+    "Allen-Bradley",
+    "RSLogix",
+    "Rockwell Automation",
+    "EtherCAT",
+    "Profinet",
+    "Modbus",
+    "OPC UA",
+    "Industrial Networking",
+    "Manufacturing Execution Systems",
+    "MES",
+    "Robotic Cell Integration",
+    "Predictive Maintenance",
+    "Six Sigma",
+    "Functional Safety",
+    "CODESYS",
+    "Beckhoff TwinCAT",
+    "Factory Acceptance Testing",
+    "Digital Twin"
+  ]
+}

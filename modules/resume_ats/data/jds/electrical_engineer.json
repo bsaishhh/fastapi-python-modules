@@ -1,0 +1,89 @@
+{
+  "role_key": "ELECTRICAL_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Electrical Design Engineer",
+    "Power Systems Engineer",
+    "Electrical Engineer (EE)",
+    "Junior Electrical Engineer",
+    "Electrical Project Engineer"
+  ],
+  "required_skills": [
+    "Circuit Design",
+    "Electrical Circuit Analysis",
+    "Power Systems",
+    "Power Electronics",
+    "AutoCAD Electrical",
+    "PCB Design (Printed Circuit Board Design)",
+    "Electrical Schematics",
+    "Three-Phase Power Systems",
+    "Electrical Safety Standards",
+    "Control Systems"
+  ],
+  "preferred_skills": [
+    "Renewable Energy Systems",
+    "Motor Control Design",
+    "SCADA Systems",
+    "Electrical Load Calculations",
+    "Power Quality Analysis",
+    "Switchgear Design",
+    "Energy Management Systems"
+  ],
+  "tools": [
+    "AutoCAD",
+    "MATLAB",
+    "Simulink",
+    "ETAP",
+    "PSpice",
+    "Altium Designer",
+    "SKM PowerTools",
+    "EPLAN Electric P8"
+  ],
+  "frameworks": [
+    "LTspice",
+    "PLECS",
+    "National Instruments LabVIEW",
+    "TIA Portal",
+    "Modbus",
+    "DNP3"
+  ],
+  "responsibilities": [
+    "Design and develop electrical schematics, single-line diagrams, and panel layouts for power distribution systems using AutoCAD Electrical.",
+    "Perform electrical load calculations, short-circuit analysis, and protective device coordination studies to ensure system safety and code compliance.",
+    "Architect power distribution systems including transformers, switchgear, and circuit breakers for industrial and commercial facility installations.",
+    "Conduct simulations in MATLAB Simulink and ETAP to validate power flow, voltage stability, and fault current scenarios.",
+    "Collaborate with mechanical and civil engineering teams to integrate electrical systems into broader facility and infrastructure designs.",
+    "Review and approve vendor electrical drawings, equipment specifications, and bill of materials for procurement and installation.",
+    "Ensure all electrical designs comply with NEC, IEEE, and IEC standards as well as local regulatory requirements.",
+    "Lead field commissioning, testing, and troubleshooting of electrical systems including motors, generators, and control panels.",
+    "Develop technical documentation, design calculations, and engineering reports to support project approvals and client deliverables.",
+    "Optimize energy efficiency and power quality through harmonic analysis, power factor correction, and load balancing strategies."
+  ],
+  "keywords": [
+    "Electrical Engineering",
+    "EE",
+    "Circuit Design",
+    "Power Systems",
+    "Power Electronics",
+    "PCB Design",
+    "Printed Circuit Board Design",
+    "AutoCAD",
+    "AutoCAD Electrical",
+    "MATLAB",
+    "Simulink",
+    "ETAP",
+    "Three-Phase Power",
+    "Single-Line Diagrams",
+    "Load Calculations",
+    "Short-Circuit Analysis",
+    "Switchgear",
+    "Control Systems",
+    "SCADA",
+    "Renewable Energy",
+    "NEC Compliance",
+    "IEEE Standards",
+    "IEC Standards",
+    "Power Quality Analysis",
+    "Motor Control"
+  ]
+}

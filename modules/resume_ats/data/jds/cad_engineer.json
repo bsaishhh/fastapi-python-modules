@@ -1,0 +1,84 @@
+{
+  "role_key": "CAD_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior CAD Engineer",
+    "CAD Designer",
+    "CAD Drafter",
+    "Mechanical CAD Engineer",
+    "CAD/CAM Engineer"
+  ],
+  "required_skills": [
+    "Computer-Aided Design",
+    "CAD",
+    "3D Modeling",
+    "Parametric Modeling",
+    "Geometric Dimensioning and Tolerancing",
+    "GD&T",
+    "Engineering Drawings",
+    "Assembly Modeling",
+    "Drafting Standards"
+  ],
+  "preferred_skills": [
+    "Surface Modeling",
+    "Sheet Metal Modeling",
+    "Configuration Management",
+    "Reverse Engineering",
+    "CAM Programming",
+    "Large Assembly Management",
+    "ASME Y14.5 Standards"
+  ],
+  "tools": [
+    "SolidWorks",
+    "Creo",
+    "AutoCAD",
+    "Siemens NX",
+    "Inventor",
+    "PTC Windchill",
+    "Teamcenter",
+    "PDM"
+  ],
+  "frameworks": [
+    "SolidWorks PDM",
+    "Vault",
+    "CATIA",
+    "Onshape"
+  ],
+  "responsibilities": [
+    "Create detailed 3D parametric models and 2D engineering drawings for mechanical parts and assemblies",
+    "Apply GD&T principles per ASME Y14.5 standards to define precise manufacturing and inspection tolerances",
+    "Maintain and organize CAD libraries, part numbering systems, and drawing templates within the PDM environment",
+    "Translate sketches, specifications, and design intent from engineers into accurate, manufacturable CAD models",
+    "Collaborate with mechanical engineers to update designs based on design reviews and test feedback",
+    "Manage engineering change orders and revision control to ensure drawing accuracy across the product lifecycle",
+    "Perform interference checks and large assembly modeling to verify fit across complex multi-part systems",
+    "Generate bill of materials and configuration data to support procurement and manufacturing handoff",
+    "Support reverse engineering efforts by modeling existing components from physical measurements or scan data"
+  ],
+  "keywords": [
+    "CAD",
+    "Computer-Aided Design",
+    "3D Modeling",
+    "Parametric Modeling",
+    "GD&T",
+    "Geometric Dimensioning and Tolerancing",
+    "ASME Y14.5",
+    "SolidWorks",
+    "Creo",
+    "AutoCAD",
+    "Siemens NX",
+    "Inventor",
+    "Engineering Drawings",
+    "Assembly Modeling",
+    "Surface Modeling",
+    "Sheet Metal Design",
+    "PDM",
+    "Configuration Management",
+    "Engineering Change Order",
+    "ECO",
+    "Bill of Materials",
+    "BOM",
+    "Reverse Engineering",
+    "Drafting Standards"
+  ]
+}

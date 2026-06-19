@@ -1,0 +1,90 @@
+{
+  "role_key": "MECHATRONICS_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Mechatronic Systems Engineer",
+    "Electromechanical Engineer",
+    "Robotics Mechatronics Engineer",
+    "Senior Mechatronics Engineer",
+    "Mechatronics Design Engineer"
+  ],
+  "required_skills": [
+    "Mechatronic System Design",
+    "Mechanical Design",
+    "Electrical Circuit Design",
+    "Embedded Systems Programming",
+    "Sensor and Actuator Integration",
+    "CAD Modeling",
+    "C/C++ Programming",
+    "PCB Design",
+    "Control Systems Design",
+    "Microcontroller Programming"
+  ],
+  "preferred_skills": [
+    "FPGA Design",
+    "Power Electronics",
+    "Finite Element Analysis (FEA)",
+    "3D Printing and Rapid Prototyping",
+    "Motor Selection and Sizing",
+    "Embedded Linux",
+    "Wireless Communication Protocols"
+  ],
+  "tools": [
+    "SolidWorks",
+    "Altium Designer",
+    "MATLAB",
+    "Simulink",
+    "Arduino",
+    "Git",
+    "Oscilloscope",
+    "Multimeter",
+    "JIRA",
+    "KiCad"
+  ],
+  "frameworks": [
+    "Arduino Framework",
+    "ROS",
+    "FreeRTOS",
+    "Eigen",
+    "Mbed",
+    "STM32Cube"
+  ],
+  "responsibilities": [
+    "Design integrated electromechanical systems combining mechanical structures, electrical circuits, and embedded control software into functional prototypes",
+    "Develop and validate mechanical designs using CAD tools and finite element analysis to ensure structural and functional integrity",
+    "Design and debug printed circuit boards and electrical schematics for sensor, actuator, and power distribution subsystems",
+    "Write embedded firmware in C or C++ to interface microcontrollers with sensors, motors, and communication peripherals",
+    "Select and size motors, actuators, and drive electronics to meet system torque, speed, and power requirements",
+    "Build and test physical prototypes using rapid prototyping techniques such as 3D printing and CNC machining",
+    "Collaborate with software and controls teams to ensure mechanical and electrical designs support intended control system behavior",
+    "Conduct system-level testing and debugging to identify and resolve mechanical, electrical, and firmware integration issues",
+    "Document design specifications, schematics, and test results to support manufacturing handoff and design reviews"
+  ],
+  "keywords": [
+    "Mechatronics",
+    "Mechanical Design",
+    "Electrical Design",
+    "Embedded Systems",
+    "Microcontroller Programming",
+    "PCB Design",
+    "CAD Modeling",
+    "SolidWorks",
+    "Altium Designer",
+    "Sensor Integration",
+    "Actuator Integration",
+    "Control Systems",
+    "FPGA",
+    "Power Electronics",
+    "Finite Element Analysis",
+    "FEA",
+    "3D Printing",
+    "Rapid Prototyping",
+    "Arduino",
+    "FreeRTOS",
+    "STM32",
+    "C/C++",
+    "Motor Sizing",
+    "Embedded Linux",
+    "Wireless Communication"
+  ]
+}

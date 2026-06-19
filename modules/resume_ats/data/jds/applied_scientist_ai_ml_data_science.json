@@ -1,0 +1,87 @@
+{
+  "role_key": "APPLIED_SCIENTIST",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Applied AI Scientist",
+    "Senior Applied Scientist",
+    "Applied Machine Learning Scientist",
+    "Applied Research Scientist",
+    "Staff Applied Scientist"
+  ],
+  "required_skills": [
+    "Applied Machine Learning",
+    "Statistical Modeling",
+    "Python Programming",
+    "Experimentation and A/B Testing",
+    "Model Development and Deployment",
+    "Data Analysis",
+    "Algorithm Design",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "Deep Learning",
+    "Causal Inference",
+    "Recommendation Systems",
+    "Natural Language Processing (NLP)",
+    "Optimization Techniques",
+    "Time Series Forecasting",
+    "Research Publication Experience"
+  ],
+  "tools": [
+    "AWS SageMaker",
+    "Databricks",
+    "Jupyter",
+    "MLflow",
+    "Spark",
+    "Snowflake",
+    "Airflow",
+    "Weights & Biases",
+    "Tableau"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "XGBoost",
+    "Pandas",
+    "Statsmodels"
+  ],
+  "responsibilities": [
+    "Translate ambiguous business problems into well-defined machine learning formulations and measurable success metrics",
+    "Design, build, and deploy machine learning models that directly improve key product and business metrics",
+    "Run rigorous A/B tests and causal analyses to quantify the real-world impact of deployed models",
+    "Collaborate closely with engineering teams to productionize models within existing platform infrastructure",
+    "Analyze large-scale datasets to uncover actionable insights that inform product and strategic decisions",
+    "Develop and refine algorithms for recommendation, ranking, forecasting, or personalization at scale",
+    "Communicate complex modeling results and trade-offs clearly to non-technical stakeholders and leadership",
+    "Iterate on model performance using offline evaluation and online experimentation to drive continuous improvement",
+    "Partner with data engineering teams to ensure high-quality, reliable data pipelines feed model training",
+    "Document methodologies and findings to support reproducibility and knowledge sharing across teams"
+  ],
+  "keywords": [
+    "Applied Scientist",
+    "Applied Machine Learning",
+    "Statistical Modeling",
+    "A/B Testing",
+    "Experimentation",
+    "Causal Inference",
+    "Model Deployment",
+    "Algorithm Design",
+    "Recommendation Systems",
+    "Personalization",
+    "Ranking Algorithms",
+    "Time Series Forecasting",
+    "Data Analysis",
+    "SQL",
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "XGBoost",
+    "Deep Learning",
+    "NLP",
+    "Natural Language Processing",
+    "Optimization",
+    "Research Publications"
+  ]
+}

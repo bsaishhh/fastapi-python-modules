@@ -1,0 +1,89 @@
+{
+  "role_key": "ENGINEERING_MANAGER",
+  "family": "Software Engineering",
+  "sub_roles": [
+    "Software Engineering Manager",
+    "EM",
+    "Senior Engineering Manager",
+    "Team Lead",
+    "Director of Engineering"
+  ],
+  "required_skills": [
+    "People Management",
+    "Performance Management",
+    "Software Development Lifecycle (SDLC)",
+    "Agile Methodology",
+    "Sprint Planning",
+    "Hiring and Recruiting",
+    "Stakeholder Management",
+    "Technical Project Management",
+    "1:1 Coaching",
+    "Cross-Functional Collaboration"
+  ],
+  "preferred_skills": [
+    "Budget and Headcount Planning",
+    "OKR Setting and Tracking",
+    "Conflict Resolution",
+    "Engineering Process Improvement",
+    "Career Development Planning",
+    "Vendor and Tool Evaluation",
+    "Diversity, Equity, and Inclusion (DEI) Initiatives"
+  ],
+  "tools": [
+    "Jira",
+    "Confluence",
+    "GitHub",
+    "GitLab",
+    "Slack",
+    "Linear",
+    "Greenhouse",
+    "Lattice",
+    "PagerDuty",
+    "Asana"
+  ],
+  "frameworks": [
+    "Scrum",
+    "Kanban",
+    "SAFe"
+  ],
+  "responsibilities": [
+    "Lead and grow a team of 6-12 software engineers through hiring, onboarding, mentorship, and performance reviews",
+    "Partner with product managers to translate business requirements into actionable, prioritized engineering roadmaps",
+    "Conduct regular 1:1 meetings to support career growth, address blockers, and provide actionable feedback to engineers",
+    "Drive sprint planning, backlog grooming, and retrospectives to ensure predictable and high-quality delivery",
+    "Manage performance reviews, promotion cases, and compensation planning in collaboration with HR business partners",
+    "Remove organizational and technical blockers that impede team velocity and cross-team collaboration",
+    "Balance technical debt reduction with feature delivery to maintain long-term codebase health and team morale",
+    "Collaborate with senior leadership to define hiring plans, team structure, and quarterly engineering OKRs",
+    "Foster an inclusive team culture that encourages psychological safety, knowledge sharing, and continuous learning",
+    "Escalate and coordinate response to critical production incidents, ensuring timely resolution and postmortems"
+  ],
+  "keywords": [
+    "Engineering Manager",
+    "People Management",
+    "Team Leadership",
+    "Agile",
+    "Scrum",
+    "Kanban",
+    "Sprint Planning",
+    "Performance Management",
+    "Performance Reviews",
+    "1:1s",
+    "Hiring",
+    "Recruiting",
+    "Talent Acquisition",
+    "Stakeholder Management",
+    "OKRs",
+    "SDLC",
+    "Software Development Lifecycle",
+    "Career Development",
+    "Mentorship",
+    "Coaching",
+    "Cross-Functional Leadership",
+    "Roadmap Planning",
+    "Headcount Planning",
+    "Retrospectives",
+    "Backlog Grooming",
+    "Technical Project Management"
+  ]
+}

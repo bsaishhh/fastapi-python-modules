@@ -1,0 +1,87 @@
+{
+  "role_key": "PROCUREMENT_ANALYST",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Procurement Analyst",
+    "Strategic Sourcing Analyst",
+    "Purchasing Analyst",
+    "Category Analyst",
+    "Procurement Operations Analyst"
+  ],
+  "required_skills": [
+    "Procurement Analysis and Spend Analytics",
+    "Strategic Sourcing and Supplier Evaluation",
+    "Contract Analysis and Procurement Compliance",
+    "Vendor Performance Management",
+    "Cost Reduction and Savings Identification",
+    "Data Analysis and Procurement Reporting",
+    "Category Management and Spend Management",
+    "Enterprise Resource Planning (ERP) Procurement Systems"
+  ],
+  "preferred_skills": [
+    "Supplier Risk Assessment",
+    "Negotiation Support and Bid Analysis",
+    "Procure-to-Pay (P2P) Process Optimization",
+    "Market Intelligence and Benchmarking",
+    "Business Intelligence Dashboard Development",
+    "Sustainability Procurement Practices",
+    "Financial Modeling and Cost Analysis",
+    "Supply Chain Risk Management"
+  ],
+  "tools": [
+    "SAP Ariba",
+    "Coupa",
+    "Oracle Procurement Cloud",
+    "SAP S/4HANA",
+    "Power BI",
+    "Tableau",
+    "Microsoft Excel",
+    "Jaggaer",
+    "Snowflake",
+    "Alteryx"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "dbt",
+    "Apache Spark",
+    "Apache Airflow"
+  ],
+  "responsibilities": [
+    "Analyze procurement spend data across categories to identify sourcing opportunities, cost-saving initiatives, and supplier consolidation strategies.",
+    "Evaluate supplier performance metrics, contract compliance, and purchasing trends to support strategic sourcing decisions.",
+    "Develop procurement dashboards and reports that provide visibility into spending patterns, supplier effectiveness, and savings achievements.",
+    "Conduct market research and benchmarking studies to support category management and supplier selection processes.",
+    "Collaborate with procurement managers and business stakeholders to improve sourcing strategies and purchasing efficiencies.",
+    "Assess supplier risks, contract obligations, and procurement compliance requirements to mitigate operational and financial exposure.",
+    "Support competitive bidding processes by analyzing vendor proposals, pricing structures, and total cost of ownership factors.",
+    "Prepare detailed procurement analyses and recommendations that drive cost optimization and supplier relationship improvements."
+  ],
+  "keywords": [
+    "Procurement Analytics",
+    "Spend Analysis",
+    "Strategic Sourcing",
+    "Supplier Evaluation",
+    "Vendor Management",
+    "Category Management",
+    "Contract Analysis",
+    "Procurement Compliance",
+    "Cost Reduction",
+    "Savings Analysis",
+    "Supplier Performance",
+    "ERP Procurement",
+    "SAP Ariba",
+    "Coupa",
+    "Oracle Procurement Cloud",
+    "Procure-to-Pay",
+    "P2P",
+    "Procurement Reporting",
+    "Market Intelligence",
+    "Supplier Risk Assessment",
+    "Total Cost of Ownership",
+    "TCO",
+    "Procurement Operations",
+    "Sourcing Strategy",
+    "Purchasing Analytics"
+  ]
+}

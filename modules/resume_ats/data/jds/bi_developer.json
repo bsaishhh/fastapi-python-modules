@@ -1,0 +1,81 @@
+{
+  "role_key": "BI_DEVELOPER",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Business Intelligence Developer",
+    "Senior BI Developer",
+    "Reporting Developer",
+    "BI Solutions Developer",
+    "Dashboard Developer"
+  ],
+  "required_skills": [
+    "Business Intelligence Development",
+    "SQL",
+    "Dashboard Design",
+    "Data Visualization",
+    "ETL Development",
+    "Data Warehousing",
+    "DAX (Data Analysis Expressions)",
+    "Report Automation"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Data Modeling",
+    "Cloud Data Platforms",
+    "Performance Tuning for BI Reports",
+    "Stakeholder Requirements Gathering",
+    "Row-Level Security Implementation",
+    "Self-Service BI Enablement"
+  ],
+  "tools": [
+    "Power BI",
+    "Tableau",
+    "Snowflake",
+    "SQL Server",
+    "Looker",
+    "Excel",
+    "SSRS",
+    "Azure",
+    "Qlik"
+  ],
+  "frameworks": [
+    "DAX",
+    "Power Query",
+    "SSAS",
+    "MDX"
+  ],
+  "responsibilities": [
+    "Design and build interactive dashboards and reports that provide real-time visibility into key business metrics",
+    "Develop and optimize DAX measures and calculated fields to support complex business reporting logic",
+    "Build and maintain ETL processes that feed accurate, timely data into business intelligence platforms",
+    "Collaborate with business stakeholders to gather reporting requirements and translate them into BI solutions",
+    "Implement row-level security and access controls to ensure appropriate data visibility across user groups",
+    "Optimize report and dashboard performance by tuning data models, queries, and refresh schedules",
+    "Maintain a centralized semantic data model that ensures consistent metrics across all BI reports",
+    "Train business users on self-service BI tools to reduce dependency on ad hoc reporting requests",
+    "Automate recurring reports and alerts to reduce manual effort and improve data-driven decision speed",
+    "Troubleshoot and resolve data discrepancies between source systems and BI reporting layers"
+  ],
+  "keywords": [
+    "BI Developer",
+    "Business Intelligence Development",
+    "Power BI",
+    "Tableau",
+    "Dashboard Design",
+    "Data Visualization",
+    "DAX",
+    "Power Query",
+    "SQL",
+    "ETL",
+    "Data Warehousing",
+    "Report Automation",
+    "Self-Service BI",
+    "Row-Level Security",
+    "SSRS",
+    "SSAS",
+    "MDX",
+    "Performance Tuning",
+    "Stakeholder Requirements",
+    "Qlik"
+  ]
+}

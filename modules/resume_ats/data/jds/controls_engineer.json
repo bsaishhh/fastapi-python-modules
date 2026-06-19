@@ -1,0 +1,89 @@
+{
+  "role_key": "CONTROLS_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Controls Systems Engineer",
+    "Feedback Control Engineer",
+    "Robotics Controls Engineer",
+    "Senior Controls Engineer",
+    "GNC Engineer (Guidance, Navigation & Control)"
+  ],
+  "required_skills": [
+    "Control Systems Design",
+    "PID Control",
+    "Model Predictive Control (MPC)",
+    "State Space Modeling",
+    "System Identification",
+    "MATLAB",
+    "Simulink",
+    "C++ Programming",
+    "Linear and Nonlinear Control Theory",
+    "Actuator Control"
+  ],
+  "preferred_skills": [
+    "Optimal Control",
+    "Adaptive Control",
+    "Kalman Filtering",
+    "Embedded Real-Time Control",
+    "Motor Control Algorithms",
+    "Robust Control Design",
+    "Trajectory Tracking"
+  ],
+  "tools": [
+    "MATLAB",
+    "Simulink",
+    "dSPACE",
+    "NI LabVIEW",
+    "Git",
+    "JIRA",
+    "CAN Bus Analyzer",
+    "Oscilloscope",
+    "ROS",
+    "Docker"
+  ],
+  "frameworks": [
+    "ROS",
+    "Eigen",
+    "Boost",
+    "PyTorch",
+    "CasADi",
+    "ACADO"
+  ],
+  "responsibilities": [
+    "Design and implement feedback control algorithms including PID and model predictive control for robotic and mechanical systems",
+    "Develop mathematical state-space and dynamic models of physical systems to support control algorithm design and validation",
+    "Perform system identification experiments to characterize plant dynamics and tune control parameters for optimal performance",
+    "Simulate and validate control algorithms in MATLAB and Simulink before deploying to embedded hardware platforms",
+    "Implement real-time embedded control software in C++ to drive motors, actuators, and mechanical subsystems with high precision",
+    "Tune and optimize control loops to meet stability, response time, and steady-state error performance requirements",
+    "Collaborate with mechanical and electrical engineers to define actuator and sensor specifications that meet control performance targets",
+    "Conduct hardware-in-the-loop and bench testing to validate control system behavior under real-world operating conditions",
+    "Analyze control system stability and robustness using frequency-domain and time-domain analysis techniques"
+  ],
+  "keywords": [
+    "Control Systems",
+    "PID Control",
+    "Model Predictive Control",
+    "MPC",
+    "State Space Modeling",
+    "System Identification",
+    "Linear Control",
+    "Nonlinear Control",
+    "Optimal Control",
+    "Adaptive Control",
+    "Kalman Filter",
+    "MATLAB",
+    "Simulink",
+    "Embedded Control",
+    "Motor Control",
+    "Actuator Control",
+    "Trajectory Tracking",
+    "Robust Control",
+    "GNC",
+    "Guidance Navigation and Control",
+    "Hardware-in-the-Loop",
+    "dSPACE",
+    "CAN Bus",
+    "Real-Time Systems"
+  ]
+}

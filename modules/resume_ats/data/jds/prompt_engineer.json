@@ -1,0 +1,85 @@
+{
+  "role_key": "PROMPT_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Senior Prompt Engineer",
+    "AI Prompt Designer",
+    "Conversational AI Engineer",
+    "Prompt and Evaluation Engineer",
+    "AI Interaction Designer"
+  ],
+  "required_skills": [
+    "Prompt Engineering",
+    "Large Language Models (LLM)",
+    "Prompt Chaining",
+    "Few-Shot and Zero-Shot Learning Techniques",
+    "Python Programming",
+    "Model Evaluation and Benchmarking",
+    "Conversational Design",
+    "Output Parsing and Structured Generation"
+  ],
+  "preferred_skills": [
+    "Retrieval-Augmented Generation (RAG)",
+    "Fine-Tuning",
+    "Multi-Agent Orchestration",
+    "A/B Testing for AI Outputs",
+    "Bias and Safety Evaluation",
+    "API Integration",
+    "User Research for AI Products"
+  ],
+  "tools": [
+    "OpenAI API",
+    "Anthropic API",
+    "PromptLayer",
+    "LangSmith",
+    "Postman",
+    "Jupyter",
+    "Weights & Biases",
+    "Notion",
+    "GitHub"
+  ],
+  "frameworks": [
+    "LangChain",
+    "LlamaIndex",
+    "Guidance",
+    "DSPy",
+    "Hugging Face Transformers"
+  ],
+  "responsibilities": [
+    "Design, test, and refine prompt templates that maximize accuracy, consistency, and safety of LLM outputs",
+    "Develop systematic prompt evaluation frameworks to benchmark performance across model versions and use cases",
+    "Build prompt chains and multi-step reasoning workflows to solve complex, multi-stage business problems",
+    "Collaborate with product teams to translate user requirements into effective conversational and task-based prompts",
+    "Conduct A/B tests on prompt variations to quantify impact on output quality, latency, and user satisfaction",
+    "Identify and mitigate prompt injection vulnerabilities and edge cases that produce unsafe or incorrect outputs",
+    "Document prompt design patterns and best practices to scale prompt engineering knowledge across teams",
+    "Analyze model failure cases and iterate on prompts or few-shot examples to close performance gaps",
+    "Partner with engineers to integrate optimized prompts into production APIs and customer-facing applications",
+    "Stay current with prompting research and techniques such as chain-of-thought and tree-of-thought reasoning"
+  ],
+  "keywords": [
+    "Prompt Engineer",
+    "Prompt Engineering",
+    "LLM",
+    "Large Language Models",
+    "Prompt Chaining",
+    "Chain-of-Thought",
+    "Few-Shot Learning",
+    "Zero-Shot Learning",
+    "In-Context Learning",
+    "Conversational AI",
+    "Conversational Design",
+    "RAG",
+    "Retrieval-Augmented Generation",
+    "Multi-Agent Orchestration",
+    "A/B Testing",
+    "Model Evaluation",
+    "Prompt Injection",
+    "AI Safety",
+    "Structured Output Generation",
+    "LangChain",
+    "DSPy",
+    "OpenAI",
+    "Anthropic Claude"
+  ]
+}

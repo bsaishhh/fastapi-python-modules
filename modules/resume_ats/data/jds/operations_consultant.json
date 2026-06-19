@@ -1,0 +1,78 @@
+{
+  "role_key": "OPERATIONS_CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Operations Strategy Consultant",
+    "Process Improvement Consultant",
+    "Supply Chain Consultant",
+    "Senior Operations Consultant",
+    "Operational Excellence Consultant"
+  ],
+  "required_skills": [
+    "Process Improvement",
+    "Operational Efficiency Analysis",
+    "Lean Methodology",
+    "Six Sigma",
+    "Supply Chain Optimization",
+    "Cost Reduction Analysis",
+    "Data Analysis",
+    "Business Process Mapping",
+    "Project Management",
+    "Stakeholder Management"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "SQL Database Querying",
+    "Inventory Management Analysis",
+    "Manufacturing Operations Knowledge",
+    "Change Management",
+    "Statistical Process Control",
+    "ERP Systems Knowledge"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "SAP",
+    "Power BI",
+    "Minitab",
+    "Visio"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Analyze end-to-end operational processes to identify bottlenecks, waste, and opportunities for efficiency improvement",
+    "Apply Lean and Six Sigma methodologies to redesign workflows and reduce cycle times across manufacturing or service operations",
+    "Build cost models to quantify potential savings from proposed operational changes and prioritize improvement initiatives",
+    "Conduct supply chain assessments evaluating inventory levels, supplier performance, and logistics network efficiency",
+    "Facilitate process improvement workshops with frontline staff and operations leadership to co-create solution designs",
+    "Develop standard operating procedures and performance dashboards to sustain operational improvements after implementation",
+    "Lead pilot programs testing process changes on a small scale before full-scale rollout across client operations",
+    "Present operational diagnostic findings and improvement roadmaps to plant managers and senior operations executives"
+  ],
+  "keywords": [
+    "Operations Consultant",
+    "Process Improvement",
+    "Operational Excellence",
+    "Lean Six Sigma",
+    "Supply Chain Optimization",
+    "Cost Reduction",
+    "Business Process Mapping",
+    "Standard Operating Procedures",
+    "SOPs",
+    "Inventory Management",
+    "Manufacturing Operations",
+    "Data Analysis",
+    "Workshop Facilitation",
+    "Project Management",
+    "Excel",
+    "Tableau",
+    "SAP",
+    "Statistical Process Control",
+    "Logistics",
+    "Performance Dashboards",
+    "Six Sigma Black Belt"
+  ]
+}

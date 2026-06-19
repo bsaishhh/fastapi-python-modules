@@ -1,0 +1,86 @@
+{
+  "role_key": "WAREHOUSE_OPERATIONS_MANAGER",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Warehouse Manager",
+    "Distribution Center Manager",
+    "Warehouse Operations Lead",
+    "Fulfillment Center Manager",
+    "Warehouse and Logistics Manager"
+  ],
+  "required_skills": [
+    "Warehouse Operations Management and Distribution Center Leadership",
+    "Inventory Control and Warehouse Inventory Accuracy Management",
+    "Warehouse Management Systems (WMS) Administration",
+    "Labor Planning and Workforce Management",
+    "Inbound Receiving and Outbound Shipping Operations",
+    "Warehouse Safety Compliance and Regulatory Standards",
+    "Operational Performance Management and KPI Tracking",
+    "Process Improvement and Continuous Improvement Initiatives"
+  ],
+  "preferred_skills": [
+    "Lean Warehousing and Lean Six Sigma Methodologies",
+    "Transportation Coordination and Logistics Integration",
+    "Automation and Warehouse Technology Implementation",
+    "Capacity Planning and Space Utilization Optimization",
+    "Budget Management and Cost Reduction Programs",
+    "Vendor and Third-Party Logistics (3PL) Management",
+    "Demand Planning Coordination and Inventory Forecasting",
+    "Change Management and Organizational Development"
+  ],
+  "tools": [
+    "Manhattan Associates WMS",
+    "Blue Yonder WMS",
+    "SAP Extended Warehouse Management",
+    "Oracle Warehouse Management Cloud",
+    "Infor WMS",
+    "Microsoft Power BI",
+    "Tableau",
+    "Microsoft Excel",
+    "Jira",
+    "NetSuite"
+  ],
+  "frameworks": [
+    "Lean Six Sigma",
+    "APICS SCOR Model",
+    "Kanban",
+    "ITIL"
+  ],
+  "responsibilities": [
+    "Lead warehouse operations across receiving, storage, picking, packing, and shipping functions to achieve service level and productivity targets.",
+    "Develop warehouse workforce plans and labor allocation strategies that optimize staffing levels, throughput capacity, and operational efficiency.",
+    "Implement inventory control procedures and cycle count programs to maintain inventory accuracy and minimize stock discrepancies.",
+    "Manage warehouse management system configurations and operational workflows to improve order fulfillment speed and inventory visibility.",
+    "Optimize warehouse layout, storage utilization, and material handling processes to increase capacity and reduce operational bottlenecks.",
+    "Collaborate with transportation, procurement, and supply chain teams to ensure seamless product flow and customer order fulfillment.",
+    "Monitor warehouse performance metrics and operational KPIs to identify improvement opportunities and drive corrective action plans.",
+    "Ensure compliance with workplace safety regulations, quality standards, and operational procedures across all warehouse activities."
+  ],
+  "keywords": [
+    "Warehouse Operations",
+    "Warehouse Management",
+    "Distribution Center",
+    "Fulfillment Operations",
+    "Inventory Control",
+    "Inventory Accuracy",
+    "Warehouse Management System",
+    "WMS",
+    "SAP EWM",
+    "Extended Warehouse Management",
+    "Manhattan Associates",
+    "Blue Yonder WMS",
+    "Labor Management",
+    "Warehouse Safety",
+    "Order Fulfillment",
+    "Receiving Operations",
+    "Shipping Operations",
+    "Cycle Counting",
+    "Inventory Visibility",
+    "Lean Warehousing",
+    "3PL Management",
+    "Capacity Planning",
+    "Warehouse KPIs",
+    "Operational Excellence",
+    "Supply Chain Operations"
+  ]
+}

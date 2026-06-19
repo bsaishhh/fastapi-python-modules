@@ -1,0 +1,83 @@
+{
+  "role_key": "TRANSPORTATION_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Traffic Engineer",
+    "Senior Transportation Engineer",
+    "Highway Engineer",
+    "Transportation Planning Engineer",
+    "Roadway Design Engineer"
+  ],
+  "required_skills": [
+    "Roadway Design",
+    "Traffic Engineering",
+    "Traffic Impact Studies",
+    "Signal Timing Design",
+    "Transportation Planning",
+    "Highway Capacity Analysis",
+    "AutoCAD Drafting",
+    "Engineering Calculations",
+    "Permitting and Regulatory Compliance"
+  ],
+  "preferred_skills": [
+    "Traffic Signal Design",
+    "Pavement Design",
+    "Travel Demand Modeling",
+    "Geographic Information Systems (GIS)",
+    "Professional Engineer (PE) Licensure",
+    "Pedestrian and Bicycle Facility Design",
+    "Intelligent Transportation Systems (ITS)"
+  ],
+  "tools": [
+    "AutoCAD",
+    "Civil 3D",
+    "Synchro",
+    "VISSIM",
+    "ArcGIS",
+    "Bentley OpenRoads",
+    "HCS (Highway Capacity Software)",
+    "Bluebeam"
+  ],
+  "frameworks": [
+    "AASHTO Standards",
+    "MUTCD",
+    "HCM (Highway Capacity Manual)",
+    "ITE Guidelines"
+  ],
+  "responsibilities": [
+    "Design roadway geometry, intersections, and signal layouts using Civil 3D to meet AASHTO and local design standards",
+    "Conduct traffic impact studies and capacity analyses to evaluate the effects of proposed developments on roadway networks",
+    "Develop traffic signal timing plans and coordination strategies to optimize intersection performance and reduce congestion",
+    "Perform travel demand modeling and forecasting to support long-range transportation planning and infrastructure investment decisions",
+    "Prepare construction documents, specifications, and engineering calculations for roadway and intersection improvement projects",
+    "Coordinate with municipal and state transportation agencies to secure permits and approvals for design submittals",
+    "Conduct field reviews and traffic data collection to validate existing conditions and support design recommendations",
+    "Collaborate with civil, structural, and environmental engineers to integrate transportation design into multidisciplinary infrastructure projects"
+  ],
+  "keywords": [
+    "Transportation Engineering",
+    "Traffic Engineering",
+    "Roadway Design",
+    "Traffic Impact Study",
+    "Signal Timing",
+    "Traffic Signal Design",
+    "Transportation Planning",
+    "Highway Capacity Analysis",
+    "HCM",
+    "Highway Capacity Manual",
+    "Pavement Design",
+    "Travel Demand Modeling",
+    "GIS",
+    "ITS",
+    "Intelligent Transportation Systems",
+    "MUTCD",
+    "AASHTO",
+    "PE License",
+    "Professional Engineer",
+    "Synchro",
+    "VISSIM",
+    "Pedestrian and Bicycle Design",
+    "Civil 3D",
+    "Roadway Geometry"
+  ]
+}

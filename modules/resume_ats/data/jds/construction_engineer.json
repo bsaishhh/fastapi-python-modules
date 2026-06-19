@@ -1,0 +1,83 @@
+{
+  "role_key": "CONSTRUCTION_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Field Engineer",
+    "Construction Project Engineer",
+    "Senior Construction Engineer",
+    "Site Engineer",
+    "Construction Manager"
+  ],
+  "required_skills": [
+    "Construction Management",
+    "Construction Scheduling",
+    "Quality Control Inspection",
+    "Cost Estimation",
+    "Contract Administration",
+    "Site Supervision",
+    "Construction Drawing Review",
+    "Submittal and RFI Management",
+    "Safety Compliance"
+  ],
+  "preferred_skills": [
+    "Building Information Modeling (BIM) Coordination",
+    "Value Engineering",
+    "Change Order Management",
+    "Lean Construction Principles",
+    "Professional Engineer (PE) Licensure",
+    "OSHA Certification",
+    "Subcontractor Management"
+  ],
+  "tools": [
+    "Procore",
+    "Primavera P6",
+    "Microsoft Project",
+    "Bluebeam",
+    "AutoCAD",
+    "PlanGrid",
+    "Autodesk Build",
+    "Excel"
+  ],
+  "frameworks": [
+    "OSHA Standards",
+    "AIA Contract Documents",
+    "Lean Construction",
+    "ASCE Standards"
+  ],
+  "responsibilities": [
+    "Develop and maintain construction schedules using Primavera P6 to track project milestones and critical path activities",
+    "Review and respond to requests for information (RFIs) and submittals to ensure design compliance and project continuity",
+    "Conduct daily site inspections to verify construction quality, safety compliance, and adherence to approved drawings",
+    "Prepare cost estimates and track project budgets to identify variances and support change order negotiations",
+    "Coordinate with subcontractors, suppliers, and project stakeholders to resolve field issues and maintain project timelines",
+    "Administer construction contracts and document project progress through daily reports, photos, and meeting minutes",
+    "Implement safety programs and conduct toolbox talks to ensure OSHA compliance across the construction site",
+    "Collaborate with design engineers and architects to resolve constructability issues and minimize project delays"
+  ],
+  "keywords": [
+    "Construction Management",
+    "Construction Scheduling",
+    "Quality Control",
+    "Cost Estimation",
+    "Contract Administration",
+    "Site Supervision",
+    "RFI Management",
+    "Submittal Review",
+    "Safety Compliance",
+    "OSHA",
+    "BIM Coordination",
+    "Building Information Modeling",
+    "Value Engineering",
+    "Change Order Management",
+    "Lean Construction",
+    "PE License",
+    "Professional Engineer",
+    "Procore",
+    "Primavera P6",
+    "Critical Path Method",
+    "CPM",
+    "Subcontractor Management",
+    "Field Engineering",
+    "Construction Documentation"
+  ]
+}

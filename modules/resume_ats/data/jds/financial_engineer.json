@@ -1,0 +1,85 @@
+{
+  "role_key": "FINANCIAL_ENGINEER",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Senior Financial Engineer",
+    "Structured Products Engineer",
+    "Quantitative Financial Engineer",
+    "Derivatives Structuring Engineer",
+    "FinEng"
+  ],
+  "required_skills": [
+    "Derivatives Pricing",
+    "Stochastic Calculus",
+    "Financial Modeling",
+    "Structured Products Design",
+    "Python Programming",
+    "C++ Programming",
+    "Monte Carlo Simulation",
+    "Numerical Methods",
+    "Risk Management",
+    "Fixed Income Mathematics"
+  ],
+  "preferred_skills": [
+    "Machine Learning",
+    "Credit Derivatives Structuring",
+    "Hedging Strategy Design",
+    "Regulatory Capital Modeling",
+    "Java Programming",
+    "Term Structure Modeling",
+    "Exotic Options Valuation"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "MATLAB",
+    "Murex",
+    "Excel",
+    "Git",
+    "Linux",
+    "SQL Server",
+    "Calypso"
+  ],
+  "frameworks": [
+    "QuantLib",
+    "NumPy",
+    "pandas",
+    "SciPy",
+    "Eigen",
+    "Boost"
+  ],
+  "responsibilities": [
+    "Design and price complex structured products and exotic derivatives tailored to client risk and return objectives",
+    "Develop numerical pricing libraries implementing finite difference, Monte Carlo, and lattice methods for derivative valuation",
+    "Build and calibrate stochastic models for interest rates, credit spreads, and volatility surfaces used in product structuring",
+    "Collaborate with sales and trading desks to engineer bespoke hedging solutions for institutional and corporate clients",
+    "Validate and stress-test pricing models to ensure robustness across extreme market conditions and edge-case scenarios",
+    "Automate valuation and risk reporting pipelines integrating pricing engines with downstream trading and risk systems",
+    "Research and implement new quantitative techniques to improve pricing accuracy and computational efficiency of models",
+    "Document model methodology, assumptions, and limitations to support internal model risk governance and audit requirements"
+  ],
+  "keywords": [
+    "Financial Engineer",
+    "Financial Engineering",
+    "Structured Products",
+    "Derivatives Pricing",
+    "Exotic Derivatives",
+    "Stochastic Calculus",
+    "Monte Carlo Simulation",
+    "Numerical Methods",
+    "Quantitative Finance",
+    "Fixed Income",
+    "Interest Rate Modeling",
+    "Volatility Surface",
+    "Risk Management",
+    "Hedging",
+    "Python",
+    "C++",
+    "MATLAB",
+    "QuantLib",
+    "Model Validation",
+    "Credit Derivatives",
+    "Regulatory Capital",
+    "CFA",
+    "CQF"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "role_key": "KNOWLEDGE_ASSOCIATE",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Knowledge Management Associate",
+    "Research Associate",
+    "Knowledge Analyst",
+    "Information Specialist",
+    "Knowledge Services Associate"
+  ],
+  "required_skills": [
+    "Knowledge Management",
+    "Secondary Research",
+    "Database Management",
+    "Information Synthesis",
+    "Content Curation",
+    "Industry Research",
+    "Documentation Standards",
+    "Library and Information Science Practices",
+    "Search and Retrieval Techniques",
+    "Stakeholder Support"
+  ],
+  "preferred_skills": [
+    "SharePoint Administration",
+    "Taxonomy Design",
+    "Data Visualization",
+    "SQL Database Querying",
+    "Competitive Intelligence Research",
+    "Python Programming",
+    "Training and Onboarding Facilitation"
+  ],
+  "tools": [
+    "SharePoint",
+    "FactSet",
+    "CapitalIQ",
+    "Bloomberg Terminal",
+    "Salesforce",
+    "Confluence",
+    "Lexis Nexis",
+    "Tableau"
+  ],
+  "frameworks": [
+    "Python pandas"
+  ],
+  "responsibilities": [
+    "Conduct secondary research using premium databases to support consultant requests on industries, companies, and markets",
+    "Curate and maintain knowledge repositories ensuring case studies, reports, and best practices are accurately tagged and searchable",
+    "Develop industry primers and market landscape overviews to accelerate onboarding for new client engagements",
+    "Respond to ad hoc research requests from consulting teams, synthesizing findings into concise, actionable briefs",
+    "Manage subscriptions and access to external data sources and research databases used across the consulting practice",
+    "Train new consultants on research tools, knowledge management systems, and best practices for information retrieval",
+    "Collaborate with practice leaders to capture and document engagement learnings for firm-wide knowledge sharing",
+    "Monitor industry news and competitive developments to proactively flag relevant insights to client-serving teams"
+  ],
+  "keywords": [
+    "Knowledge Associate",
+    "Knowledge Management",
+    "Secondary Research",
+    "Competitive Intelligence",
+    "Industry Research",
+    "Information Synthesis",
+    "Database Management",
+    "Content Curation",
+    "Research Briefs",
+    "Knowledge Repository",
+    "Taxonomy",
+    "SharePoint",
+    "FactSet",
+    "CapitalIQ",
+    "Bloomberg",
+    "Library Science",
+    "Documentation",
+    "Market Landscape",
+    "Training and Onboarding",
+    "Information Retrieval"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "role_key": "MATERIALS_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Materials Engineer",
+    "Materials Science Engineer",
+    "Metallurgical Engineer",
+    "Materials and Process Engineer",
+    "Polymer Materials Engineer"
+  ],
+  "required_skills": [
+    "Materials Characterization",
+    "Failure Analysis",
+    "Metallurgy",
+    "Mechanical Testing",
+    "Materials Selection",
+    "Corrosion Analysis",
+    "Microstructure Analysis",
+    "ASTM Standards Compliance"
+  ],
+  "preferred_skills": [
+    "Composite Materials Engineering",
+    "Polymer Science",
+    "Heat Treatment Processes",
+    "Additive Manufacturing Materials",
+    "Fatigue and Fracture Mechanics",
+    "Coating and Surface Treatment",
+    "Statistical Design of Experiments"
+  ],
+  "tools": [
+    "SEM (Scanning Electron Microscope)",
+    "Instron Testing Systems",
+    "X-Ray Diffraction Systems",
+    "MATLAB",
+    "Minitab",
+    "SolidWorks",
+    "JMatPro",
+    "Zwick Roell",
+    "LabVIEW",
+    "Olympus Microscopy Systems"
+  ],
+  "frameworks": [
+    "ASTM Testing Standards",
+    "ASM Materials Database",
+    "FEA (ANSYS Mechanical)",
+    "Six Sigma DMAIC"
+  ],
+  "responsibilities": [
+    "Conduct materials characterization and mechanical testing to validate material properties against engineering specifications",
+    "Perform root cause failure analysis on field returns and production defects using SEM, XRD, and metallurgical techniques",
+    "Select and qualify materials for new product designs based on strength, durability, cost, and manufacturability requirements",
+    "Develop and execute corrosion, fatigue, and environmental stress testing protocols to validate material performance",
+    "Collaborate with design and manufacturing engineers to resolve material-related defects and process deviations",
+    "Document materials test results, specifications, and certification reports for regulatory and customer compliance",
+    "Evaluate new material technologies and vendor capabilities to support cost reduction and performance improvement initiatives",
+    "Lead investigations into material non-conformance issues and recommend corrective actions to prevent recurrence"
+  ],
+  "keywords": [
+    "Materials Engineering",
+    "Materials Characterization",
+    "Failure Analysis",
+    "Metallurgy",
+    "Mechanical Testing",
+    "Corrosion Analysis",
+    "Microstructure Analysis",
+    "ASTM Standards",
+    "Composite Materials",
+    "Polymer Science",
+    "Heat Treatment",
+    "Fatigue Analysis",
+    "Fracture Mechanics",
+    "Additive Manufacturing",
+    "SEM",
+    "Scanning Electron Microscopy",
+    "X-Ray Diffraction",
+    "XRD",
+    "Materials Selection",
+    "Root Cause Analysis",
+    "Surface Treatment",
+    "Coating Technology",
+    "Quality Certification",
+    "Six Sigma",
+    "Design of Experiments"
+  ]
+}

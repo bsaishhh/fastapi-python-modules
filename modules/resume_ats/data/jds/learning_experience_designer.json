@@ -1,0 +1,93 @@
+{
+  "role_key": "LEARNING_EXPERIENCE_DESIGNER",
+  "family": "Education & EdTech",
+  "sub_roles": [
+    "Senior Learning Experience Designer",
+    "LXD Specialist",
+    "UX Designer – Learning",
+    "Digital Learning Designer",
+    "Learning Design Consultant"
+  ],
+  "required_skills": [
+    "Learning Experience Design (LXD) combining instructional design with UX principles",
+    "Human-Centered Design (HCD) applied to educational product and course development",
+    "Learner journey mapping and persona development for diverse learner populations",
+    "Interaction design and prototype development for digital learning environments",
+    "Learning outcome definition and competency framework development",
+    "Multimedia learning theory including Mayer's Principles of Multimedia Instruction",
+    "Usability testing and iterative design for eLearning products",
+    "Accessibility standards compliance including WCAG 2.1 and Section 508 for learning content"
+  ],
+  "preferred_skills": [
+    "Motion graphics and visual storytelling for educational video and animation",
+    "Conversational AI and chatbot integration in learning pathways",
+    "Xylophone cross-platform responsive design for mobile-first learning experiences",
+    "Learning analytics interpretation to refine and personalize learner journeys",
+    "Immersive learning design including AR/VR-based simulations and experiential modules",
+    "Design thinking facilitation for collaborative curriculum co-creation with stakeholders",
+    "Behavioral science and nudge theory applied to learner engagement and habit formation"
+  ],
+  "tools": [
+    "Figma",
+    "Adobe XD",
+    "Articulate Storyline 360",
+    "Articulate Rise",
+    "Adobe Captivate",
+    "Miro",
+    "Moodle",
+    "Canvas LMS",
+    "Camtasia",
+    "InVision"
+  ],
+  "frameworks": [
+    "ADDIE Framework",
+    "SAM (Successive Approximation Model)",
+    "Bloom's Taxonomy",
+    "Universal Design for Learning (UDL)",
+    "Mayer's Cognitive Theory of Multimedia Learning",
+    "xAPI (Tin Can API)",
+    "SCORM"
+  ],
+  "responsibilities": [
+    "Architect end-to-end learner journeys by mapping touchpoints, emotional states, and knowledge milestones across a complete learning experience",
+    "Apply Human-Centered Design methodologies to conduct learner research, synthesize insights, and ideate innovative solutions to educational challenges",
+    "Design high-fidelity interactive prototypes for eLearning modules, digital courses, and blended learning programs using Figma and Articulate Storyline",
+    "Collaborate with SMEs, product managers, and visual designers to translate complex subject matter into engaging, learner-centric digital experiences",
+    "Develop comprehensive learner personas and empathy maps that inform content sequencing, tone, scaffolding, and assessment design decisions",
+    "Conduct usability testing and learner feedback sessions on course prototypes, iterating designs based on qualitative and quantitative findings",
+    "Integrate accessibility best practices (WCAG 2.1, UDL) into every stage of the design process to ensure inclusive learning for diverse audiences",
+    "Define and track learning experience KPIs including completion rates, engagement time, assessment scores, and learner satisfaction NPS",
+    "Design formative and summative assessment experiences that are authentic, scenario-based, and aligned with real-world performance outcomes",
+    "Establish and maintain a design system for learning products, ensuring visual and interaction consistency across all modules and platforms"
+  ],
+  "keywords": [
+    "Learning Experience Design",
+    "LXD",
+    "Instructional Design",
+    "Human-Centered Design",
+    "HCD",
+    "UX for Education",
+    "Learner Journey Mapping",
+    "eLearning",
+    "Interaction Design",
+    "Prototyping",
+    "Figma",
+    "Articulate Storyline",
+    "ADDIE",
+    "SAM Model",
+    "Bloom's Taxonomy",
+    "UDL",
+    "Universal Design for Learning",
+    "SCORM",
+    "xAPI",
+    "Tin Can API",
+    "Mayer's Multimedia Principles",
+    "WCAG 2.1",
+    "Accessibility",
+    "Blended Learning",
+    "Microlearning",
+    "Gamification",
+    "Learning Analytics",
+    "Design Thinking"
+  ]
+}

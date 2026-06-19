@@ -1,0 +1,83 @@
+{
+  "role_key": "STRUCTURAL_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Structural Design Engineer",
+    "Senior Structural Engineer",
+    "Bridge Engineer",
+    "Building Structural Engineer",
+    "Structural Analyst"
+  ],
+  "required_skills": [
+    "Structural Analysis",
+    "Structural Design",
+    "Steel Design",
+    "Reinforced Concrete Design",
+    "Load Calculations",
+    "Finite Element Analysis (FEA)",
+    "Building Codes Compliance",
+    "Seismic Design",
+    "Construction Drawing Review"
+  ],
+  "preferred_skills": [
+    "Wind Load Analysis",
+    "Timber Design",
+    "Bridge Design",
+    "Retrofit and Rehabilitation Design",
+    "Professional Engineer (PE) Licensure",
+    "Structural Health Monitoring",
+    "Foundation Design"
+  ],
+  "tools": [
+    "AutoCAD",
+    "RAM Structural System",
+    "ETABS",
+    "SAP2000",
+    "Revit",
+    "STAAD.Pro",
+    "Bluebeam",
+    "Tekla Structures"
+  ],
+  "frameworks": [
+    "AISC Standards",
+    "ACI Standards",
+    "ASCE 7",
+    "IBC Codes"
+  ],
+  "responsibilities": [
+    "Perform structural analysis and design of steel and reinforced concrete buildings using ETABS and SAP2000 software",
+    "Develop structural calculations and construction drawings to ensure compliance with building codes and seismic requirements",
+    "Conduct finite element analysis to evaluate structural behavior under gravity, wind, and seismic loading conditions",
+    "Collaborate with architects and MEP engineers to integrate structural systems into overall building design",
+    "Review shop drawings and submittals to verify compliance with structural design intent and specifications",
+    "Conduct field inspections and structural assessments to evaluate existing building conditions for retrofit projects",
+    "Prepare technical reports and design narratives to support permit submissions and peer review processes",
+    "Coordinate with contractors to resolve structural design issues and ensure constructability during project execution"
+  ],
+  "keywords": [
+    "Structural Analysis",
+    "Structural Design",
+    "Steel Design",
+    "Reinforced Concrete Design",
+    "Load Calculations",
+    "FEA",
+    "Finite Element Analysis",
+    "Seismic Design",
+    "Building Codes",
+    "IBC",
+    "AISC",
+    "ACI",
+    "ASCE 7",
+    "Wind Load Analysis",
+    "Foundation Design",
+    "Bridge Design",
+    "Retrofit Engineering",
+    "PE License",
+    "Professional Engineer",
+    "ETABS",
+    "SAP2000",
+    "Revit",
+    "Construction Drawings",
+    "Structural Health Monitoring"
+  ]
+}

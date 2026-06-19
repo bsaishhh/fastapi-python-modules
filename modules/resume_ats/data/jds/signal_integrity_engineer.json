@@ -1,0 +1,84 @@
+{
+  "role_key": "SIGNAL_INTEGRITY_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "SI Engineer",
+    "Signal & Power Integrity Engineer",
+    "High-Speed Design Engineer",
+    "SI/PI Engineer",
+    "Hardware Signal Integrity Engineer"
+  ],
+  "required_skills": [
+    "Signal Integrity Analysis",
+    "Power Integrity Analysis",
+    "High-Speed PCB Design",
+    "S-Parameter Analysis",
+    "Impedance Control",
+    "Eye Diagram Analysis",
+    "Crosstalk Analysis",
+    "Transmission Line Theory"
+  ],
+  "preferred_skills": [
+    "DDR Memory Interface Design",
+    "PCIe Signal Integrity Validation",
+    "Power Delivery Network (PDN) Design",
+    "Electromagnetic Field Solvers",
+    "Jitter Analysis",
+    "SerDes Channel Modeling"
+  ],
+  "tools": [
+    "Cadence Sigrity",
+    "Ansys SIwave",
+    "Keysight ADS (Advanced Design System)",
+    "HyperLynx",
+    "Allegro PCB Designer",
+    "Vector Network Analyzer (VNA)",
+    "High-Speed Oscilloscope",
+    "Ansys HFSS"
+  ],
+  "frameworks": [
+    "IBIS-AMI",
+    "SPICE",
+    "MATLAB Signal Processing Toolbox",
+    "scipy (Python Signal Processing Library)"
+  ],
+  "responsibilities": [
+    "Perform signal integrity simulations on high-speed interfaces such as DDR, PCIe, and SerDes to validate timing and signal quality.",
+    "Conduct power integrity analysis including PDN impedance, decoupling capacitor placement, and voltage drop simulation on PCB designs.",
+    "Analyze S-parameters, eye diagrams, and crosstalk to ensure signal margins meet specification across process and temperature corners.",
+    "Collaborate with PCB layout engineers to define stackup, impedance targets, and routing guidelines for high-speed boards.",
+    "Run pre-layout and post-layout SI/PI simulations using Cadence Sigrity, HyperLynx, or Ansys SIwave to catch design issues early.",
+    "Debug signal integrity issues on physical boards using high-speed oscilloscopes, TDR measurements, and vector network analyzers.",
+    "Develop channel models and perform IBIS-AMI simulations to validate high-speed serial link performance and jitter budgets.",
+    "Review board stackup and via structures to minimize impedance discontinuities and electromagnetic interference on critical nets.",
+    "Provide design guidelines and constraints to PCB designers for differential pairs, length matching, and via stitching.",
+    "Document signal and power integrity analysis results, correlating simulation data with lab measurements for design sign-off."
+  ],
+  "keywords": [
+    "Signal Integrity",
+    "SI",
+    "Power Integrity",
+    "PI",
+    "High-Speed PCB Design",
+    "S-Parameters",
+    "Impedance Control",
+    "Eye Diagram Analysis",
+    "Crosstalk Analysis",
+    "Transmission Line Theory",
+    "DDR",
+    "PCIe",
+    "SerDes",
+    "Power Delivery Network",
+    "PDN",
+    "Cadence Sigrity",
+    "Ansys SIwave",
+    "HyperLynx",
+    "Ansys HFSS",
+    "IBIS-AMI",
+    "Jitter Analysis",
+    "TDR",
+    "Vector Network Analyzer",
+    "High-Speed Oscilloscope",
+    "Channel Modeling"
+  ]
+}

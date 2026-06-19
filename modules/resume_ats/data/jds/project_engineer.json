@@ -1,0 +1,83 @@
+{
+  "role_key": "PROJECT_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Civil Project Engineer",
+    "Senior Project Engineer",
+    "Construction Project Engineer",
+    "Infrastructure Project Engineer",
+    "Assistant Project Manager"
+  ],
+  "required_skills": [
+    "Project Coordination",
+    "Construction Documentation",
+    "Submittal and RFI Management",
+    "Cost Estimation",
+    "Project Scheduling",
+    "Contract Administration",
+    "Stakeholder Communication",
+    "Quality Assurance",
+    "Engineering Drawing Review"
+  ],
+  "preferred_skills": [
+    "Building Information Modeling (BIM) Coordination",
+    "Change Order Management",
+    "Value Engineering",
+    "Professional Engineer (PE) Licensure",
+    "Risk Management",
+    "Vendor and Subcontractor Management",
+    "Sustainability and LEED Practices"
+  ],
+  "tools": [
+    "Procore",
+    "Primavera P6",
+    "Microsoft Project",
+    "Bluebeam",
+    "AutoCAD",
+    "PlanGrid",
+    "Autodesk Construction Cloud",
+    "Excel"
+  ],
+  "frameworks": [
+    "AIA Contract Documents",
+    "ASCE Standards",
+    "Lean Construction",
+    "PMI Standards"
+  ],
+  "responsibilities": [
+    "Coordinate daily project activities between design teams, contractors, and clients to ensure alignment with project goals",
+    "Manage submittals, RFIs, and change orders to maintain accurate project documentation and minimize schedule delays",
+    "Develop and monitor project schedules using Primavera P6 to track milestones and identify potential delays",
+    "Prepare cost estimates and budget forecasts to support project financial tracking and reporting to stakeholders",
+    "Review construction drawings and specifications to verify design intent and identify potential constructability issues",
+    "Facilitate progress meetings and prepare status reports to communicate project updates to leadership and clients",
+    "Support contract administration activities including bid evaluation, vendor negotiations, and compliance tracking",
+    "Conduct site visits to monitor construction progress and verify quality and safety standards are being met"
+  ],
+  "keywords": [
+    "Project Coordination",
+    "Construction Documentation",
+    "RFI Management",
+    "Submittal Review",
+    "Cost Estimation",
+    "Project Scheduling",
+    "Contract Administration",
+    "Stakeholder Communication",
+    "Quality Assurance",
+    "BIM Coordination",
+    "Change Order Management",
+    "Value Engineering",
+    "PE License",
+    "Professional Engineer",
+    "Risk Management",
+    "Vendor Management",
+    "Subcontractor Management",
+    "LEED",
+    "Sustainability",
+    "Procore",
+    "Primavera P6",
+    "Project Management",
+    "Construction Coordination",
+    "Budget Tracking"
+  ]
+}

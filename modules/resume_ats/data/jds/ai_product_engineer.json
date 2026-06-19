@@ -1,0 +1,84 @@
+{
+  "role_key": "AI_PRODUCT_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "AI Product Developer",
+    "Senior AI Product Engineer",
+    "Full-Stack AI Engineer",
+    "AI Feature Engineer",
+    "Product-Focused Machine Learning Engineer"
+  ],
+  "required_skills": [
+    "AI Product Development",
+    "Large Language Models (LLM)",
+    "Full-Stack Development",
+    "Python Programming",
+    "API Design",
+    "Prompt Engineering",
+    "Rapid Prototyping",
+    "User-Centered Design Thinking"
+  ],
+  "preferred_skills": [
+    "Retrieval-Augmented Generation (RAG)",
+    "Model Fine-Tuning",
+    "Product Analytics",
+    "Cloud Architecture",
+    "A/B Testing for AI Features",
+    "UX Research Collaboration",
+    "Growth Experimentation"
+  ],
+  "tools": [
+    "OpenAI API",
+    "Anthropic API",
+    "AWS",
+    "Vercel",
+    "Docker",
+    "PostgreSQL",
+    "Figma",
+    "GitHub",
+    "Mixpanel"
+  ],
+  "frameworks": [
+    "LangChain",
+    "Next.js",
+    "React",
+    "FastAPI",
+    "Hugging Face Transformers",
+    "Node.js"
+  ],
+  "responsibilities": [
+    "Design and ship end-to-end AI-powered features from prototype through production deployment and iteration",
+    "Build full-stack applications that integrate large language models into intuitive, user-facing product experiences",
+    "Rapidly prototype new AI capabilities to validate product hypotheses with real users and stakeholders",
+    "Collaborate closely with designers and product managers to translate user needs into AI-driven workflows",
+    "Engineer and optimize prompts and RAG pipelines that power core AI product functionality",
+    "Implement analytics and instrumentation to measure user engagement and effectiveness of AI features",
+    "Iterate quickly on product features based on user feedback, usage data, and experimentation results",
+    "Build and maintain APIs that connect AI model outputs to front-end applications and downstream services",
+    "Balance technical feasibility, latency, and cost considerations when scoping new AI product features",
+    "Partner with engineering leadership to evaluate emerging AI models and technologies for product fit"
+  ],
+  "keywords": [
+    "AI Product Engineer",
+    "AI Product Development",
+    "Large Language Models",
+    "LLM",
+    "Full-Stack Development",
+    "Prompt Engineering",
+    "RAG",
+    "Retrieval-Augmented Generation",
+    "Rapid Prototyping",
+    "API Design",
+    "Product Analytics",
+    "A/B Testing",
+    "User-Centered Design",
+    "React",
+    "Next.js",
+    "FastAPI",
+    "LangChain",
+    "OpenAI",
+    "Anthropic Claude",
+    "Growth Experimentation",
+    "UX Collaboration"
+  ]
+}

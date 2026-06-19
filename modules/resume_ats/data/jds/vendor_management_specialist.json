@@ -1,0 +1,86 @@
+{
+  "role_key": "VENDOR_MANAGEMENT_SPECIALIST",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Vendor Relationship Specialist",
+    "Supplier Management Specialist",
+    "Third-Party Vendor Specialist",
+    "Vendor Performance Analyst",
+    "Vendor Operations Specialist"
+  ],
+  "required_skills": [
+    "Vendor Relationship Management and Supplier Engagement",
+    "Vendor Performance Monitoring and KPI Evaluation",
+    "Contract Management and Service Level Agreement (SLA) Administration",
+    "Supplier Risk Assessment and Compliance Management",
+    "Procurement Operations and Vendor Coordination",
+    "Stakeholder Management and Cross-Functional Collaboration",
+    "Vendor Governance and Performance Reporting",
+    "Issue Resolution and Escalation Management"
+  ],
+  "preferred_skills": [
+    "Strategic Sourcing and Supplier Development",
+    "Third-Party Risk Management Programs",
+    "Spend Analysis and Cost Optimization",
+    "Business Intelligence and Vendor Analytics",
+    "Negotiation Support and Commercial Analysis",
+    "Process Improvement and Vendor Lifecycle Optimization",
+    "Regulatory Compliance and Audit Support",
+    "Supply Chain and Procurement Integration"
+  ],
+  "tools": [
+    "SAP Ariba",
+    "Coupa",
+    "Oracle Procurement Cloud",
+    "SAP S/4HANA",
+    "ServiceNow",
+    "Microsoft Excel",
+    "Power BI",
+    "Tableau",
+    "Jaggaer",
+    "Salesforce"
+  ],
+  "frameworks": [
+    "ITIL",
+    "Lean Six Sigma",
+    "APICS SCOR Model",
+    "COBIT"
+  ],
+  "responsibilities": [
+    "Manage vendor relationships and communication channels to ensure contract compliance, service quality, and alignment with business objectives.",
+    "Monitor vendor performance against service level agreements and key performance indicators to drive accountability and continuous improvement.",
+    "Conduct supplier risk assessments and compliance reviews to identify potential operational, financial, and regulatory concerns.",
+    "Develop vendor performance reports and dashboards that provide visibility into supplier effectiveness and contract outcomes.",
+    "Collaborate with procurement, legal, finance, and operations teams to support vendor onboarding and governance processes.",
+    "Implement vendor management frameworks and escalation procedures that improve issue resolution and supplier accountability standards.",
+    "Evaluate supplier capabilities, operational performance, and service delivery metrics to support sourcing and renewal decisions.",
+    "Lead vendor review meetings and performance discussions to strengthen partnerships and drive measurable business improvements."
+  ],
+  "keywords": [
+    "Vendor Management",
+    "Supplier Management",
+    "Vendor Relationship Management",
+    "Supplier Relationship Management",
+    "SRM",
+    "Vendor Governance",
+    "Service Level Agreement",
+    "SLA",
+    "Contract Management",
+    "Vendor Performance",
+    "Supplier Performance",
+    "Vendor Risk Management",
+    "Third-Party Risk",
+    "Procurement Operations",
+    "SAP Ariba",
+    "Coupa",
+    "Oracle Procurement Cloud",
+    "Vendor Compliance",
+    "Supplier Evaluation",
+    "Vendor Analytics",
+    "Power BI",
+    "ServiceNow",
+    "Supplier Governance",
+    "Stakeholder Management",
+    "Vendor Lifecycle Management"
+  ]
+}

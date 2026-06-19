@@ -1,0 +1,93 @@
+{
+  "role_key": "INSTRUCTIONAL_DESIGNER",
+  "family": "Education & EdTech",
+  "sub_roles": [
+    "Senior Instructional Designer",
+    "Learning Experience Designer",
+    "Curriculum Designer",
+    "eLearning Designer",
+    "Learning Design Specialist"
+  ],
+  "required_skills": [
+    "Instructional Design",
+    "Curriculum Development",
+    "Learning Objectives Writing using Bloom's Taxonomy",
+    "eLearning Content Authoring",
+    "Adult Learning Theory (Andragogy)",
+    "Storyboarding and Script Writing for eLearning modules",
+    "ADDIE Instructional Design Model",
+    "Assessment and Evaluation Design",
+    "Learning Management System (LMS) administration",
+    "LMS"
+  ],
+  "preferred_skills": [
+    "SAM (Successive Approximation Model) methodology",
+    "Video-based learning and micro-learning module design",
+    "Learner persona development and UX research for education",
+    "Gamification and scenario-based learning design",
+    "Accessibility and WCAG 2.1 compliance for digital learning content",
+    "Data analytics for learning effectiveness measurement",
+    "Voice-over scripting and audio production coordination"
+  ],
+  "tools": [
+    "Articulate Storyline 360",
+    "Articulate Rise",
+    "Adobe Captivate",
+    "Camtasia",
+    "Moodle",
+    "Canvas LMS",
+    "Google Workspace",
+    "Microsoft PowerPoint",
+    "Canva for Education",
+    "Lectora"
+  ],
+  "frameworks": [
+    "ADDIE Framework",
+    "Bloom's Taxonomy",
+    "Kirkpatrick Evaluation Model",
+    "Gagne's Nine Events of Instruction",
+    "Universal Design for Learning (UDL)",
+    "SCORM",
+    "xAPI (Tin Can API)"
+  ],
+  "responsibilities": [
+    "Design and develop end-to-end eLearning courses using ADDIE and SAM models aligned with defined learning outcomes",
+    "Write detailed instructional storyboards, learner-facing scripts, and facilitator guides for multimedia learning modules",
+    "Collaborate with subject matter experts (SMEs) to extract, validate, and structure complex content into pedagogically sound learning experiences",
+    "Build interactive assessments, quizzes, and scenario-based exercises that measure learner comprehension and skill acquisition",
+    "Develop curriculum maps and course blueprints that sequence learning objectives using Bloom's Taxonomy across cognitive levels",
+    "Manage content publishing and version control on LMS platforms such as Moodle or Canvas, ensuring SCORM/xAPI compliance",
+    "Conduct formative and summative evaluations of learning programs using Kirkpatrick's Model to drive iterative content improvements",
+    "Apply Universal Design for Learning (UDL) principles to ensure all course materials are accessible and inclusive for diverse learner populations",
+    "Lead quality assurance reviews of all instructional materials, ensuring accuracy, consistency, and alignment with brand and pedagogical standards",
+    "Analyze LMS learner data and engagement metrics to identify content gaps and optimize course completion and satisfaction rates"
+  ],
+  "keywords": [
+    "Instructional Design",
+    "Curriculum Development",
+    "eLearning",
+    "ADDIE",
+    "Bloom's Taxonomy",
+    "Learning Experience Design",
+    "LXD",
+    "Storyboarding",
+    "LMS",
+    "Learning Management System",
+    "SCORM",
+    "xAPI",
+    "Tin Can API",
+    "Articulate Storyline",
+    "Articulate Rise",
+    "Adobe Captivate",
+    "Adult Learning Theory",
+    "Andragogy",
+    "Gamification",
+    "Microlearning",
+    "Kirkpatrick Model",
+    "UDL",
+    "Universal Design for Learning",
+    "Assessment Design",
+    "Blended Learning",
+    "Online Course Development"
+  ]
+}

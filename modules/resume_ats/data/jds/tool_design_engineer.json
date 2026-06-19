@@ -1,0 +1,86 @@
+{
+  "role_key": "TOOL_DESIGN_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Tool Design Engineer",
+    "Tooling Engineer",
+    "Die Design Engineer",
+    "Fixture Design Engineer",
+    "Mold Design Engineer"
+  ],
+  "required_skills": [
+    "Tool and Die Design",
+    "Jig and Fixture Design",
+    "Geometric Dimensioning and Tolerancing",
+    "GD&T",
+    "3D CAD Modeling",
+    "Mold Flow Analysis",
+    "Tolerance Stack-Up Analysis",
+    "Manufacturing Process Knowledge"
+  ],
+  "preferred_skills": [
+    "Injection Mold Design",
+    "Progressive Die Design",
+    "Finite Element Analysis",
+    "FEA",
+    "CNC Machining Programming",
+    "Design for Manufacturability",
+    "DFM",
+    "Sheet Metal Forming Simulation"
+  ],
+  "tools": [
+    "SolidWorks",
+    "CATIA",
+    "AutoCAD",
+    "Siemens NX",
+    "Mastercam",
+    "Moldflow",
+    "Vericut",
+    "PTC Creo",
+    "Teamcenter",
+    "Fusion 360"
+  ],
+  "frameworks": [
+    "ANSYS Mechanical",
+    "Autodesk Moldflow Insight",
+    "GD&T (ASME Y14.5) Standards",
+    "DFMEA Frameworks"
+  ],
+  "responsibilities": [
+    "Design precision tooling, dies, jigs, and fixtures using 3D CAD software to support efficient production processes",
+    "Perform tolerance stack-up analyses to ensure tooling designs meet GD&T specifications and assembly requirements",
+    "Collaborate with manufacturing engineers to optimize tool designs for manufacturability, durability, and cost-efficiency",
+    "Conduct mold flow simulations to predict and resolve injection molding defects before tool fabrication",
+    "Create detailed engineering drawings, BOMs, and specifications for tooling fabrication by internal or vendor machine shops",
+    "Lead tool tryout and validation activities, resolving design issues identified during first article inspection",
+    "Evaluate existing tooling for wear, performance, and redesign opportunities to extend tool life and reduce scrap",
+    "Coordinate with cross-functional teams to integrate new tooling into production lines within project timelines and budgets"
+  ],
+  "keywords": [
+    "Tool Design",
+    "Tool and Die Design",
+    "Jig and Fixture Design",
+    "GD&T",
+    "Geometric Dimensioning and Tolerancing",
+    "3D CAD Modeling",
+    "Mold Flow Analysis",
+    "Moldflow",
+    "Injection Mold Design",
+    "Progressive Die Design",
+    "Tolerance Stack-Up",
+    "FEA",
+    "Finite Element Analysis",
+    "DFM",
+    "Design for Manufacturability",
+    "CNC Machining",
+    "First Article Inspection",
+    "Tool Tryout",
+    "Sheet Metal Forming",
+    "DFMEA",
+    "Bill of Materials",
+    "BOM",
+    "Engineering Drawings",
+    "SolidWorks",
+    "Siemens NX"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "role_key": "TECHNOLOGY_CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "IT Consultant",
+    "Digital Transformation Consultant",
+    "Tech Strategy Consultant",
+    "Systems Implementation Consultant",
+    "Technology Advisory Consultant"
+  ],
+  "required_skills": [
+    "Digital Transformation Strategy",
+    "Technology Architecture Assessment",
+    "Requirements Gathering",
+    "Business Process Mapping",
+    "Project Management",
+    "Stakeholder Management",
+    "Vendor Evaluation",
+    "Systems Integration Planning",
+    "Change Management",
+    "IT Roadmap Development"
+  ],
+  "preferred_skills": [
+    "Cloud Migration Strategy",
+    "Agile Methodology",
+    "Python Programming",
+    "Data Governance",
+    "ERP Implementation",
+    "Cybersecurity Risk Assessment",
+    "SQL Database Querying"
+  ],
+  "tools": [
+    "Salesforce",
+    "SAP",
+    "Jira",
+    "Confluence",
+    "Microsoft Azure",
+    "AWS",
+    "ServiceNow",
+    "Tableau"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Assess client technology landscapes to identify gaps and recommend digital transformation roadmaps aligned with business goals",
+    "Lead requirements gathering workshops with business and IT stakeholders to define scope for technology implementation projects",
+    "Evaluate and recommend enterprise software vendors and platforms based on client functional and technical requirements",
+    "Develop business cases quantifying ROI of proposed technology investments including cloud migration and system modernization",
+    "Manage cross-functional implementation teams to deliver enterprise system rollouts within scope, budget, and timeline",
+    "Design future-state business process flows that leverage new technology capabilities to improve operational efficiency",
+    "Support change management activities including training plans and communication strategies for technology adoption",
+    "Coordinate with client IT teams to ensure successful integration of new systems with existing technology infrastructure"
+  ],
+  "keywords": [
+    "Technology Consultant",
+    "Digital Transformation",
+    "IT Strategy",
+    "Technology Architecture",
+    "Systems Integration",
+    "ERP Implementation",
+    "Cloud Migration",
+    "Vendor Evaluation",
+    "Requirements Gathering",
+    "Business Process Mapping",
+    "Project Management",
+    "Change Management",
+    "IT Roadmap",
+    "Agile",
+    "SAP",
+    "AWS",
+    "Azure",
+    "Cybersecurity",
+    "Data Governance",
+    "Stakeholder Management",
+    "ServiceNow"
+  ]
+}

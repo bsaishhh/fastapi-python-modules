@@ -1,0 +1,87 @@
+{
+  "role_key": "NLP_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Natural Language Processing Engineer",
+    "Senior NLP Engineer",
+    "Computational Linguist",
+    "Text Analytics Engineer",
+    "NLP Research Engineer"
+  ],
+  "required_skills": [
+    "Natural Language Processing (NLP)",
+    "Text Classification",
+    "Named Entity Recognition (NER)",
+    "Python Programming",
+    "Transformer Architectures",
+    "Tokenization",
+    "Model Fine-Tuning",
+    "Information Retrieval"
+  ],
+  "preferred_skills": [
+    "Large Language Models (LLM)",
+    "Topic Modeling",
+    "Sentiment Analysis",
+    "Speech-to-Text Processing",
+    "Multilingual NLP",
+    "Knowledge Graph Construction",
+    "Semantic Search"
+  ],
+  "tools": [
+    "Hugging Face Hub",
+    "AWS SageMaker",
+    "Elasticsearch",
+    "spaCy",
+    "Docker",
+    "Weights & Biases",
+    "Label Studio",
+    "Pinecone",
+    "Jupyter"
+  ],
+  "frameworks": [
+    "Hugging Face Transformers",
+    "spaCy",
+    "PyTorch",
+    "TensorFlow",
+    "NLTK",
+    "Gensim"
+  ],
+  "responsibilities": [
+    "Design and train NLP models for text classification, named entity recognition, and intent detection tasks",
+    "Fine-tune transformer-based language models such as BERT and RoBERTa for domain-specific text understanding",
+    "Build information retrieval and semantic search systems that power document and knowledge base search",
+    "Develop text preprocessing and tokenization pipelines optimized for multilingual and noisy real-world text",
+    "Implement entity extraction and relation extraction systems to populate structured knowledge bases",
+    "Evaluate model performance using precision, recall, and F1 metrics against labeled benchmark datasets",
+    "Collaborate with product teams to integrate NLP capabilities into chatbots, search, and document workflows",
+    "Optimize NLP model inference for latency and throughput in high-volume production text processing pipelines",
+    "Curate and annotate text datasets, establishing labeling guidelines to ensure consistent data quality",
+    "Stay current with NLP research and apply state-of-the-art techniques to improve text understanding accuracy"
+  ],
+  "keywords": [
+    "NLP Engineer",
+    "NLP",
+    "Natural Language Processing",
+    "Text Classification",
+    "Named Entity Recognition",
+    "NER",
+    "Sentiment Analysis",
+    "Topic Modeling",
+    "Tokenization",
+    "Transformer Architectures",
+    "BERT",
+    "RoBERTa",
+    "Information Retrieval",
+    "Semantic Search",
+    "Knowledge Graphs",
+    "Multilingual NLP",
+    "Speech-to-Text",
+    "Hugging Face",
+    "spaCy",
+    "PyTorch",
+    "TensorFlow",
+    "Fine-Tuning",
+    "Large Language Models",
+    "LLM"
+  ]
+}

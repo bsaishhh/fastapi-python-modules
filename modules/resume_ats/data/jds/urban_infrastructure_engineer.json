@@ -1,0 +1,83 @@
+{
+  "role_key": "URBAN_INFRASTRUCTURE_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Municipal Infrastructure Engineer",
+    "Urban Planning Engineer",
+    "Senior Urban Infrastructure Engineer",
+    "City Infrastructure Engineer",
+    "Smart City Infrastructure Engineer"
+  ],
+  "required_skills": [
+    "Urban Infrastructure Planning",
+    "Site Development",
+    "Utility Coordination",
+    "Stormwater Management",
+    "Roadway and Streetscape Design",
+    "Land Use Planning",
+    "AutoCAD Drafting",
+    "Permitting and Regulatory Compliance",
+    "Engineering Calculations"
+  ],
+  "preferred_skills": [
+    "Geographic Information Systems (GIS)",
+    "Smart City Technology Integration",
+    "Sustainable Infrastructure Design",
+    "Public-Private Partnership (P3) Coordination",
+    "Professional Engineer (PE) Licensure",
+    "Transit-Oriented Development",
+    "Community Engagement Facilitation"
+  ],
+  "tools": [
+    "AutoCAD",
+    "Civil 3D",
+    "ArcGIS",
+    "Bentley OpenCities",
+    "Bluebeam",
+    "Synchro",
+    "Microsoft Project",
+    "SketchUp"
+  ],
+  "frameworks": [
+    "AASHTO Standards",
+    "ASCE Standards",
+    "LEED for Cities",
+    "ICC Codes"
+  ],
+  "responsibilities": [
+    "Design integrated urban infrastructure plans encompassing roadways, utilities, and stormwater systems for municipal projects",
+    "Coordinate with utility providers to align water, sewer, electrical, and telecommunications infrastructure within public rights-of-way",
+    "Develop streetscape and complete streets designs that balance vehicular, pedestrian, and cyclist infrastructure needs",
+    "Prepare land use and zoning compliance documentation to support urban redevelopment and infill development projects",
+    "Collaborate with city planners and community stakeholders to align infrastructure designs with long-term urban growth strategies",
+    "Conduct feasibility studies for smart city technologies such as connected lighting, sensors, and traffic management systems",
+    "Prepare permit applications and present infrastructure designs at public hearings and municipal review board meetings",
+    "Evaluate sustainable and resilient infrastructure alternatives to reduce environmental impact and improve climate adaptability"
+  ],
+  "keywords": [
+    "Urban Infrastructure",
+    "Site Development",
+    "Utility Coordination",
+    "Stormwater Management",
+    "Roadway Design",
+    "Streetscape Design",
+    "Land Use Planning",
+    "GIS",
+    "Geographic Information Systems",
+    "Smart City",
+    "Sustainable Infrastructure",
+    "Public-Private Partnership",
+    "P3",
+    "PE License",
+    "Professional Engineer",
+    "Transit-Oriented Development",
+    "Complete Streets",
+    "Community Engagement",
+    "Municipal Engineering",
+    "Civil 3D",
+    "AutoCAD",
+    "Urban Planning",
+    "Zoning Compliance",
+    "Resilient Infrastructure"
+  ]
+}

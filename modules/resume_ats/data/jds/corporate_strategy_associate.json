@@ -1,0 +1,77 @@
+{
+  "role_key": "CORPORATE_STRATEGY_ASSOCIATE",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Corporate Strategy Analyst",
+    "Strategy & Planning Associate",
+    "Business Strategy Associate",
+    "Strategic Planning Analyst",
+    "Corporate Development Associate"
+  ],
+  "required_skills": [
+    "Corporate Strategy Development",
+    "Competitive Analysis",
+    "Market Research",
+    "Financial Modeling",
+    "Business Case Development",
+    "Strategic Planning",
+    "Data Analysis",
+    "Industry Benchmarking",
+    "Presentation Development",
+    "Cross-Functional Collaboration"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Scenario Planning",
+    "Mergers and Acquisitions Analysis",
+    "SQL Database Querying",
+    "Portfolio Strategy Analysis",
+    "Tableau Dashboard Development",
+    "Investor Relations Support"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "CapitalIQ",
+    "FactSet",
+    "Tableau",
+    "Power BI",
+    "Salesforce"
+  ],
+  "frameworks": [
+    "Python pandas"
+  ],
+  "responsibilities": [
+    "Support development of annual strategic plans by analyzing market trends, competitive positioning, and growth opportunities",
+    "Conduct competitive intelligence research to track peer company strategies, performance, and emerging market threats",
+    "Build financial models to evaluate strategic initiatives including new market entry, product launches, and partnerships",
+    "Prepare board and executive committee materials summarizing strategic priorities, performance metrics, and key recommendations",
+    "Partner with business unit leaders to translate corporate strategy into actionable functional and divisional plans",
+    "Analyze industry benchmarks and best practices to identify opportunities for operational and strategic improvement",
+    "Support evaluation of potential M&A targets and strategic partnerships aligned with corporate growth objectives",
+    "Track execution of strategic initiatives against milestones, flagging risks and recommending corrective actions"
+  ],
+  "keywords": [
+    "Corporate Strategy",
+    "Strategic Planning",
+    "Competitive Analysis",
+    "Market Research",
+    "Business Case",
+    "Financial Modeling",
+    "Industry Benchmarking",
+    "Strategic Initiatives",
+    "Board Presentations",
+    "Executive Committee",
+    "Mergers and Acquisitions",
+    "Portfolio Strategy",
+    "Scenario Planning",
+    "Cross-Functional Collaboration",
+    "Excel",
+    "PowerPoint",
+    "CapitalIQ",
+    "FactSet",
+    "Growth Strategy",
+    "Strategic Roadmap",
+    "MBA"
+  ]
+}

@@ -1,55 +1,86 @@
 {
   "role_key": "DATA_ENGINEER",
-  "family": "DATA_ENGINEERING_ANALYTICS",
+  "family": "Data Engineering & Analytics",
   "sub_roles": [
-    "Data Engineer",
-    "BI",
-    "Analytics",
-    "ETL",
-    "Data Platform"
+    "Data Pipeline Engineer",
+    "ETL Developer",
+    "Data Infrastructure Engineer",
+    "Junior Data Engineer",
+    "Big Data Engineer"
   ],
   "required_skills": [
-    "Python",
+    "ETL Development",
+    "Extract Transform Load",
     "SQL",
-    "ETL",
-    "Data Pipelines",
-    "Spark"
+    "Python Programming",
+    "Data Pipeline Engineering",
+    "Data Warehousing",
+    "Distributed Data Processing",
+    "Data Modeling"
   ],
   "preferred_skills": [
-    "Airflow",
-    "dbt",
-    "Kafka",
-    "Snowflake",
-    "BigQuery"
+    "Streaming Data Processing",
+    "Workflow Orchestration",
+    "Cloud Data Platforms",
+    "Data Quality and Validation",
+    "Infrastructure as Code (IaC)",
+    "NoSQL Databases",
+    "API Integration"
   ],
   "tools": [
-    "Apache Spark",
-    "Airflow",
-    "PostgreSQL",
+    "Snowflake",
     "AWS",
-    "Docker"
+    "Airflow",
+    "Databricks",
+    "Apache Kafka",
+    "PostgreSQL",
+    "dbt",
+    "Redshift",
+    "S3",
+    "Terraform"
   ],
   "frameworks": [
-    "PySpark",
+    "Apache Spark",
+    "Apache Spark MLlib",
+    "Pandas",
     "dbt",
-    "Pandas"
+    "Apache Beam"
   ],
   "responsibilities": [
-    "Build data pipelines",
-    "Design data warehouses",
-    "Ensure data quality",
-    "Optimize ETL jobs"
+    "Design and implement scalable ETL pipelines using Apache Spark and Airflow to process terabyte-scale datasets",
+    "Build and maintain data warehouses and data lakes that serve as the single source of truth for analytics",
+    "Develop streaming data pipelines using Apache Kafka to support real-time analytics and operational dashboards",
+    "Write efficient, well-tested SQL transformations using dbt to model raw data into analytics-ready tables",
+    "Optimize data pipeline performance and cost by tuning queries, partitioning strategies, and resource allocation",
+    "Implement data quality checks and monitoring to detect schema drift, missing data, and pipeline failures",
+    "Collaborate with data scientists and analysts to understand data requirements and deliver reliable datasets",
+    "Design and maintain data models that support efficient querying across business intelligence and reporting tools",
+    "Automate data ingestion from third-party APIs, databases, and SaaS platforms into centralized data infrastructure",
+    "Document data lineage, pipeline architecture, and schema definitions to support cross-team data governance"
   ],
   "keywords": [
-    "Python",
-    "SQL",
-    "Spark",
-    "Airflow",
+    "Data Engineer",
     "ETL",
-    "Data Pipeline",
+    "ELT",
+    "Extract Transform Load",
+    "Data Pipelines",
+    "Data Warehousing",
+    "Data Lake",
+    "SQL",
+    "Python",
+    "Apache Spark",
+    "Apache Kafka",
+    "Airflow",
     "dbt",
-    "Kafka",
-    "AWS",
-    "Data Warehouse"
+    "Snowflake",
+    "Redshift",
+    "Databricks",
+    "Streaming Data",
+    "Batch Processing",
+    "Data Modeling",
+    "Data Quality",
+    "Data Governance",
+    "Cloud Data Platforms",
+    "Workflow Orchestration"
   ]
 }

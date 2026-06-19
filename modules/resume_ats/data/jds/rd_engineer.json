@@ -1,0 +1,85 @@
+{
+  "role_key": "RD_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Research and Development Engineer",
+    "Senior R&D Engineer",
+    "New Product Development Engineer",
+    "R&D Design Engineer",
+    "Product Innovation Engineer"
+  ],
+  "required_skills": [
+    "New Product Development",
+    "NPD",
+    "Prototyping",
+    "3D CAD Modeling",
+    "Design Verification and Validation",
+    "DVT",
+    "Concept Development",
+    "Engineering Analysis"
+  ],
+  "preferred_skills": [
+    "Rapid Prototyping",
+    "Additive Manufacturing",
+    "Patent Research and IP Development",
+    "Design of Experiments",
+    "Material Science Application",
+    "Cross-Disciplinary Systems Integration",
+    "User-Centered Design"
+  ],
+  "tools": [
+    "SolidWorks",
+    "CATIA",
+    "ANSYS Mechanical",
+    "MATLAB",
+    "Siemens NX",
+    "Keysight Test Equipment",
+    "LabVIEW",
+    "Formlabs 3D Printers",
+    "JIRA",
+    "Teamcenter"
+  ],
+  "frameworks": [
+    "FEA (ANSYS Mechanical)",
+    "Design Thinking Framework",
+    "Stage-Gate Process",
+    "DFMEA Frameworks"
+  ],
+  "responsibilities": [
+    "Lead concept development and feasibility studies for new products from initial idea through proof-of-concept prototyping",
+    "Design and build functional prototypes using 3D CAD and rapid prototyping techniques to validate design concepts",
+    "Conduct engineering analysis and simulation to evaluate design alternatives against performance and cost targets",
+    "Develop and execute design verification and validation test plans to confirm products meet customer requirements",
+    "Collaborate with cross-functional teams including marketing, manufacturing, and quality to transition designs to production",
+    "Research emerging materials, technologies, and manufacturing methods to inform next-generation product innovation",
+    "Document design iterations, test results, and technical findings to support patent filings and intellectual property protection",
+    "Present design concepts and technical findings to stakeholders to secure project approval and funding for development phases"
+  ],
+  "keywords": [
+    "R&D Engineering",
+    "Research and Development",
+    "New Product Development",
+    "NPD",
+    "Prototyping",
+    "Rapid Prototyping",
+    "3D CAD Modeling",
+    "Design Verification and Validation",
+    "DVT",
+    "Concept Development",
+    "Additive Manufacturing",
+    "3D Printing",
+    "Engineering Analysis",
+    "FEA",
+    "Finite Element Analysis",
+    "Design of Experiments",
+    "DOE",
+    "Stage-Gate Process",
+    "Patent Research",
+    "Intellectual Property",
+    "Feasibility Studies",
+    "Cross-Functional Collaboration",
+    "Design Thinking",
+    "Materials Research",
+    "Product Innovation"
+  ]
+}

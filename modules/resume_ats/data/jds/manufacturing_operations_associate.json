@@ -1,0 +1,86 @@
+{
+  "role_key": "MANUFACTURING_OPERATIONS_ASSOCIATE",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Manufacturing Associate",
+    "Production Operations Associate",
+    "Manufacturing Technician",
+    "Production Associate",
+    "Operations Production Specialist"
+  ],
+  "required_skills": [
+    "Manufacturing Operations and Production Process Execution",
+    "Good Manufacturing Practices (GMP) Compliance",
+    "Production Equipment Operation and Monitoring",
+    "Quality Control and Quality Assurance Procedures",
+    "Standard Operating Procedures (SOP) Adherence",
+    "Production Documentation and Record Management",
+    "Workplace Safety and Environmental Health Compliance",
+    "Continuous Improvement and Process Optimization"
+  ],
+  "preferred_skills": [
+    "Lean Manufacturing Principles",
+    "Statistical Process Control (SPC) Techniques",
+    "Root Cause Analysis and Corrective Actions",
+    "Inventory and Material Handling Coordination",
+    "Preventive Maintenance Support",
+    "Manufacturing Data Analysis and Reporting",
+    "Six Sigma Methodologies",
+    "Enterprise Resource Planning (ERP) System Exposure"
+  ],
+  "tools": [
+    "SAP S/4HANA",
+    "Oracle Manufacturing Cloud",
+    "Siemens Opcenter",
+    "Rockwell FactoryTalk",
+    "Microsoft Excel",
+    "Microsoft Power BI",
+    "Infor LN",
+    "Plex Manufacturing Cloud",
+    "Jira",
+    "AVEVA MES"
+  ],
+  "frameworks": [
+    "Lean Six Sigma",
+    "Total Productive Maintenance",
+    "Kaizen",
+    "5S Methodology"
+  ],
+  "responsibilities": [
+    "Operate manufacturing equipment according to standard operating procedures while maintaining productivity, quality standards, and workplace safety requirements.",
+    "Monitor production processes and equipment performance to ensure consistent output quality and compliance with manufacturing specifications.",
+    "Conduct routine quality inspections and document production results to support traceability and regulatory compliance requirements.",
+    "Collaborate with engineering, maintenance, and quality teams to resolve production issues and minimize manufacturing downtime.",
+    "Implement continuous improvement recommendations that enhance process efficiency, reduce waste, and improve operational performance.",
+    "Maintain accurate production records, batch documentation, and operational logs within manufacturing execution and ERP systems.",
+    "Support material handling and inventory movement activities to ensure uninterrupted production schedules and workflow continuity.",
+    "Follow GMP requirements, safety protocols, and operational guidelines to maintain compliance within manufacturing environments."
+  ],
+  "keywords": [
+    "Manufacturing Operations",
+    "Production Operations",
+    "Manufacturing Associate",
+    "GMP",
+    "Good Manufacturing Practices",
+    "Quality Control",
+    "Quality Assurance",
+    "SOP",
+    "Standard Operating Procedures",
+    "Production Equipment",
+    "Lean Manufacturing",
+    "Six Sigma",
+    "SPC",
+    "Statistical Process Control",
+    "Kaizen",
+    "5S",
+    "Manufacturing Execution System",
+    "MES",
+    "SAP Manufacturing",
+    "Production Efficiency",
+    "Root Cause Analysis",
+    "Process Optimization",
+    "Workplace Safety",
+    "Material Handling",
+    "Continuous Improvement"
+  ]
+}

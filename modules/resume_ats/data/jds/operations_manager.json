@@ -1,0 +1,87 @@
+{
+  "role_key": "OPERATIONS_MANAGER",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Operations Manager",
+    "Business Operations Manager",
+    "Operations Lead",
+    "Operations Director",
+    "Operational Excellence Manager"
+  ],
+  "required_skills": [
+    "Operations Management and Process Leadership",
+    "Operational Strategy and Execution",
+    "Performance Management and KPI Governance",
+    "Resource Planning and Capacity Management",
+    "Cross-Functional Team Leadership",
+    "Budget Management and Cost Control",
+    "Continuous Improvement and Operational Excellence",
+    "Risk Management and Business Continuity Planning"
+  ],
+  "preferred_skills": [
+    "Digital Transformation and Automation Initiatives",
+    "Lean Six Sigma Black Belt Practices",
+    "Project Portfolio Management",
+    "Change Management and Organizational Development",
+    "Vendor and Stakeholder Management",
+    "Business Intelligence and Executive Reporting",
+    "Workforce Planning and Talent Development",
+    "Supply Chain Coordination and Integration"
+  ],
+  "tools": [
+    "SAP S/4HANA",
+    "Oracle ERP Cloud",
+    "Microsoft Power BI",
+    "Tableau",
+    "Jira",
+    "Smartsheet",
+    "Microsoft Excel",
+    "ServiceNow",
+    "Coupa",
+    "Microsoft Dynamics 365"
+  ],
+  "frameworks": [
+    "Lean Six Sigma",
+    "APICS SCOR Model",
+    "SAFe",
+    "ITIL",
+    "Kanban"
+  ],
+  "responsibilities": [
+    "Lead daily operational activities across departments to ensure service delivery, productivity targets, and business objectives are consistently achieved.",
+    "Develop operational strategies and execution plans that improve efficiency, scalability, and long-term organizational performance.",
+    "Manage operational budgets, resource allocation, and workforce planning activities to optimize costs and maximize productivity outcomes.",
+    "Implement continuous improvement programs using Lean Six Sigma methodologies to eliminate waste and enhance process effectiveness.",
+    "Collaborate with senior leadership to define operational KPIs, monitor performance trends, and drive strategic business initiatives.",
+    "Oversee risk management processes and contingency planning efforts to minimize disruptions and maintain operational resilience.",
+    "Develop and mentor high-performing teams by establishing performance expectations, coaching programs, and professional development opportunities.",
+    "Monitor operational dashboards and management reports to identify improvement opportunities and support data-driven decision-making."
+  ],
+  "keywords": [
+    "Operations Management",
+    "Operational Excellence",
+    "Business Operations",
+    "Process Improvement",
+    "Continuous Improvement",
+    "KPI Governance",
+    "Resource Planning",
+    "Capacity Management",
+    "Team Leadership",
+    "Budget Management",
+    "Cost Control",
+    "Lean Six Sigma",
+    "Business Continuity",
+    "Risk Management",
+    "Operational Strategy",
+    "Performance Management",
+    "Workforce Planning",
+    "Digital Transformation",
+    "Change Management",
+    "Power BI",
+    "Tableau",
+    "Operational Efficiency",
+    "Executive Reporting",
+    "Organizational Effectiveness",
+    "Strategic Execution"
+  ]
+}

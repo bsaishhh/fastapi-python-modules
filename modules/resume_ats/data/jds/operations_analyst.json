@@ -1,0 +1,88 @@
+{
+  "role_key": "OPERATIONS_ANALYST",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Operations Analyst",
+    "Business Operations Analyst",
+    "Operational Excellence Analyst",
+    "Process Analyst",
+    "Operations Performance Analyst"
+  ],
+  "required_skills": [
+    "Operations Performance Analysis and KPI Management",
+    "Business Process Analysis and Optimization",
+    "Data Analytics and Statistical Analysis",
+    "Operational Reporting and Dashboard Development",
+    "Root Cause Analysis and Problem Solving",
+    "Process Mapping and Workflow Analysis",
+    "Advanced Microsoft Excel and Data Modeling",
+    "Cross-Functional Operations Support"
+  ],
+  "preferred_skills": [
+    "Lean Six Sigma Methodologies",
+    "Business Intelligence and Data Visualization",
+    "Automation and Workflow Improvement",
+    "Predictive Analytics and Forecasting",
+    "Project Management Support",
+    "Financial Operations Analysis",
+    "Capacity Planning and Resource Optimization",
+    "Change Management Initiatives"
+  ],
+  "tools": [
+    "Microsoft Excel",
+    "Power BI",
+    "Tableau",
+    "Snowflake",
+    "Alteryx",
+    "SAP S/4HANA",
+    "Oracle ERP Cloud",
+    "Jira",
+    "Microsoft Power Query",
+    "Smartsheet"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "Apache Spark",
+    "dbt",
+    "Apache Airflow",
+    "scikit-learn"
+  ],
+  "responsibilities": [
+    "Analyze operational performance metrics and business processes to identify inefficiencies and recommend measurable process improvement initiatives.",
+    "Develop executive dashboards and performance reports that provide visibility into operational KPIs, productivity trends, and service levels.",
+    "Conduct root cause analysis on operational issues and implement data-driven recommendations that improve efficiency and reduce process bottlenecks.",
+    "Collaborate with cross-functional teams to gather requirements, evaluate workflows, and optimize operational procedures across departments.",
+    "Build analytical models using operational data to forecast resource needs, capacity utilization, and business performance outcomes.",
+    "Monitor process compliance and operational standards to ensure consistent execution and achievement of organizational objectives.",
+    "Prepare detailed business analyses and presentations that support strategic decision-making and continuous improvement programs.",
+    "Implement reporting automation solutions that reduce manual effort and improve data accuracy across operational functions."
+  ],
+  "keywords": [
+    "Operations Analysis",
+    "Business Operations",
+    "KPI Management",
+    "Operational Excellence",
+    "Process Optimization",
+    "Business Process Analysis",
+    "Root Cause Analysis",
+    "Performance Reporting",
+    "Data Analytics",
+    "Operational Metrics",
+    "Power BI",
+    "Tableau",
+    "Excel Modeling",
+    "Workflow Analysis",
+    "Continuous Improvement",
+    "Lean Six Sigma",
+    "Business Intelligence",
+    "Predictive Analytics",
+    "Resource Planning",
+    "Capacity Planning",
+    "Operational Reporting",
+    "Process Improvement",
+    "Cross-Functional Collaboration",
+    "Data Visualization",
+    "Operational Efficiency"
+  ]
+}

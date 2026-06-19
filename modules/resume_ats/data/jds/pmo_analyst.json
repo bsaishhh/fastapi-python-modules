@@ -1,0 +1,79 @@
+{
+  "role_key": "PMO_ANALYST",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Project Management Office Analyst",
+    "PMO Coordinator",
+    "PMO Associate",
+    "Project Controls Analyst",
+    "Senior PMO Analyst"
+  ],
+  "required_skills": [
+    "Project Governance",
+    "Status Reporting",
+    "Risk and Issue Tracking",
+    "Project Scheduling",
+    "Stakeholder Communication",
+    "Budget Tracking",
+    "Resource Management",
+    "Documentation Standards",
+    "Excel Modeling",
+    "Project Management Methodology"
+  ],
+  "preferred_skills": [
+    "Agile Methodology",
+    "Python Programming",
+    "SQL Database Querying",
+    "Power BI Dashboard Development",
+    "Change Control Management",
+    "PMP Certification Knowledge",
+    "Vendor Coordination"
+  ],
+  "tools": [
+    "Jira",
+    "Microsoft Project",
+    "Smartsheet",
+    "Confluence",
+    "Excel",
+    "Power BI",
+    "ServiceNow",
+    "SharePoint"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Maintain centralized project schedules, tracking milestones, dependencies, and deliverables across multiple concurrent workstreams",
+    "Prepare consolidated status reports and dashboards summarizing project health, risks, and budget variance for leadership review",
+    "Track project risks and issues through a structured log, following up with workstream owners to ensure timely resolution",
+    "Monitor project budgets against actuals, flagging cost overruns and supporting finance teams with variance explanations",
+    "Coordinate governance forums including steering committees and working groups to support timely decision-making",
+    "Standardize project documentation templates and reporting cadences to improve consistency across the project portfolio",
+    "Support resource capacity planning by tracking team allocations and identifying potential staffing conflicts across projects",
+    "Manage change control processes, documenting scope changes and their impact on timeline, budget, and resources"
+  ],
+  "keywords": [
+    "PMO Analyst",
+    "Project Management Office",
+    "PMO",
+    "Project Governance",
+    "Status Reporting",
+    "Risk Tracking",
+    "Issue Management",
+    "Project Scheduling",
+    "Budget Tracking",
+    "Resource Management",
+    "Change Control",
+    "Project Management",
+    "PMP",
+    "Agile",
+    "Jira",
+    "Microsoft Project",
+    "Smartsheet",
+    "Power BI",
+    "Dashboard Reporting",
+    "Steering Committee",
+    "Documentation Standards"
+  ]
+}

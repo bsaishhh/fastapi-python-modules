@@ -1,0 +1,84 @@
+{
+  "role_key": "CONTROL_SYSTEMS_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Controls Engineer",
+    "Automation & Controls Engineer",
+    "Industrial Controls Engineer",
+    "Systems & Controls Engineer",
+    "Senior Control Systems Engineer"
+  ],
+  "required_skills": [
+    "Control System Design",
+    "PID Control Tuning",
+    "State-Space Modeling",
+    "Feedback Control Systems",
+    "System Identification",
+    "Control Loop Stability Analysis",
+    "PLC Programming (Programmable Logic Controller)",
+    "Sensor & Actuator Integration"
+  ],
+  "preferred_skills": [
+    "Model Predictive Control (MPC)",
+    "Robotics Motion Control",
+    "SCADA System Design",
+    "Embedded Control Software Development",
+    "Digital Signal Processing (DSP)",
+    "Functional Safety (IEC 61508)"
+  ],
+  "tools": [
+    "MATLAB",
+    "Simulink",
+    "Siemens TIA Portal",
+    "Allen-Bradley RSLogix",
+    "Rockwell Studio 5000",
+    "National Instruments LabVIEW",
+    "dSPACE",
+    "Kepware KEPServerEX"
+  ],
+  "frameworks": [
+    "ROS (Robot Operating System)",
+    "CODESYS",
+    "Stateflow",
+    "OPC-UA"
+  ],
+  "responsibilities": [
+    "Design and implement closed-loop control systems for industrial automation, robotics, or motion control applications.",
+    "Develop and tune PID and advanced control algorithms to optimize system response, stability, and disturbance rejection.",
+    "Model system dynamics using state-space representations and validate control strategies through MATLAB/Simulink simulation.",
+    "Program and configure PLCs and industrial controllers to automate manufacturing processes and equipment sequencing.",
+    "Integrate sensors, actuators, and feedback devices into control loops to achieve precise, real-time system performance.",
+    "Conduct system identification and frequency response analysis to characterize plant dynamics for controller design.",
+    "Collaborate with mechanical and electrical teams to define control architecture for new automation and robotics systems.",
+    "Commission and troubleshoot control systems on the factory floor, resolving stability, latency, and noise-related issues.",
+    "Develop HMI and SCADA interfaces to monitor and control industrial processes in real time.",
+    "Document control system architecture, control loop parameters, and validation test results for design and safety reviews."
+  ],
+  "keywords": [
+    "Control Systems Engineering",
+    "Controls Engineer",
+    "PID Control",
+    "State-Space Modeling",
+    "Feedback Control",
+    "System Identification",
+    "Control Loop Stability",
+    "PLC Programming",
+    "Programmable Logic Controller",
+    "SCADA",
+    "HMI",
+    "Model Predictive Control",
+    "MPC",
+    "Robotics Motion Control",
+    "MATLAB",
+    "Simulink",
+    "TIA Portal",
+    "RSLogix",
+    "Studio 5000",
+    "LabVIEW",
+    "dSPACE",
+    "Industrial Automation",
+    "Sensor Integration",
+    "Actuator Integration",
+    "Functional Safety"
+  ]
+}

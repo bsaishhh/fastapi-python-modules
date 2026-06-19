@@ -1,0 +1,90 @@
+{
+  "role_key": "COMPUTER_VISION_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "CV Engineer",
+    "Senior Computer Vision Engineer",
+    "Applied Computer Vision Scientist",
+    "Vision Algorithms Engineer",
+    "Deep Learning Computer Vision Engineer"
+  ],
+  "required_skills": [
+    "Computer Vision",
+    "Deep Learning",
+    "Convolutional Neural Networks (CNN)",
+    "Image Processing",
+    "Object Detection",
+    "Python Programming",
+    "PyTorch",
+    "OpenCV",
+    "Model Training and Evaluation",
+    "Image Classification"
+  ],
+  "preferred_skills": [
+    "Generative Adversarial Networks (GANs)",
+    "Vision Transformers (ViT)",
+    "Model Quantization",
+    "Edge AI Deployment",
+    "3D Reconstruction",
+    "Video Analytics",
+    "Synthetic Data Generation"
+  ],
+  "tools": [
+    "NVIDIA Jetson",
+    "CUDA",
+    "TensorRT",
+    "Docker",
+    "Git",
+    "Weights & Biases",
+    "AWS",
+    "Label Studio",
+    "Roboflow",
+    "MLflow"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "OpenCV",
+    "ONNX",
+    "YOLO",
+    "Detectron2"
+  ],
+  "responsibilities": [
+    "Design, train, and evaluate deep learning models for image classification, object detection, and segmentation tasks at scale",
+    "Build and optimize computer vision pipelines that process images and video streams for real-time inference applications",
+    "Implement data augmentation, preprocessing, and annotation workflows to improve model accuracy and reduce labeling costs",
+    "Fine-tune pretrained convolutional and transformer-based vision models on domain-specific datasets to improve task performance",
+    "Optimize and quantize trained models for deployment on edge devices using TensorRT and ONNX runtime",
+    "Conduct rigorous model evaluation using precision, recall, mAP, and IoU metrics to validate production readiness",
+    "Collaborate with product and engineering teams to integrate computer vision models into production applications and APIs",
+    "Monitor deployed vision models for performance drift and retrain pipelines to maintain accuracy over time",
+    "Research and prototype state-of-the-art computer vision techniques to solve novel business and product problems"
+  ],
+  "keywords": [
+    "Computer Vision",
+    "Deep Learning",
+    "CNN",
+    "Convolutional Neural Networks",
+    "Image Processing",
+    "Object Detection",
+    "Image Classification",
+    "Image Segmentation",
+    "PyTorch",
+    "TensorFlow",
+    "OpenCV",
+    "Vision Transformers",
+    "ViT",
+    "GANs",
+    "Generative Adversarial Networks",
+    "Model Quantization",
+    "Edge AI",
+    "TensorRT",
+    "ONNX",
+    "CUDA",
+    "NVIDIA Jetson",
+    "Video Analytics",
+    "3D Reconstruction",
+    "Data Augmentation",
+    "MLOps"
+  ]
+}

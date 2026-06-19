@@ -1,0 +1,78 @@
+{
+  "role_key": "BUSINESS_INTELLIGENCE_ANALYST",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "BI Analyst",
+    "Senior Business Intelligence Analyst",
+    "Reporting Analyst",
+    "Data Analyst, BI",
+    "Business Insights Analyst"
+  ],
+  "required_skills": [
+    "Business Intelligence Analysis",
+    "SQL",
+    "Data Visualization",
+    "Dashboard Development",
+    "Excel",
+    "Data Analysis",
+    "KPI Reporting",
+    "Requirements Gathering"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Statistical Analysis",
+    "Data Modeling",
+    "Forecasting and Trend Analysis",
+    "Presentation and Storytelling",
+    "ETL Concepts",
+    "A/B Testing"
+  ],
+  "tools": [
+    "Tableau",
+    "Power BI",
+    "Excel",
+    "Looker",
+    "Snowflake",
+    "SQL Server",
+    "Google Sheets",
+    "Salesforce"
+  ],
+  "frameworks": [
+    "DAX",
+    "Power Query"
+  ],
+  "responsibilities": [
+    "Build and maintain dashboards that track key performance indicators across sales, marketing, and operations",
+    "Analyze business data to identify trends, opportunities, and risks that inform strategic decision-making",
+    "Partner with business stakeholders to gather requirements and define metrics for new reporting initiatives",
+    "Write complex SQL queries to extract, aggregate, and analyze data from multiple operational systems",
+    "Prepare and present analytical findings to leadership through clear visualizations and executive summaries",
+    "Conduct ad hoc analyses to answer urgent business questions and support time-sensitive decision-making",
+    "Monitor data accuracy and consistency across dashboards, flagging and resolving discrepancies proactively",
+    "Document report definitions, data sources, and business logic to ensure consistent metric interpretation",
+    "Identify opportunities to automate manual reporting processes and improve analytics efficiency",
+    "Collaborate with data engineering teams to request and validate new data sources for reporting needs"
+  ],
+  "keywords": [
+    "Business Intelligence Analyst",
+    "BI Analyst",
+    "Data Analysis",
+    "Dashboard Development",
+    "Data Visualization",
+    "KPI Reporting",
+    "SQL",
+    "Excel",
+    "Tableau",
+    "Power BI",
+    "Looker",
+    "Requirements Gathering",
+    "Trend Analysis",
+    "Forecasting",
+    "Ad Hoc Analysis",
+    "Executive Reporting",
+    "Data Storytelling",
+    "Statistical Analysis",
+    "Business Insights",
+    "Metrics Definition"
+  ]
+}

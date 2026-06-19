@@ -1,0 +1,82 @@
+{
+  "role_key": "ANALYTICS_ENGINEER",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Analytics Engineer",
+    "Data Modeling Engineer",
+    "BI Engineer",
+    "Analytics Data Engineer",
+    "Staff Analytics Engineer"
+  ],
+  "required_skills": [
+    "SQL",
+    "Data Modeling",
+    "dbt (Data Build Tool)",
+    "Data Transformation",
+    "Data Warehousing",
+    "Version Control",
+    "Python Programming",
+    "Dimensional Modeling"
+  ],
+  "preferred_skills": [
+    "Business Intelligence Reporting",
+    "Data Quality Testing",
+    "Stakeholder Requirements Gathering",
+    "CI/CD for Analytics",
+    "Semantic Layer Design",
+    "Statistical Analysis",
+    "Cloud Data Platforms"
+  ],
+  "tools": [
+    "Snowflake",
+    "dbt",
+    "Looker",
+    "BigQuery",
+    "Airflow",
+    "Tableau",
+    "GitHub",
+    "Fivetran",
+    "Redshift"
+  ],
+  "frameworks": [
+    "dbt",
+    "Pandas",
+    "SQLAlchemy",
+    "Great Expectations"
+  ],
+  "responsibilities": [
+    "Build and maintain dbt models that transform raw data into clean, reliable, analytics-ready datasets",
+    "Design dimensional data models that support self-service analytics across business intelligence tools",
+    "Implement automated data quality tests to catch anomalies, duplicates, and broken transformations early",
+    "Collaborate with stakeholders to gather requirements and translate business logic into well-documented data models",
+    "Maintain a semantic layer that ensures consistent metric definitions across dashboards and reports",
+    "Optimize SQL transformations for query performance and cost efficiency within the cloud data warehouse",
+    "Establish version control and CI/CD workflows for analytics code to enable safe, collaborative development",
+    "Document data models, metric definitions, and transformation logic to support data democratization efforts",
+    "Partner with data engineers to ensure upstream data sources are reliable and properly structured for modeling",
+    "Train and support business users on self-service analytics tools and approved data definitions"
+  ],
+  "keywords": [
+    "Analytics Engineer",
+    "dbt",
+    "Data Build Tool",
+    "Data Modeling",
+    "Dimensional Modeling",
+    "Data Transformation",
+    "SQL",
+    "Data Warehousing",
+    "Semantic Layer",
+    "Data Quality Testing",
+    "CI/CD",
+    "Version Control",
+    "Self-Service Analytics",
+    "Looker",
+    "BigQuery",
+    "Snowflake",
+    "Tableau",
+    "Metric Definitions",
+    "Business Intelligence",
+    "Stakeholder Management",
+    "Python"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "role_key": "LLM_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Large Language Model Engineer",
+    "Senior LLM Engineer",
+    "LLM Infrastructure Engineer",
+    "LLMOps Engineer",
+    "Foundation Model Engineer"
+  ],
+  "required_skills": [
+    "Large Language Models (LLM)",
+    "Model Fine-Tuning",
+    "Python Programming",
+    "Transformer Architectures",
+    "Distributed Training",
+    "Inference Optimization",
+    "Quantization",
+    "Vector Databases",
+    "Prompt Engineering"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning from Human Feedback (RLHF)",
+    "Model Pretraining",
+    "Tokenization Strategies",
+    "Multi-GPU and Multi-Node Training",
+    "Model Evaluation and Benchmarking",
+    "Knowledge Distillation",
+    "Mixture of Experts (MoE) Architectures"
+  ],
+  "tools": [
+    "AWS SageMaker",
+    "NVIDIA CUDA",
+    "Weights & Biases",
+    "Docker",
+    "Kubernetes",
+    "Slurm",
+    "Hugging Face Hub",
+    "vLLM",
+    "Ray",
+    "Pinecone"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "Hugging Face Transformers",
+    "DeepSpeed",
+    "LangChain",
+    "vLLM",
+    "PEFT",
+    "Megatron-LM"
+  ],
+  "responsibilities": [
+    "Fine-tune and adapt large language models for domain-specific applications using LoRA, QLoRA, and full fine-tuning",
+    "Build and optimize inference serving infrastructure to deploy LLMs at low latency and high throughput in production",
+    "Implement distributed training pipelines across multi-GPU and multi-node clusters using DeepSpeed and Megatron-LM",
+    "Quantize and compress large language models to reduce memory footprint while preserving output quality",
+    "Design and execute RLHF and instruction-tuning pipelines to align model behavior with desired outcomes",
+    "Architect retrieval-augmented generation systems that integrate vector search with LLM inference for grounded responses",
+    "Develop comprehensive evaluation suites to benchmark model accuracy, latency, and cost across LLM versions",
+    "Monitor and troubleshoot production LLM systems, diagnosing issues related to hallucination, latency, and drift",
+    "Collaborate with research teams to integrate emerging architectures and training techniques into production systems",
+    "Manage GPU cluster resource allocation and cost optimization for large-scale model training and serving"
+  ],
+  "keywords": [
+    "LLM Engineer",
+    "Large Language Models",
+    "LLM",
+    "Fine-Tuning",
+    "LoRA",
+    "QLoRA",
+    "RLHF",
+    "Transformer Architectures",
+    "Distributed Training",
+    "Model Pretraining",
+    "Quantization",
+    "Model Compression",
+    "Inference Optimization",
+    "vLLM",
+    "DeepSpeed",
+    "Megatron-LM",
+    "Mixture of Experts",
+    "MoE",
+    "Vector Databases",
+    "RAG",
+    "Retrieval-Augmented Generation",
+    "Prompt Engineering",
+    "GPU Clusters",
+    "Knowledge Distillation",
+    "Hugging Face"
+  ]
+}

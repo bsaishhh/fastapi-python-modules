@@ -1,0 +1,81 @@
+{
+  "role_key": "EQUITY_RESEARCH_ANALYST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Equity Analyst",
+    "Sell-Side Equity Research Analyst",
+    "Buy-Side Equity Research Analyst",
+    "Senior Equity Research Analyst",
+    "ERA"
+  ],
+  "required_skills": [
+    "Financial Statement Analysis",
+    "Valuation Modeling",
+    "Discounted Cash Flow Analysis",
+    "DCF Modeling",
+    "Industry Sector Research",
+    "Earnings Forecasting",
+    "Excel Modeling",
+    "Comparable Company Analysis",
+    "Equity Valuation",
+    "Financial Modeling"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Macroeconomic Analysis",
+    "Management Interview Techniques",
+    "ESG Analysis",
+    "Quantitative Screening",
+    "Sum-of-the-Parts Valuation",
+    "Behavioral Finance"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "FactSet",
+    "CapitalIQ",
+    "Excel",
+    "Refinitiv Eikon",
+    "Thomson Reuters",
+    "Visible Alpha"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Build and maintain detailed financial models to forecast company earnings, revenue growth, and cash flow generation",
+    "Publish equity research reports with investment ratings, price targets, and detailed valuation analysis on covered companies",
+    "Conduct industry and competitive analysis to identify market trends affecting covered sectors and individual stocks",
+    "Host and participate in earnings calls, management meetings, and investor conferences to gather company-specific insights",
+    "Develop investment theses backed by fundamental analysis, valuation multiples, and discounted cash flow methodology",
+    "Monitor quarterly earnings releases and update financial models and price targets based on reported company performance",
+    "Present stock recommendations and sector outlooks to institutional clients, portfolio managers, and internal sales teams",
+    "Track regulatory, macroeconomic, and competitive developments that could materially impact covered companies' valuations"
+  ],
+  "keywords": [
+    "Equity Research",
+    "Equity Research Analyst",
+    "Sell-Side Research",
+    "Buy-Side Research",
+    "Financial Modeling",
+    "Valuation",
+    "DCF",
+    "Discounted Cash Flow",
+    "Earnings Forecasting",
+    "Comparable Company Analysis",
+    "Sum-of-the-Parts",
+    "Investment Thesis",
+    "Price Target",
+    "Stock Rating",
+    "Sector Coverage",
+    "Financial Statement Analysis",
+    "Excel",
+    "Bloomberg",
+    "FactSet",
+    "CapitalIQ",
+    "ESG Analysis",
+    "Earnings Calls",
+    "CFA",
+    "Fundamental Analysis"
+  ]
+}

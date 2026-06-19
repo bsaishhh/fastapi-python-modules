@@ -1,0 +1,84 @@
+{
+  "role_key": "PCB_DESIGN_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "PCB Layout Engineer",
+    "Printed Circuit Board Design Engineer",
+    "PCB Design Specialist",
+    "Senior PCB Designer",
+    "Electronics Layout Engineer"
+  ],
+  "required_skills": [
+    "PCB Layout Design",
+    "Schematic Capture",
+    "Multi-Layer PCB Design",
+    "Gerber File Generation",
+    "Component Footprint Design",
+    "Design for Manufacturing (DFM)",
+    "Design Rule Checking (DRC)",
+    "Impedance-Controlled Routing"
+  ],
+  "preferred_skills": [
+    "High-Speed PCB Design",
+    "Flex & Rigid-Flex PCB Design",
+    "RF PCB Layout",
+    "Thermal Analysis for PCB",
+    "IPC Standards Compliance",
+    "Design for Assembly (DFA)"
+  ],
+  "tools": [
+    "Altium Designer",
+    "Cadence Allegro",
+    "OrCAD",
+    "KiCad",
+    "Mentor PADS",
+    "Zuken CR-8000",
+    "SolidWorks PCB",
+    "Eagle CAD"
+  ],
+  "frameworks": [
+    "IPC-2221",
+    "IPC-7351",
+    "ODB++",
+    "Gerber X2"
+  ],
+  "responsibilities": [
+    "Design and layout multi-layer printed circuit boards using Altium Designer or Cadence Allegro for consumer and industrial electronics products.",
+    "Create and maintain component footprints, schematic symbols, and PCB libraries adhering to IPC standards and manufacturing guidelines.",
+    "Perform design rule checks (DRC) and design for manufacturing (DFM) reviews to ensure fabrication and assembly readiness.",
+    "Route high-speed signals, differential pairs, and power planes while maintaining controlled impedance and minimizing crosstalk.",
+    "Collaborate with electronics and mechanical engineers to define board outline, stackup, and component placement constraints.",
+    "Generate Gerber files, drill files, and fabrication drawings for handoff to PCB manufacturers and contract assemblers.",
+    "Review and resolve signal integrity, thermal, and EMI concerns identified during board-level simulation and post-layout analysis.",
+    "Coordinate with PCB fabricators and assembly houses to resolve manufacturing queries and reduce production turnaround time.",
+    "Maintain version-controlled PCB design files and documentation throughout iterative product development cycles.",
+    "Support bring-up and debugging of prototype boards, identifying and correcting layout-related issues found during testing."
+  ],
+  "keywords": [
+    "PCB Design",
+    "Printed Circuit Board",
+    "PCB Layout",
+    "Altium Designer",
+    "Cadence Allegro",
+    "OrCAD",
+    "KiCad",
+    "Multi-Layer PCB",
+    "Gerber Files",
+    "Schematic Capture",
+    "Component Footprint",
+    "DFM",
+    "Design for Manufacturing",
+    "DRC",
+    "Design Rule Checking",
+    "Impedance Control",
+    "High-Speed PCB Design",
+    "Flex PCB",
+    "Rigid-Flex PCB",
+    "RF PCB Layout",
+    "IPC Standards",
+    "IPC-2221",
+    "Thermal Analysis",
+    "Stackup Design",
+    "Board Fabrication"
+  ]
+}

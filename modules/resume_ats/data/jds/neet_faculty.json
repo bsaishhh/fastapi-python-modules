@@ -1,0 +1,93 @@
+{
+  "role_key": "NEET_FACULTY",
+  "family": "Education & EdTech",
+  "sub_roles": [
+    "NEET Biology Faculty",
+    "NEET Physics Instructor",
+    "NEET Chemistry Expert",
+    "Medical Entrance Exam Coach",
+    "Senior NEET Subject Expert"
+  ],
+  "required_skills": [
+    "Deep subject-matter expertise in Biology (Botany & Zoology), Physics, or Chemistry at NEET UG level",
+    "Thorough knowledge of NEET UG exam pattern, NTA marking scheme, and chapter-wise syllabus weightage",
+    "Concept-based teaching methodology for medical entrance preparation at Class 11–12 level",
+    "NCERT-focused pedagogy with line-by-line mastery techniques for Biology and standard textbook problems for Physics and Chemistry",
+    "Design and administration of NEET-style full-length and subject-wise mock tests",
+    "Student performance monitoring and targeted doubt resolution for NEET aspirants",
+    "Classroom and online lecture delivery for batches of competitive exam aspirants",
+    "Memorization and retention techniques for high-volume Biology content (taxonomy, human physiology, genetics)"
+  ],
+  "preferred_skills": [
+    "Experience at established NEET coaching institutes (Aakash Institute, Allen Career Institute, Narayana, Sri Chaitanya)",
+    "Familiarity with NEET PG preparation nuances for post-graduate medical aspirants",
+    "Ability to create high-yield mnemonics, revision charts, and visual aids for complex Biology topics",
+    "Online live teaching with digital annotation tools and recorded content creation for EdTech platforms",
+    "Analysis of previous years' NEET papers (2010–2024) to predict high-frequency question patterns",
+    "Counseling students on MBBS seat allocation, cut-off trends, and state quota admissions",
+    "Knowledge of AIIMS, JIPMER, and other medical entrance exam patterns beyond NEET UG"
+  ],
+  "tools": [
+    "Zoom",
+    "Google Meet",
+    "Aakash iTutor Platform",
+    "Unacademy Platform",
+    "Google Classroom",
+    "Wacom Digital Tablet",
+    "Microsoft OneNote",
+    "Vedantu Classroom",
+    "Byju's Learning App",
+    "Padlet"
+  ],
+  "frameworks": [
+    "NEET UG Syllabus Framework (NTA)",
+    "NCERT Class 11 & 12 Curriculum",
+    "Bloom's Taxonomy (applied to NEET question classification)",
+    "Spaced Repetition and Active Recall Learning",
+    "Socratic Method of Teaching",
+    "AIIMS Entrance Framework"
+  ],
+  "responsibilities": [
+    "Deliver in-depth concept lectures in Biology, Physics, or Chemistry strictly aligned with the NEET UG syllabus and NCERT textbook framework",
+    "Design and evaluate NEET-pattern mock tests including 180-question full-length tests and chapter-wise subject tests with NTA-accurate marking schemes",
+    "Conduct line-by-line NCERT Biology revision sessions to ensure students achieve mastery over the primary source required for NEET success",
+    "Resolve student doubts in dedicated doubt-clearing sessions and provide one-on-one academic mentoring for weak-performing aspirants",
+    "Develop high-yield revision notes, mnemonics, flowcharts, and quick-reference sheets for high-density Biology and Chemistry topics",
+    "Analyze mock test performance data to identify individual and batch-level weak areas and adapt instructional strategies accordingly",
+    "Conduct previous-year NEET paper analysis sessions highlighting topic-wise weightage, repeated concepts, and evolving question trends",
+    "Create engaging recorded video lectures and digital study content for NEET aspirants on online EdTech platforms",
+    "Provide academic counseling to students on MBBS admission cut-offs, state quota strategies, and college selection based on expected ranks",
+    "Track student rank progression across test series and implement targeted interventions for students at risk of not qualifying the NEET cut-off"
+  ],
+  "keywords": [
+    "NEET",
+    "NEET UG",
+    "Medical Entrance Exam",
+    "NTA",
+    "Biology Faculty",
+    "Botany",
+    "Zoology",
+    "Physics Faculty",
+    "Chemistry Faculty",
+    "NCERT",
+    "Class 11",
+    "Class 12",
+    "MBBS Entrance",
+    "Aakash Institute",
+    "Allen Institute",
+    "Mock Tests",
+    "Previous Year Papers",
+    "Online Teaching",
+    "Live Classes",
+    "Doubt Resolution",
+    "Human Physiology",
+    "Genetics",
+    "Spaced Repetition",
+    "Active Recall",
+    "AIIMS",
+    "Rank Improvement",
+    "Mnemonics",
+    "Vedantu",
+    "Unacademy"
+  ]
+}

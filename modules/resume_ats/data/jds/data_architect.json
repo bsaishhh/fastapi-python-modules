@@ -1,0 +1,81 @@
+{
+  "role_key": "DATA_ARCHITECT",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Data Architect",
+    "Enterprise Data Architect",
+    "Principal Data Architect",
+    "Cloud Data Architect",
+    "Data Platform Architect"
+  ],
+  "required_skills": [
+    "Data Architecture Design",
+    "Data Modeling",
+    "Data Warehousing",
+    "SQL",
+    "Master Data Management (MDM)",
+    "Data Governance",
+    "Cloud Data Platforms",
+    "Enterprise Architecture"
+  ],
+  "preferred_skills": [
+    "Data Mesh Principles",
+    "Metadata Management",
+    "Data Security and Compliance",
+    "Multi-Cloud Strategy",
+    "Real-Time Data Architecture",
+    "Python Programming",
+    "Stakeholder and Vendor Management"
+  ],
+  "tools": [
+    "Snowflake",
+    "AWS",
+    "Azure",
+    "Databricks",
+    "Collibra",
+    "Apache Kafka",
+    "Terraform",
+    "Redshift"
+  ],
+  "frameworks": [
+    "Apache Spark",
+    "dbt",
+    "Apache Iceberg",
+    "Delta Lake"
+  ],
+  "responsibilities": [
+    "Design enterprise-wide data architecture strategies that align with long-term business and analytics goals",
+    "Define data modeling standards and governance frameworks to ensure consistency across all data platforms",
+    "Architect scalable data lakehouse solutions that support both batch and real-time analytical workloads",
+    "Evaluate and select data technologies and platforms that align with organizational scalability and cost goals",
+    "Establish master data management strategies to ensure consistent, trusted data across business systems",
+    "Collaborate with security and compliance teams to design data architectures meeting regulatory requirements",
+    "Guide engineering teams in implementing architectural standards for data pipelines and storage systems",
+    "Develop data integration strategies that connect disparate source systems into unified data platforms",
+    "Create and maintain architectural documentation, including data flow diagrams and system blueprints",
+    "Advise executive leadership on data strategy, platform investments, and emerging data technology trends"
+  ],
+  "keywords": [
+    "Data Architect",
+    "Data Architecture",
+    "Data Modeling",
+    "Data Warehousing",
+    "Data Lakehouse",
+    "Master Data Management",
+    "MDM",
+    "Data Governance",
+    "Metadata Management",
+    "Enterprise Architecture",
+    "Data Mesh",
+    "Cloud Data Platforms",
+    "Multi-Cloud Strategy",
+    "Apache Iceberg",
+    "Delta Lake",
+    "Data Security",
+    "Data Compliance",
+    "Snowflake",
+    "AWS",
+    "Azure",
+    "Data Integration"
+  ]
+}

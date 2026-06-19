@@ -1,0 +1,84 @@
+{
+  "role_key": "RF_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "RF Design Engineer",
+    "Radio Frequency Engineer",
+    "RF/Microwave Engineer",
+    "Wireless RF Engineer",
+    "RF Systems Engineer"
+  ],
+  "required_skills": [
+    "RF Circuit Design",
+    "RF Front-End Design",
+    "Antenna Design",
+    "Impedance Matching",
+    "S-Parameter Analysis",
+    "RF Power Amplifier Design",
+    "Microwave Engineering",
+    "Link Budget Analysis"
+  ],
+  "preferred_skills": [
+    "5G/LTE RF Architecture",
+    "RF Filter Design",
+    "Phased Array Antenna Design",
+    "RF Test & Measurement Automation",
+    "Satellite Communication Systems",
+    "EMI/EMC Compliance for RF Systems"
+  ],
+  "tools": [
+    "Keysight ADS (Advanced Design System)",
+    "Cadence AWR Microwave Office",
+    "Vector Network Analyzer (VNA)",
+    "Spectrum Analyzer",
+    "HFSS (High-Frequency Structure Simulator)",
+    "CST Studio Suite",
+    "Keysight Signal Generator",
+    "Rohde & Schwarz Test Equipment"
+  ],
+  "frameworks": [
+    "MATLAB RF Toolbox",
+    "Simulink RF Blockset",
+    "scikit-rf",
+    "openEMS"
+  ],
+  "responsibilities": [
+    "Design RF front-end circuits including amplifiers, mixers, and filters for wireless communication and radar systems.",
+    "Perform RF simulations using Keysight ADS or AWR Microwave Office to validate gain, noise figure, and linearity specifications.",
+    "Conduct antenna design and electromagnetic simulation using HFSS or CST Studio to optimize radiation patterns and impedance matching.",
+    "Characterize RF components and subsystems using vector network analyzers (VNA) and spectrum analyzers in lab environments.",
+    "Develop link budget analyses to determine system range, sensitivity, and performance under varying environmental conditions.",
+    "Debug RF hardware prototypes, resolving issues related to insertion loss, return loss, and signal distortion.",
+    "Collaborate with PCB layout engineers to ensure RF trace routing minimizes signal loss and electromagnetic interference.",
+    "Support EMI/EMC pre-compliance testing for RF subsystems to ensure regulatory certification readiness.",
+    "Design and validate RF power amplifier stages for efficiency, linearity, and thermal performance across operating bands.",
+    "Document RF design specifications, test reports, and calibration procedures for production and certification handoff."
+  ],
+  "keywords": [
+    "RF Engineering",
+    "Radio Frequency",
+    "RF Circuit Design",
+    "RF Front-End",
+    "Antenna Design",
+    "Impedance Matching",
+    "S-Parameters",
+    "Microwave Engineering",
+    "Link Budget Analysis",
+    "Keysight ADS",
+    "AWR Microwave Office",
+    "HFSS",
+    "CST Studio",
+    "Vector Network Analyzer",
+    "VNA",
+    "Spectrum Analyzer",
+    "RF Power Amplifier",
+    "5G",
+    "LTE",
+    "RF Filter Design",
+    "Phased Array",
+    "EMI",
+    "EMC",
+    "Wireless Communication",
+    "Radar Systems"
+  ]
+}

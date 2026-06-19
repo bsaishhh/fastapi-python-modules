@@ -1,0 +1,86 @@
+{
+  "role_key": "PRODUCT_DESIGN_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Product Design Engineer",
+    "Industrial Design Engineer",
+    "New Product Development Engineer",
+    "Product Development Engineer",
+    "Mechanical Product Designer"
+  ],
+  "required_skills": [
+    "Product Design",
+    "New Product Development",
+    "NPD",
+    "Design for Manufacturing",
+    "DFM",
+    "Design for Assembly",
+    "DFA",
+    "3D Modeling",
+    "Prototyping",
+    "Rapid Prototyping"
+  ],
+  "preferred_skills": [
+    "Industrial Design Collaboration",
+    "User-Centered Design",
+    "Plastic Part Design",
+    "Ergonomics",
+    "Design Sprints",
+    "Cost Engineering",
+    "Sustainable Design Principles"
+  ],
+  "tools": [
+    "SolidWorks",
+    "Fusion 360",
+    "Keyshot",
+    "Creo",
+    "PTC Windchill",
+    "Jira",
+    "Figma",
+    "Teamcenter"
+  ],
+  "frameworks": [
+    "SolidWorks Simulation",
+    "ANSYS",
+    "Arena PLM",
+    "Onshape"
+  ],
+  "responsibilities": [
+    "Lead end-to-end product design from concept ideation through detailed engineering and manufacturing handoff",
+    "Develop 3D CAD models and engineering drawings that balance aesthetic intent with manufacturability and cost targets",
+    "Build rapid prototypes using 3D printing and CNC machining to validate form, fit, and user experience",
+    "Collaborate with industrial designers, marketing, and manufacturing partners to translate concepts into producible products",
+    "Conduct design for manufacturing and assembly reviews to reduce production cost and improve assembly efficiency",
+    "Manage supplier relationships and factory visits to oversee tooling development and first-article inspections",
+    "Define and execute product testing plans to validate durability, usability, and regulatory compliance requirements",
+    "Drive design iterations based on user feedback, market research, and competitive product teardown analysis",
+    "Document design specifications and maintain version control across the product development lifecycle"
+  ],
+  "keywords": [
+    "Product Design",
+    "New Product Development",
+    "NPD",
+    "Industrial Design",
+    "Design for Manufacturing",
+    "DFM",
+    "Design for Assembly",
+    "DFA",
+    "SolidWorks",
+    "Fusion 360",
+    "Creo",
+    "3D Modeling",
+    "CAD",
+    "Rapid Prototyping",
+    "3D Printing",
+    "CNC Machining",
+    "Injection Molding",
+    "User-Centered Design",
+    "Ergonomics",
+    "Tooling Development",
+    "Supplier Management",
+    "Design Validation Testing",
+    "DVT",
+    "Bill of Materials",
+    "BOM"
+  ]
+}

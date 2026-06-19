@@ -1,0 +1,90 @@
+{
+  "role_key": "MOTION_PLANNING_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Path Planning Engineer",
+    "Trajectory Planning Engineer",
+    "Autonomy Planning Engineer",
+    "Senior Motion Planning Engineer",
+    "Navigation Planning Engineer"
+  ],
+  "required_skills": [
+    "Motion Planning Algorithms",
+    "Path Planning",
+    "Trajectory Optimization",
+    "Collision Avoidance",
+    "C++ Programming",
+    "Python Programming",
+    "Robot Operating System (ROS)",
+    "Graph Search Algorithms",
+    "Computational Geometry",
+    "Optimization Theory"
+  ],
+  "preferred_skills": [
+    "Sampling-Based Planning (RRT)",
+    "Model Predictive Control (MPC)",
+    "Reinforcement Learning for Planning",
+    "Multi-Robot Coordination",
+    "Convex Optimization",
+    "Behavior Prediction",
+    "Simulation-Based Validation"
+  ],
+  "tools": [
+    "ROS",
+    "ROS2",
+    "Gazebo",
+    "MoveIt",
+    "OMPL",
+    "Git",
+    "Docker",
+    "RViz",
+    "MATLAB",
+    "Jenkins"
+  ],
+  "frameworks": [
+    "ROS",
+    "ROS2",
+    "MoveIt",
+    "Nav2",
+    "CasADi",
+    "PyTorch"
+  ],
+  "responsibilities": [
+    "Design and implement motion planning algorithms such as A*, RRT, and trajectory optimization for safe robot navigation",
+    "Develop collision-free path planning solutions that account for dynamic obstacles, kinematic constraints, and environmental geometry",
+    "Build trajectory optimization pipelines that generate smooth, dynamically feasible paths for robotic arms or mobile platforms",
+    "Implement and tune sampling-based and search-based planners to balance computation time against solution quality and optimality",
+    "Integrate motion planning modules with perception and control systems to ensure consistent end-to-end autonomous navigation behavior",
+    "Simulate and stress-test planning algorithms across diverse scenarios to validate robustness in cluttered and dynamic environments",
+    "Collaborate with controls engineers to ensure generated trajectories are executable within actuator and dynamic system limits",
+    "Profile and optimize planning algorithm runtime performance to meet real-time computational constraints on embedded hardware",
+    "Analyze planning failures and edge cases using simulation logs to iteratively improve algorithm robustness and coverage"
+  ],
+  "keywords": [
+    "Motion Planning",
+    "Path Planning",
+    "Trajectory Optimization",
+    "Collision Avoidance",
+    "A* Algorithm",
+    "RRT",
+    "Rapidly-Exploring Random Trees",
+    "Sampling-Based Planning",
+    "Graph Search",
+    "Computational Geometry",
+    "Optimization Theory",
+    "Convex Optimization",
+    "MPC",
+    "Model Predictive Control",
+    "Multi-Robot Coordination",
+    "ROS",
+    "ROS2",
+    "MoveIt",
+    "Nav2",
+    "OMPL",
+    "Behavior Prediction",
+    "Autonomous Navigation",
+    "C++",
+    "Python",
+    "Reinforcement Learning"
+  ]
+}

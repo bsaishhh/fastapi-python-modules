@@ -1,0 +1,92 @@
+{
+  "role_key": "DEEP_LEARNING_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Senior Deep Learning Engineer",
+    "Deep Learning Research Engineer",
+    "Neural Network Engineer",
+    "Computer Vision Engineer",
+    "DL Engineer"
+  ],
+  "required_skills": [
+    "Deep Learning",
+    "DL",
+    "Neural Network Architecture Design",
+    "Python Programming",
+    "GPU-Accelerated Computing",
+    "Convolutional Neural Networks (CNN)",
+    "Transformer Architectures",
+    "Model Optimization and Quantization",
+    "Distributed Training"
+  ],
+  "preferred_skills": [
+    "Computer Vision",
+    "Natural Language Processing (NLP)",
+    "Reinforcement Learning",
+    "Research Paper Implementation",
+    "Self-Supervised Learning",
+    "Model Compression and Pruning",
+    "Edge Deployment of Neural Networks"
+  ],
+  "tools": [
+    "NVIDIA CUDA",
+    "AWS SageMaker",
+    "Weights & Biases",
+    "Docker",
+    "Kubernetes",
+    "Slurm",
+    "TensorBoard",
+    "Jupyter",
+    "Google Cloud Platform",
+    "ONNX Runtime"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "Hugging Face Transformers",
+    "JAX",
+    "Keras",
+    "NVIDIA TensorRT",
+    "PyTorch Lightning"
+  ],
+  "responsibilities": [
+    "Design and implement novel deep neural network architectures for computer vision and natural language tasks",
+    "Train large-scale models on distributed multi-GPU and multi-node clusters using mixed-precision and data parallelism",
+    "Optimize and quantize trained models to reduce inference latency and memory footprint for production deployment",
+    "Implement and reproduce state-of-the-art research papers, adapting techniques to production-specific constraints",
+    "Conduct rigorous experimentation and ablation studies to evaluate architectural and hyperparameter changes",
+    "Build and maintain reusable training pipelines and benchmarking infrastructure to accelerate model iteration",
+    "Collaborate with research scientists to translate experimental findings into production-ready deep learning systems",
+    "Profile and optimize GPU utilization and training throughput to reduce compute costs and training time",
+    "Deploy optimized models to edge devices and cloud inference endpoints using ONNX and TensorRT pipelines",
+    "Document model architectures, training methodology, and evaluation results for internal knowledge sharing"
+  ],
+  "keywords": [
+    "Deep Learning Engineer",
+    "DL",
+    "Deep Learning",
+    "Neural Networks",
+    "CNN",
+    "Convolutional Neural Networks",
+    "Transformers",
+    "Transformer Architectures",
+    "PyTorch",
+    "TensorFlow",
+    "JAX",
+    "GPU Computing",
+    "CUDA",
+    "Distributed Training",
+    "Model Quantization",
+    "Model Compression",
+    "Computer Vision",
+    "NLP",
+    "Natural Language Processing",
+    "Reinforcement Learning",
+    "Self-Supervised Learning",
+    "TensorRT",
+    "ONNX",
+    "Mixed Precision Training",
+    "Research Implementation",
+    "Edge AI Deployment"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "role_key": "INDUSTRIAL_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Industrial Engineer",
+    "Process Industrial Engineer",
+    "Operations Industrial Engineer",
+    "Manufacturing Industrial Engineer",
+    "Continuous Improvement Engineer"
+  ],
+  "required_skills": [
+    "Lean Manufacturing",
+    "Time and Motion Study",
+    "Process Flow Optimization",
+    "Facility Layout Design",
+    "Six Sigma",
+    "Capacity Planning",
+    "Work Measurement",
+    "Value Stream Mapping"
+  ],
+  "preferred_skills": [
+    "Discrete Event Simulation",
+    "Ergonomics Assessment",
+    "Supply Chain Optimization",
+    "Automation Feasibility Analysis",
+    "Cost-Benefit Analysis",
+    "Inventory Optimization",
+    "ERP Implementation"
+  ],
+  "tools": [
+    "AutoCAD",
+    "Minitab",
+    "SAP",
+    "Arena Simulation Software",
+    "FlexSim",
+    "Microsoft Project",
+    "Power BI",
+    "Oracle ERP",
+    "Tableau",
+    "Visio"
+  ],
+  "frameworks": [
+    "Lean Six Sigma DMAIC",
+    "Kaizen Methodology",
+    "5S Methodology",
+    "Theory of Constraints"
+  ],
+  "responsibilities": [
+    "Design and optimize facility layouts and workflow processes to maximize production efficiency and reduce material handling",
+    "Conduct time and motion studies to establish labor standards and identify opportunities for productivity improvement",
+    "Develop discrete event simulation models to evaluate process changes and capacity expansion scenarios before implementation",
+    "Lead Lean Six Sigma projects to eliminate waste, reduce cycle times, and improve overall equipment effectiveness",
+    "Analyze production capacity and demand forecasts to develop staffing plans and resource allocation strategies",
+    "Collaborate with operations and finance teams to perform cost-benefit analyses for proposed process improvements",
+    "Create value stream maps to identify bottlenecks and design future-state processes that improve throughput",
+    "Implement ergonomic workstation designs to improve worker safety and reduce repetitive strain injuries"
+  ],
+  "keywords": [
+    "Industrial Engineering",
+    "Lean Manufacturing",
+    "Lean Six Sigma",
+    "Time and Motion Study",
+    "Process Flow Optimization",
+    "Facility Layout Design",
+    "Capacity Planning",
+    "Value Stream Mapping",
+    "Discrete Event Simulation",
+    "Ergonomics",
+    "Work Measurement",
+    "5S Methodology",
+    "Kaizen",
+    "Theory of Constraints",
+    "Continuous Improvement",
+    "Cycle Time Reduction",
+    "Supply Chain Optimization",
+    "Inventory Optimization",
+    "Cost-Benefit Analysis",
+    "Productivity Improvement",
+    "OEE",
+    "Overall Equipment Effectiveness",
+    "DMAIC",
+    "Resource Allocation",
+    "ERP"
+  ]
+}

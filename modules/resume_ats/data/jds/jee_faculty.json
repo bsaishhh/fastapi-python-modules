@@ -1,0 +1,91 @@
+{
+  "role_key": "JEE_FACULTY",
+  "family": "Education & EdTech",
+  "sub_roles": [
+    "JEE Advanced Faculty",
+    "JEE Mains Instructor",
+    "IIT-JEE Coach",
+    "Physics / Chemistry / Mathematics Faculty – JEE",
+    "Senior JEE Subject Expert"
+  ],
+  "required_skills": [
+    "Deep subject-matter expertise in Physics, Chemistry, or Mathematics at JEE Advanced level",
+    "Strong command of JEE Main and JEE Advanced exam patterns, marking schemes, and syllabus",
+    "Concept-building pedagogy for competitive exam preparation at Class 11–12 level",
+    "Problem-solving methodology including shortcut techniques and time-optimized approaches",
+    "Doubt resolution and individualized academic mentoring for high-stakes exam aspirants",
+    "Classroom instruction and lecture delivery for large and small student cohorts",
+    "Performance tracking and student progress analysis against JEE benchmarks",
+    "Design and evaluation of JEE-style tests including full-length mock exams and part-tests"
+  ],
+  "preferred_skills": [
+    "Experience teaching at a reputed coaching institute (FIITJEE, Allen, Resonance, Aakash, Vedantu, Unacademy)",
+    "Online live teaching using digital whiteboards and EdTech platforms",
+    "Content creation for recorded video lectures and digital study material",
+    "Data-driven approach to identifying weak areas from diagnostic tests and tailoring remediation",
+    "Mentoring students for rank improvement from JEE Mains to JEE Advanced qualification",
+    "Familiarity with rank prediction models and cut-off trends for IIT and NIT admissions",
+    "Ability to teach interdisciplinary topics at the intersection of Physics and Mathematics (e.g., calculus in mechanics)"
+  ],
+  "tools": [
+    "Zoom",
+    "Google Meet",
+    "Unacademy Platform",
+    "Vedantu Classroom",
+    "Byju's Learning App",
+    "Khan Academy",
+    "Wacom Digital Tablet",
+    "Microsoft OneNote",
+    "Google Classroom",
+    "Desmos Graphing Calculator"
+  ],
+  "frameworks": [
+    "JEE Main Syllabus Framework (NTA)",
+    "JEE Advanced Syllabus Framework (IIT Joint Admission Board)",
+    "Bloom's Taxonomy (applied to problem difficulty classification)",
+    "Spaced Repetition Learning",
+    "Socratic Method of Teaching",
+    "NCERT Curriculum (Class 11 & 12)"
+  ],
+  "responsibilities": [
+    "Deliver high-quality concept lectures in Physics, Chemistry, or Mathematics aligned with the complete JEE Main and JEE Advanced syllabus",
+    "Design and conduct topic-wise tests, chapter tests, and full-length JEE mock exams with detailed performance analytics for each student",
+    "Resolve student doubts through structured doubt-clearing sessions, both in-class and via one-on-one academic mentoring",
+    "Develop and curate JEE-level problem sets, including Integer Type, MCQ Single Correct, MCQ Multiple Correct, and Paragraph-based question formats",
+    "Analyze student performance data from mock tests to identify learning gaps and adapt teaching pace and content accordingly",
+    "Create concise, high-yield study notes and formula sheets that help students consolidate key concepts for rapid revision",
+    "Conduct motivational and strategy sessions to help students build exam temperament, time management, and stress-coping skills for JEE",
+    "Collaborate with content teams to develop recorded video lectures and digital practice modules aligned with the JEE syllabus",
+    "Track individual student rank trajectories across mock tests and provide targeted guidance to aspirants aiming for Top 1000 AIR",
+    "Stay current with changes in JEE exam pattern, NTA guidelines, and IIT JAB announcements to ensure teaching content remains accurate and up-to-date"
+  ],
+  "keywords": [
+    "JEE",
+    "JEE Main",
+    "JEE Advanced",
+    "IIT-JEE",
+    "IIT Coaching",
+    "Physics Faculty",
+    "Chemistry Faculty",
+    "Mathematics Faculty",
+    "NTA",
+    "Competitive Exam Coaching",
+    "Mock Tests",
+    "Problem Solving",
+    "NCERT",
+    "Class 11",
+    "Class 12",
+    "Online Teaching",
+    "Live Classes",
+    "Doubt Resolution",
+    "Rank Improvement",
+    "Engineering Entrance Exam",
+    "Spaced Repetition",
+    "Time Management for Exams",
+    "FIITJEE",
+    "Allen Kota",
+    "Resonance",
+    "Unacademy",
+    "Vedantu"
+  ]
+}

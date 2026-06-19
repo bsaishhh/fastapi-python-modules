@@ -1,0 +1,84 @@
+{
+  "role_key": "TRADING_STRATEGIST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Senior Trading Strategist",
+    "Macro Strategist",
+    "Investment Strategist",
+    "Trading Strategy Lead",
+    "Cross-Asset Strategist"
+  ],
+  "required_skills": [
+    "Macroeconomic Analysis",
+    "Trading Strategy Development",
+    "Statistical Modeling",
+    "Cross-Asset Analysis",
+    "Risk Management",
+    "Market Trend Analysis",
+    "Python Programming",
+    "Portfolio Construction",
+    "Quantitative Research",
+    "Scenario Analysis"
+  ],
+  "preferred_skills": [
+    "Machine Learning",
+    "Derivatives Strategy",
+    "Geopolitical Risk Assessment",
+    "Fixed Income Strategy",
+    "Behavioral Finance",
+    "Asset Allocation Modeling",
+    "R Programming"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "Refinitiv Eikon",
+    "Excel",
+    "FactSet",
+    "Tableau",
+    "Python",
+    "Jupyter",
+    "CapitalIQ"
+  ],
+  "frameworks": [
+    "pandas",
+    "NumPy",
+    "scikit-learn",
+    "statsmodels",
+    "matplotlib"
+  ],
+  "responsibilities": [
+    "Develop and articulate cross-asset trading strategies based on macroeconomic trends, central bank policy, and geopolitical events",
+    "Conduct in-depth research on global markets to identify directional and relative-value trading opportunities across asset classes",
+    "Present actionable trade recommendations and strategic outlooks to portfolio managers, traders, and institutional clients",
+    "Build quantitative models to backtest strategy performance under historical and hypothetical macroeconomic regime scenarios",
+    "Monitor economic indicators, central bank communications, and geopolitical developments to refine market views and positioning",
+    "Collaborate with risk and portfolio management teams to size trades and define stop-loss and risk parameters",
+    "Author regular market commentary and strategy notes distributed to internal trading desks and external clients",
+    "Evaluate correlations and regime shifts across equities, rates, FX, and commodities to inform tactical asset allocation"
+  ],
+  "keywords": [
+    "Trading Strategist",
+    "Macro Strategy",
+    "Cross-Asset Strategy",
+    "Trading Strategy",
+    "Macroeconomic Analysis",
+    "Portfolio Construction",
+    "Asset Allocation",
+    "Risk Management",
+    "Scenario Analysis",
+    "Quantitative Research",
+    "Market Commentary",
+    "Fixed Income",
+    "FX Strategy",
+    "Commodities Strategy",
+    "Equity Strategy",
+    "Derivatives",
+    "Python",
+    "Bloomberg",
+    "Geopolitical Risk",
+    "Behavioral Finance",
+    "CFA",
+    "Relative Value Trading",
+    "Tactical Allocation"
+  ]
+}

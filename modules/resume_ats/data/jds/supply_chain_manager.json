@@ -1,0 +1,86 @@
+{
+  "role_key": "SUPPLY_CHAIN_MANAGER",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Supply Chain Manager",
+    "Supply Chain Operations Manager",
+    "Supply Planning Manager",
+    "End-to-End Supply Chain Manager",
+    "Global Supply Chain Manager"
+  ],
+  "required_skills": [
+    "End-to-End Supply Chain Management",
+    "Supply Chain Strategy Development",
+    "Demand and Supply Planning",
+    "Inventory Control and Optimization",
+    "Supplier Relationship Management",
+    "Operations Management and Process Improvement",
+    "Cross-Functional Leadership and Stakeholder Management",
+    "Supply Chain Risk Management"
+  ],
+  "preferred_skills": [
+    "Digital Supply Chain Transformation",
+    "Lean Six Sigma Black Belt Methodologies",
+    "Network Design and Optimization",
+    "Global Trade Compliance",
+    "Sustainability and ESG Supply Chain Initiatives",
+    "Advanced Financial Planning and Budgeting",
+    "Change Management",
+    "Scenario Modeling and Capacity Planning"
+  ],
+  "tools": [
+    "SAP S/4HANA",
+    "Oracle SCM Cloud",
+    "Kinaxis RapidResponse",
+    "Blue Yonder",
+    "Power BI",
+    "Tableau",
+    "Microsoft Excel",
+    "Coupa",
+    "Anaplan",
+    "Snowflake"
+  ],
+  "frameworks": [
+    "APICS SCOR Model",
+    "Lean Six Sigma",
+    "SAFe",
+    "ITIL"
+  ],
+  "responsibilities": [
+    "Lead end-to-end supply chain operations by coordinating planning, procurement, logistics, and inventory management activities across multiple business units.",
+    "Develop strategic supply chain initiatives that improve service levels, reduce operational costs, and enhance overall network efficiency.",
+    "Manage supplier relationships, contract performance, and procurement activities to ensure reliable material availability and cost competitiveness.",
+    "Implement inventory optimization programs that balance customer service requirements with working capital and storage cost objectives.",
+    "Collaborate with executive leadership to establish supply chain performance targets, operational roadmaps, and long-term growth strategies.",
+    "Drive continuous improvement initiatives using Lean Six Sigma methodologies to eliminate inefficiencies and improve operational productivity.",
+    "Oversee risk management processes by developing contingency plans for supplier disruptions, transportation delays, and demand volatility.",
+    "Monitor supply chain KPIs through executive dashboards and present actionable recommendations to support data-driven business decisions."
+  ],
+  "keywords": [
+    "Supply Chain Management",
+    "SCM",
+    "End-to-End Supply Chain",
+    "Supply Chain Strategy",
+    "Demand Planning",
+    "Supply Planning",
+    "Inventory Optimization",
+    "Supplier Relationship Management",
+    "SRM",
+    "Operations Management",
+    "Supply Chain Risk Management",
+    "Lean Six Sigma",
+    "SCOR Model",
+    "Procurement Management",
+    "Logistics Management",
+    "Supply Chain Transformation",
+    "Capacity Planning",
+    "Cross-Functional Leadership",
+    "KPI Management",
+    "SAP S/4HANA",
+    "Oracle SCM",
+    "Kinaxis",
+    "Blue Yonder",
+    "Continuous Improvement",
+    "Supply Chain Excellence"
+  ]
+}

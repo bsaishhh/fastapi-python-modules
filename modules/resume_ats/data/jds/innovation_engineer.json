@@ -1,0 +1,82 @@
+{
+  "role_key": "INNOVATION_ENGINEER",
+  "family": "Core Science & R&D",
+  "sub_roles": [
+    "Innovation Engineer Lead",
+    "R&D Innovation Specialist",
+    "Product Innovation Engineer",
+    "Senior Innovation Engineer",
+    "New Technology Development Engineer"
+  ],
+  "required_skills": [
+    "Prototyping",
+    "Concept Development",
+    "Design Thinking",
+    "Technology Scouting",
+    "Cross-Functional Collaboration",
+    "Feasibility Analysis",
+    "Rapid Experimentation",
+    "Intellectual Property (IP) Development"
+  ],
+  "preferred_skills": [
+    "Additive Manufacturing",
+    "Computer-Aided Design (CAD)",
+    "Lean Startup Methodology",
+    "Patent Drafting",
+    "Market Research Analysis",
+    "Agile Product Development",
+    "Sustainability Engineering"
+  ],
+  "tools": [
+    "SolidWorks",
+    "Autodesk Fusion 360",
+    "Jira",
+    "Miro",
+    "MATLAB",
+    "3D Printers",
+    "Confluence",
+    "Arduino"
+  ],
+  "frameworks": [
+    "Design Thinking Framework",
+    "Lean Startup",
+    "Stage-Gate Process",
+    "Agile"
+  ],
+  "responsibilities": [
+    "Identify and evaluate emerging technologies through systematic technology scouting to inform new product roadmaps",
+    "Design and build rapid prototypes to validate novel concepts and demonstrate proof-of-concept feasibility to stakeholders",
+    "Lead cross-functional workshops using design thinking methods to generate and prioritize innovative product concepts",
+    "Conduct feasibility studies and technical risk assessments to determine viability of proposed innovation initiatives",
+    "Collaborate with R&D, engineering, and business development teams to transition validated prototypes into product pipelines",
+    "Draft invention disclosures and support patent applications to protect intellectual property generated through innovation projects",
+    "Present innovation findings and business cases to executive leadership to secure funding and resources for new initiatives",
+    "Run iterative experimentation cycles to test and refine early-stage product concepts based on user feedback"
+  ],
+  "keywords": [
+    "Prototyping",
+    "Concept Development",
+    "Design Thinking",
+    "Technology Scouting",
+    "Feasibility Analysis",
+    "Rapid Experimentation",
+    "Intellectual Property",
+    "IP",
+    "Patent Drafting",
+    "Additive Manufacturing",
+    "3D Printing",
+    "CAD",
+    "Computer-Aided Design",
+    "Lean Startup",
+    "Agile Product Development",
+    "Cross-Functional Collaboration",
+    "Proof of Concept",
+    "POC",
+    "Stage-Gate Process",
+    "New Product Development",
+    "NPD",
+    "Sustainability Engineering",
+    "Innovation Strategy",
+    "Market Research"
+  ]
+}

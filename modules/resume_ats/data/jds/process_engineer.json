@@ -1,0 +1,86 @@
+{
+  "role_key": "PROCESS_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Process Engineer",
+    "Chemical Process Engineer",
+    "Manufacturing Process Engineer",
+    "Process Development Engineer",
+    "Process Improvement Engineer"
+  ],
+  "required_skills": [
+    "Process Optimization",
+    "Process Validation",
+    "Statistical Process Control",
+    "SPC",
+    "Root Cause Analysis",
+    "Process Flow Diagramming",
+    "P&ID Development",
+    "Six Sigma",
+    "Quality Management Systems"
+  ],
+  "preferred_skills": [
+    "Process Simulation Modeling",
+    "Lean Manufacturing",
+    "Energy and Mass Balance Analysis",
+    "Capital Project Management",
+    "Regulatory Compliance (ISO/FDA)",
+    "Equipment Commissioning",
+    "Data-Driven Decision Making"
+  ],
+  "tools": [
+    "Aspen Plus",
+    "Minitab",
+    "AutoCAD",
+    "SAP",
+    "MATLAB",
+    "Honeywell DCS",
+    "SolidWorks",
+    "LabVIEW",
+    "Power BI",
+    "Siemens PLM"
+  ],
+  "frameworks": [
+    "DMAIC",
+    "8D Problem Solving",
+    "Statistical Design of Experiments",
+    "Kaizen Methodology"
+  ],
+  "responsibilities": [
+    "Design, validate, and optimize manufacturing process flows to improve yield, throughput, and product consistency",
+    "Develop and execute process validation protocols including IQ, OQ, and PQ documentation for regulatory compliance",
+    "Analyze production data using SPC and Six Sigma methodologies to identify variation sources and drive corrective actions",
+    "Lead cross-functional root cause investigations for process deviations and implement permanent corrective measures",
+    "Create and maintain process flow diagrams, P&IDs, and standard operating procedures for new and existing processes",
+    "Collaborate with quality, R&D, and operations teams to scale up processes from pilot to full production volume",
+    "Evaluate and commission new process equipment, ensuring integration meets safety, quality, and throughput targets",
+    "Conduct capability studies and design of experiments to optimize critical process parameters and reduce defect rates"
+  ],
+  "keywords": [
+    "Process Engineering",
+    "Process Optimization",
+    "Process Validation",
+    "SPC",
+    "Statistical Process Control",
+    "Six Sigma",
+    "DMAIC",
+    "Root Cause Analysis",
+    "P&ID",
+    "Process Flow Diagram",
+    "Design of Experiments",
+    "DOE",
+    "Yield Improvement",
+    "Quality Management System",
+    "QMS",
+    "ISO Compliance",
+    "Equipment Commissioning",
+    "Capability Studies",
+    "Standard Operating Procedures",
+    "SOP",
+    "Continuous Improvement",
+    "Lean Manufacturing",
+    "Production Scale-Up",
+    "Capital Projects",
+    "8D Problem Solving"
+  ]
+}

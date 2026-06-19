@@ -12,8 +12,46 @@ ROLES_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "roles.jso
 
 
 def load_roles():
+    import re
+    from modules.resume_ats.data.jd_loader import DATA_DIR
+    
     with open(ROLES_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+        roles = json.load(f)
+        
+    def normalize_name(name: str) -> str:
+        exceptions = {
+            "M&A Analyst": "ma_analyst",
+            "Subject Matter Expert (SME)": "subject_matter_expert",
+            "Operations Management Trainee (OMT)": "operations_management_trainee",
+            "Founder's Office Associate": "founders_office_associate",
+            "R&D Engineer": "rd_engineer",
+        }
+        if name in exceptions:
+            return exceptions[name]
+        
+        s = name.replace("'", "").replace("&", "and")
+        s = re.sub(r'[^a-zA-Z0-9_]', '_', s).lower()
+        return re.sub(r'_+', '_', s).strip('_')
+
+    for r in roles:
+        normalized_prefix = normalize_name(r["role"])
+        sub_roles_set = set(r.get("sub_roles", []))
+        
+        for path in DATA_DIR.glob("*.json"):
+            stem = path.stem.lower()
+            if stem == normalized_prefix or stem.startswith(normalized_prefix + "_"):
+                try:
+                    with path.open("r", encoding="utf-8") as f:
+                        jd_data = json.load(f)
+                        for sr in jd_data.get("sub_roles", []):
+                            sub_roles_set.add(sr)
+                except Exception:
+                    continue
+                    
+        if sub_roles_set:
+            r["sub_roles"] = sorted(list(sub_roles_set))
+            
+    return roles
 
 
 @router.get("/", summary="List available roles and sub-roles")

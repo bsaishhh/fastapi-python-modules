@@ -1,0 +1,87 @@
+{
+  "role_key": "THERMAL_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Thermal Systems Engineer",
+    "Heat Transfer Engineer",
+    "Thermal Management Engineer",
+    "Senior Thermal Engineer",
+    "Thermal-Fluids Engineer"
+  ],
+  "required_skills": [
+    "Heat Transfer Analysis",
+    "Computational Fluid Dynamics",
+    "CFD",
+    "Thermal Modeling",
+    "Finite Element Analysis",
+    "FEA",
+    "Fluid Mechanics",
+    "Thermodynamics",
+    "Thermal Management Design"
+  ],
+  "preferred_skills": [
+    "Two-Phase Cooling Systems",
+    "Liquid Cooling Design",
+    "Electronics Cooling",
+    "Computational Heat Transfer Optimization",
+    "Materials Science for Thermal Interfaces",
+    "Statistical Design of Experiments",
+    "Six Sigma",
+    "Reduced Order Modeling"
+  ],
+  "tools": [
+    "ANSYS Fluent",
+    "ANSYS Icepak",
+    "Siemens Simcenter",
+    "COMSOL Multiphysics",
+    "MATLAB",
+    "SolidWorks",
+    "CATIA",
+    "Star-CCM+",
+    "LabVIEW",
+    "MSC Nastran"
+  ],
+  "frameworks": [
+    "Python (NumPy/SciPy)",
+    "OpenFOAM",
+    "Simulink",
+    "ANSYS Mechanical APDL"
+  ],
+  "responsibilities": [
+    "Design and validate thermal management systems for electronic and mechanical assemblies using CFD and FEA simulation tools",
+    "Develop detailed heat transfer models to predict component temperatures under steady-state and transient operating conditions",
+    "Conduct thermal testing and instrumentation of prototypes to correlate simulation results with empirical thermocouple and IR camera data",
+    "Optimize heatsink, cold plate, and vapor chamber designs to meet junction temperature and reliability requirements",
+    "Collaborate with mechanical, electrical, and systems engineers to integrate thermal solutions into overall product architecture",
+    "Author thermal design specifications, test reports, and engineering change requests for cross-functional review",
+    "Perform root-cause analysis on thermal failures and recommend corrective design modifications to extend product lifespan",
+    "Lead thermal risk assessments during design reviews to identify hotspots and mitigate overheating before production release"
+  ],
+  "keywords": [
+    "Thermal Engineering",
+    "Heat Transfer",
+    "CFD",
+    "Computational Fluid Dynamics",
+    "FEA",
+    "Finite Element Analysis",
+    "Thermal Modeling",
+    "Thermodynamics",
+    "Fluid Mechanics",
+    "Electronics Cooling",
+    "Liquid Cooling",
+    "Two-Phase Cooling",
+    "Heatsink Design",
+    "Cold Plate Design",
+    "Vapor Chamber",
+    "Thermal Interface Materials",
+    "ANSYS Fluent",
+    "ANSYS Icepak",
+    "Simcenter",
+    "COMSOL",
+    "Thermal Testing",
+    "Infrared Thermography",
+    "Six Sigma",
+    "Design of Experiments",
+    "MATLAB"
+  ]
+}

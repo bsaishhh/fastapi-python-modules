@@ -1,0 +1,82 @@
+{
+  "role_key": "STRUCTURED_PRODUCTS_ANALYST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Structured Products Trader",
+    "Structuring Analyst",
+    "Senior Structured Products Analyst",
+    "Derivatives Structuring Analyst",
+    "Structured Finance Analyst"
+  ],
+  "required_skills": [
+    "Structured Products Design",
+    "Derivatives Pricing",
+    "Financial Modeling",
+    "Fixed Income Mathematics",
+    "Excel Modeling",
+    "Risk Management",
+    "Stochastic Calculus",
+    "Cash Flow Modeling",
+    "Credit Analysis",
+    "Monte Carlo Simulation"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "VBA Macro Development",
+    "Securitization Analysis",
+    "Regulatory Capital Modeling",
+    "Exotic Options Valuation",
+    "Client Presentation Skills",
+    "C++ Programming"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "Excel",
+    "Murex",
+    "Intex",
+    "MATLAB",
+    "Calypso",
+    "SQL Server"
+  ],
+  "frameworks": [
+    "QuantLib",
+    "NumPy",
+    "pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Design and structure customized investment products including notes, swaps, and securitized instruments for institutional clients",
+    "Build pricing and valuation models for structured products incorporating embedded options and complex payoff structures",
+    "Collaborate with sales teams to translate client risk-return objectives into tailored structured product solutions",
+    "Analyze underlying collateral pools and cash flow waterfalls to assess credit risk in asset-backed and mortgage-backed securities",
+    "Prepare term sheets, marketing materials, and risk disclosures for new structured product issuances and offerings",
+    "Monitor secondary market pricing and liquidity of outstanding structured notes to support client servicing and reporting",
+    "Conduct scenario and sensitivity analysis to evaluate structured product performance under varying market conditions",
+    "Coordinate with legal, compliance, and risk teams to ensure structured product documentation meets regulatory requirements"
+  ],
+  "keywords": [
+    "Structured Products",
+    "Structured Finance",
+    "Securitization",
+    "Derivatives Pricing",
+    "Structured Notes",
+    "Asset-Backed Securities",
+    "ABS",
+    "Mortgage-Backed Securities",
+    "MBS",
+    "Credit Analysis",
+    "Cash Flow Modeling",
+    "Stochastic Calculus",
+    "Monte Carlo Simulation",
+    "Fixed Income",
+    "Risk Management",
+    "Excel",
+    "Bloomberg",
+    "Intex",
+    "Python",
+    "VBA",
+    "Term Sheets",
+    "Regulatory Capital",
+    "CFA"
+  ]
+}

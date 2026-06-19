@@ -1,0 +1,86 @@
+{
+  "role_key": "AI_RESEARCH_SCIENTIST",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Research Scientist, AI",
+    "Senior AI Research Scientist",
+    "Machine Learning Research Scientist",
+    "Staff Research Scientist",
+    "AI Researcher"
+  ],
+  "required_skills": [
+    "Machine Learning Research",
+    "Deep Learning",
+    "Experimental Design",
+    "Python Programming",
+    "Statistical Analysis",
+    "Academic Publishing",
+    "Mathematical Modeling",
+    "Neural Network Architecture Design"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "Natural Language Processing (NLP)",
+    "Computer Vision",
+    "Causal Inference",
+    "Open-Source Research Contributions",
+    "Conference Peer Review Experience",
+    "Theoretical Machine Learning"
+  ],
+  "tools": [
+    "NVIDIA CUDA",
+    "Weights & Biases",
+    "Slurm",
+    "Jupyter",
+    "AWS",
+    "Google Cloud Platform",
+    "Overleaf",
+    "TensorBoard",
+    "GitHub"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "JAX",
+    "TensorFlow",
+    "Hugging Face Transformers",
+    "PyTorch Lightning",
+    "NumPy"
+  ],
+  "responsibilities": [
+    "Conduct original research to advance the state of the art in machine learning and deep learning methods",
+    "Design and run controlled experiments to test novel hypotheses about model architectures and training techniques",
+    "Author and publish research papers at top-tier venues such as NeurIPS, ICML, and ICLR",
+    "Develop theoretical frameworks and mathematical proofs to explain and predict model behavior",
+    "Collaborate with engineering teams to transition promising research prototypes into scalable production systems",
+    "Review and critique peer research papers, providing technical feedback as part of conference program committees",
+    "Build and maintain experimental codebases and benchmarks to evaluate new algorithms against established baselines",
+    "Present research findings to internal stakeholders and external audiences through talks and technical reports",
+    "Mentor junior researchers and PhD interns on experimental methodology and research best practices",
+    "Identify emerging research directions aligned with organizational priorities and long-term AI capabilities"
+  ],
+  "keywords": [
+    "AI Research Scientist",
+    "Machine Learning Research",
+    "Deep Learning",
+    "Neural Networks",
+    "Experimental Design",
+    "Statistical Analysis",
+    "Academic Publishing",
+    "NeurIPS",
+    "ICML",
+    "ICLR",
+    "Reinforcement Learning",
+    "NLP",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Causal Inference",
+    "PyTorch",
+    "JAX",
+    "TensorFlow",
+    "Research Publications",
+    "Peer Review",
+    "Mathematical Modeling",
+    "Theoretical Machine Learning",
+    "Open-Source Research"
+  ]
+}

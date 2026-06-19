@@ -1,0 +1,90 @@
+{
+  "role_key": "AUTONOMOUS_SYSTEMS_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Autonomy Engineer",
+    "Autonomous Vehicle Systems Engineer",
+    "Autonomy Software Engineer",
+    "Senior Autonomous Systems Engineer",
+    "Self-Driving Systems Engineer"
+  ],
+  "required_skills": [
+    "Autonomy Software Architecture",
+    "Decision Making Algorithms",
+    "Behavior Planning",
+    "Sensor Fusion",
+    "C++ Programming",
+    "Python Programming",
+    "Robot Operating System (ROS)",
+    "Systems Engineering",
+    "Finite State Machines",
+    "Software-in-the-Loop Testing"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "Safety Case Development",
+    "Formal Verification",
+    "Simulation-Based Testing",
+    "Functional Safety (ISO 26262)",
+    "Digital Twin Development",
+    "Fleet Management Systems"
+  ],
+  "tools": [
+    "ROS",
+    "ROS2",
+    "CARLA Simulator",
+    "NVIDIA DRIVE",
+    "Git",
+    "Docker",
+    "Jenkins",
+    "RViz",
+    "Jira",
+    "AWS"
+  ],
+  "frameworks": [
+    "ROS",
+    "ROS2",
+    "PyTorch",
+    "TensorFlow",
+    "Autoware",
+    "Apollo"
+  ],
+  "responsibilities": [
+    "Architect end-to-end autonomy stacks that integrate perception, localization, prediction, planning, and control modules into a cohesive system",
+    "Design decision-making and behavior planning logic that enables autonomous systems to safely navigate complex, dynamic environments",
+    "Develop and validate finite state machines and behavior trees to govern high-level autonomous system mode transitions and fallback behaviors",
+    "Build and run large-scale software-in-the-loop and simulation testing campaigns to validate autonomy stack performance before field deployment",
+    "Collaborate with perception, planning, and controls teams to define system-level interfaces and data contracts across the autonomy stack",
+    "Conduct root-cause analysis of autonomy system failures using simulation replay and field log data to drive design improvements",
+    "Define and track system-level safety requirements and verification criteria to support functional safety and regulatory compliance",
+    "Lead system integration efforts across hardware, software, and sensor subsystems to deliver reliable autonomous platform behavior",
+    "Develop digital twin and simulation environments to accelerate development and reduce reliance on costly physical testing"
+  ],
+  "keywords": [
+    "Autonomous Systems",
+    "Autonomy Stack",
+    "Decision Making",
+    "Behavior Planning",
+    "Sensor Fusion",
+    "Finite State Machines",
+    "Behavior Trees",
+    "System Integration",
+    "Software-in-the-Loop",
+    "Simulation Testing",
+    "ROS",
+    "ROS2",
+    "C++",
+    "Python",
+    "Functional Safety",
+    "ISO 26262",
+    "Safety Case",
+    "Formal Verification",
+    "Digital Twin",
+    "Reinforcement Learning",
+    "CARLA Simulator",
+    "Autoware",
+    "Apollo",
+    "Self-Driving",
+    "Fleet Management"
+  ]
+}

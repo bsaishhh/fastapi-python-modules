@@ -1,0 +1,89 @@
+{
+  "role_key": "QUANT_DEVELOPER",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Quantitative Developer",
+    "Quant Dev",
+    "Senior Quant Developer",
+    "Front Office Developer",
+    "Trading Systems Developer"
+  ],
+  "required_skills": [
+    "C++ Programming",
+    "Python Programming",
+    "Low-Latency System Design",
+    "Multithreaded Programming",
+    "Data Structures and Algorithms",
+    "Financial Markets Knowledge",
+    "Object-Oriented Design",
+    "OOP",
+    "Trading System Architecture",
+    "Linux Systems Programming"
+  ],
+  "preferred_skills": [
+    "FPGA Development",
+    "Network Programming",
+    "FIX Protocol",
+    "Distributed Systems Design",
+    "Kafka Streaming",
+    "Kubernetes Orchestration",
+    "Rust Programming"
+  ],
+  "tools": [
+    "Linux",
+    "Git",
+    "Jenkins",
+    "Docker",
+    "Kubernetes",
+    "KDB+",
+    "Bloomberg Terminal",
+    "Redis",
+    "Kafka",
+    "Grafana"
+  ],
+  "frameworks": [
+    "Boost",
+    "STL",
+    "QuantLib",
+    "ZeroMQ",
+    "gRPC",
+    "NumPy"
+  ],
+  "responsibilities": [
+    "Design and build low-latency execution systems in C++ to support high-frequency order routing and market data processing",
+    "Develop and maintain pricing libraries and analytics engines used by traders for real-time risk and P&L calculations",
+    "Optimize trading system performance through profiling, memory management, and reduction of end-to-end latency bottlenecks",
+    "Collaborate with quants and traders to implement and productionize new trading strategies into the live trading platform",
+    "Build robust market data handlers and order management system components integrating with multiple exchange protocols",
+    "Implement automated testing frameworks and CI/CD pipelines to ensure reliability of mission-critical trading infrastructure",
+    "Debug and resolve production incidents in real-time trading systems during live market hours with minimal downtime",
+    "Architect scalable microservices for trade capture, position keeping, and risk aggregation across multiple asset classes"
+  ],
+  "keywords": [
+    "Quant Developer",
+    "Quantitative Developer",
+    "Quant Dev",
+    "C++",
+    "Python",
+    "Low Latency",
+    "High Frequency Trading",
+    "HFT",
+    "Multithreading",
+    "Concurrency",
+    "Trading Systems",
+    "Order Management System",
+    "OMS",
+    "FIX Protocol",
+    "Market Data",
+    "Algorithmic Trading",
+    "Distributed Systems",
+    "Microservices Architecture",
+    "CI/CD",
+    "Continuous Integration",
+    "Continuous Deployment",
+    "Linux",
+    "FPGA",
+    "Data Structures and Algorithms",
+    "Object-Oriented Programming"
+  ]
+}

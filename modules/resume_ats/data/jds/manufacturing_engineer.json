@@ -1,0 +1,87 @@
+{
+  "role_key": "MANUFACTURING_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Manufacturing Engineer",
+    "Manufacturing Process Engineer",
+    "Industrial Manufacturing Engineer",
+    "Production Manufacturing Engineer",
+    "Manufacturing Systems Engineer"
+  ],
+  "required_skills": [
+    "Lean Manufacturing",
+    "Six Sigma",
+    "Root Cause Analysis",
+    "Geometric Dimensioning and Tolerancing",
+    "GD&T",
+    "Process Validation",
+    "Statistical Process Control",
+    "SPC",
+    "Manufacturing Process Development"
+  ],
+  "preferred_skills": [
+    "Design for Manufacturability",
+    "DFM",
+    "Automation Integration",
+    "Value Stream Mapping",
+    "Failure Mode and Effects Analysis",
+    "FMEA",
+    "Production Line Layout Design",
+    "Cost Reduction Initiatives"
+  ],
+  "tools": [
+    "SolidWorks",
+    "AutoCAD",
+    "Minitab",
+    "SAP",
+    "Siemens Teamcenter",
+    "CATIA",
+    "JIRA",
+    "Oracle ERP",
+    "Fanuc Robotics Software",
+    "Vericut"
+  ],
+  "frameworks": [
+    "PFMEA Frameworks",
+    "8D Problem Solving",
+    "DMAIC",
+    "Kaizen Methodology"
+  ],
+  "responsibilities": [
+    "Design and implement efficient manufacturing processes and assembly line layouts to maximize throughput and minimize waste",
+    "Lead root cause analysis and corrective action investigations for production defects using 8D and fishbone methodologies",
+    "Develop and maintain process control plans, work instructions, and PFMEAs to ensure consistent product quality",
+    "Collaborate with design engineering teams to improve product manufacturability through DFM reviews and tolerance analysis",
+    "Drive continuous improvement initiatives using Lean and Six Sigma tools to reduce cycle time and production costs",
+    "Specify, procure, and validate new manufacturing equipment, fixtures, and tooling to support production scale-up",
+    "Conduct time studies and capacity analyses to optimize line balancing and labor utilization across shifts",
+    "Manage engineering change orders and coordinate pilot runs to validate new processes before full production release"
+  ],
+  "keywords": [
+    "Manufacturing Engineering",
+    "Lean Manufacturing",
+    "Six Sigma",
+    "SPC",
+    "Statistical Process Control",
+    "GD&T",
+    "Geometric Dimensioning and Tolerancing",
+    "Root Cause Analysis",
+    "FMEA",
+    "PFMEA",
+    "DFM",
+    "Design for Manufacturability",
+    "Process Validation",
+    "Value Stream Mapping",
+    "Kaizen",
+    "DMAIC",
+    "8D Problem Solving",
+    "Production Line Layout",
+    "Continuous Improvement",
+    "Cycle Time Reduction",
+    "Tooling Design",
+    "ERP",
+    "SAP",
+    "Capacity Planning",
+    "Assembly Line Optimization"
+  ]
+}

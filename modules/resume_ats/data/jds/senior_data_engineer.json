@@ -1,0 +1,86 @@
+{
+  "role_key": "SENIOR_DATA_ENGINEER",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Staff Data Engineer",
+    "Lead Data Engineer",
+    "Principal Data Engineer",
+    "Senior Data Platform Engineer",
+    "Senior Big Data Engineer"
+  ],
+  "required_skills": [
+    "Advanced ETL Architecture",
+    "Distributed Systems",
+    "SQL",
+    "Python Programming",
+    "Data Warehousing",
+    "Data Pipeline Optimization",
+    "Data Architecture Design",
+    "Streaming Data Processing"
+  ],
+  "preferred_skills": [
+    "Technical Leadership and Mentorship",
+    "Data Governance Frameworks",
+    "Cost Optimization for Data Infrastructure",
+    "Infrastructure as Code (IaC)",
+    "Multi-Cloud Data Strategy",
+    "Real-Time Analytics Architecture",
+    "Data Mesh Principles"
+  ],
+  "tools": [
+    "Snowflake",
+    "AWS",
+    "Databricks",
+    "Airflow",
+    "Apache Kafka",
+    "Terraform",
+    "dbt",
+    "Redshift",
+    "Kubernetes",
+    "GitHub"
+  ],
+  "frameworks": [
+    "Apache Spark",
+    "Apache Flink",
+    "dbt",
+    "Apache Beam",
+    "Apache Iceberg"
+  ],
+  "responsibilities": [
+    "Architect scalable, fault-tolerant data platforms that support petabyte-scale batch and streaming workloads",
+    "Lead the design and implementation of data lakehouse architectures using Apache Iceberg and Delta Lake",
+    "Mentor junior and mid-level data engineers on pipeline design, debugging, and performance optimization practices",
+    "Define data architecture standards and best practices that guide engineering decisions across multiple teams",
+    "Drive major infrastructure initiatives such as data platform migrations and warehouse modernization projects",
+    "Optimize complex distributed data pipelines to reduce processing latency and infrastructure costs at scale",
+    "Establish data governance frameworks covering lineage, access control, and quality across the organization",
+    "Partner with engineering leadership to evaluate and adopt new data technologies aligned with long-term strategy",
+    "Design real-time analytics architectures that power low-latency dashboards and operational decision-making",
+    "Conduct architecture reviews and author technical design documents for cross-team data infrastructure projects"
+  ],
+  "keywords": [
+    "Senior Data Engineer",
+    "Data Architecture",
+    "Distributed Systems",
+    "Data Lakehouse",
+    "Apache Iceberg",
+    "Delta Lake",
+    "ETL",
+    "Streaming Data Processing",
+    "Apache Flink",
+    "Apache Spark",
+    "Apache Kafka",
+    "Data Governance",
+    "Data Mesh",
+    "Technical Leadership",
+    "Mentorship",
+    "Infrastructure as Code",
+    "Terraform",
+    "Snowflake",
+    "Databricks",
+    "Cost Optimization",
+    "Real-Time Analytics",
+    "SQL",
+    "Python"
+  ]
+}

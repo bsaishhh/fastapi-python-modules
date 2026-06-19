@@ -1,0 +1,80 @@
+{
+  "role_key": "ETL_DEVELOPER",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior ETL Developer",
+    "ETL/ELT Developer",
+    "Data Integration Developer",
+    "ETL Engineer",
+    "SSIS Developer"
+  ],
+  "required_skills": [
+    "ETL Development",
+    "Extract Transform Load",
+    "SQL",
+    "Data Integration",
+    "Data Warehousing",
+    "Stored Procedure Development",
+    "Data Pipeline Scheduling",
+    "Data Mapping"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Cloud Data Platforms",
+    "Performance Tuning for ETL Jobs",
+    "Change Data Capture (CDC)",
+    "Data Quality Validation",
+    "Workflow Orchestration",
+    "NoSQL Databases"
+  ],
+  "tools": [
+    "SQL Server",
+    "SSIS",
+    "Informatica",
+    "Snowflake",
+    "AWS",
+    "Talend",
+    "Airflow",
+    "Oracle",
+    "Azure Data Factory"
+  ],
+  "frameworks": [
+    "Apache Spark",
+    "dbt",
+    "Pandas"
+  ],
+  "responsibilities": [
+    "Design and develop ETL processes that extract, transform, and load data from diverse source systems",
+    "Build and maintain SSIS and Informatica workflows that support daily batch data integration jobs",
+    "Write and optimize complex SQL stored procedures and queries to support data transformation logic",
+    "Implement change data capture mechanisms to efficiently process incremental data updates from source systems",
+    "Monitor and troubleshoot ETL job failures, ensuring timely resolution to meet data delivery SLAs",
+    "Collaborate with business analysts and data architects to translate data mapping requirements into ETL logic",
+    "Optimize ETL job performance through query tuning, indexing strategies, and parallel processing techniques",
+    "Validate data accuracy and completeness across source and target systems through automated quality checks",
+    "Document ETL workflows, data mappings, and transformation rules to support maintainability and audits",
+    "Migrate legacy ETL processes to modern cloud-based data integration platforms and orchestration tools"
+  ],
+  "keywords": [
+    "ETL Developer",
+    "ETL",
+    "ELT",
+    "Extract Transform Load",
+    "Data Integration",
+    "SQL",
+    "Stored Procedures",
+    "SSIS",
+    "Informatica",
+    "Talend",
+    "Azure Data Factory",
+    "Change Data Capture",
+    "CDC",
+    "Data Warehousing",
+    "Data Pipeline Scheduling",
+    "Data Mapping",
+    "Data Quality Validation",
+    "Batch Processing",
+    "Workflow Orchestration",
+    "Performance Tuning"
+  ]
+}

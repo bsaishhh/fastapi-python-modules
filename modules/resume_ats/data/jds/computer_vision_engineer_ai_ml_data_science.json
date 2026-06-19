@@ -1,0 +1,87 @@
+{
+  "role_key": "COMPUTER_VISION_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "CV Engineer",
+    "Senior Computer Vision Engineer",
+    "Vision AI Engineer",
+    "Image Processing Engineer",
+    "Perception Engineer"
+  ],
+  "required_skills": [
+    "Computer Vision",
+    "CV",
+    "Convolutional Neural Networks (CNN)",
+    "Image Processing",
+    "Python Programming",
+    "Object Detection",
+    "Deep Learning",
+    "Model Optimization and Quantization"
+  ],
+  "preferred_skills": [
+    "Image Segmentation",
+    "3D Vision and Point Cloud Processing",
+    "Video Analytics",
+    "Edge Deployment of Vision Models",
+    "Vision Transformers (ViT)",
+    "Generative Vision Models",
+    "Sensor Fusion"
+  ],
+  "tools": [
+    "NVIDIA CUDA",
+    "OpenCV",
+    "AWS SageMaker",
+    "Docker",
+    "Roboflow",
+    "Label Studio",
+    "TensorRT",
+    "Jetson",
+    "Weights & Biases"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "OpenCV",
+    "Detectron2",
+    "YOLO",
+    "MMDetection",
+    "ONNX Runtime"
+  ],
+  "responsibilities": [
+    "Design and train computer vision models for object detection, segmentation, and classification tasks at scale",
+    "Build and optimize image processing pipelines that handle real-time video and camera feed inputs",
+    "Fine-tune pretrained vision models such as YOLO and Detectron2 on domain-specific labeled datasets",
+    "Quantize and optimize vision models for low-latency inference on edge devices and embedded hardware",
+    "Develop data annotation and labeling workflows to curate high-quality training datasets for vision tasks",
+    "Collaborate with hardware and robotics teams to integrate vision models into perception systems",
+    "Evaluate model accuracy, precision, and recall against benchmark datasets and real-world test scenarios",
+    "Implement data augmentation and synthetic data generation techniques to improve model robustness",
+    "Deploy vision models to production using TensorRT and ONNX pipelines for GPU-accelerated inference",
+    "Debug and resolve false positive and false negative detection issues in production vision systems"
+  ],
+  "keywords": [
+    "Computer Vision Engineer",
+    "Computer Vision",
+    "CV",
+    "Object Detection",
+    "Image Segmentation",
+    "Image Classification",
+    "CNN",
+    "Convolutional Neural Networks",
+    "YOLO",
+    "Detectron2",
+    "Vision Transformers",
+    "ViT",
+    "OpenCV",
+    "TensorRT",
+    "ONNX",
+    "Edge AI",
+    "Video Analytics",
+    "3D Vision",
+    "Point Cloud Processing",
+    "Data Augmentation",
+    "Model Quantization",
+    "PyTorch",
+    "TensorFlow"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "role_key": "FPGA_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "FPGA Design Engineer",
+    "FPGA Firmware Engineer",
+    "FPGA Developer",
+    "Digital Design Engineer (FPGA)",
+    "Senior FPGA Engineer"
+  ],
+  "required_skills": [
+    "VHDL",
+    "Verilog",
+    "FPGA Architecture",
+    "RTL Design (Register-Transfer Level Design)",
+    "Timing Closure",
+    "FPGA Synthesis & Place-and-Route",
+    "State Machine Design",
+    "Hardware Description Language (HDL) Simulation"
+  ],
+  "preferred_skills": [
+    "High-Level Synthesis (HLS)",
+    "DSP Algorithm Implementation on FPGA",
+    "PCIe Interface Design",
+    "Embedded Soft-Core Processors (MicroBlaze, NIOS II)",
+    "Partial Reconfiguration",
+    "SerDes Interface Design"
+  ],
+  "tools": [
+    "Xilinx Vivado",
+    "Intel Quartus Prime",
+    "ModelSim",
+    "Mentor Questa",
+    "ChipScope",
+    "SignalTap",
+    "Xilinx Vitis",
+    "Git"
+  ],
+  "frameworks": [
+    "SystemVerilog",
+    "OpenCL",
+    "Xilinx HLS Libraries",
+    "Intel oneAPI"
+  ],
+  "responsibilities": [
+    "Design and implement digital logic in VHDL/Verilog for FPGA-based systems across telecom, defense, or industrial applications.",
+    "Synthesize, place, and route FPGA designs using Xilinx Vivado or Intel Quartus to achieve timing closure at target clock frequencies.",
+    "Develop state machines, datapath logic, and control logic for real-time signal processing and high-speed data interfaces.",
+    "Debug FPGA designs in hardware using ChipScope or SignalTap, analyzing internal signals during live operation.",
+    "Integrate high-speed interfaces such as PCIe, Ethernet, and SerDes into FPGA designs for data acquisition systems.",
+    "Optimize FPGA resource utilization, power consumption, and timing margins through pipelining and logic restructuring techniques.",
+    "Collaborate with hardware and software teams to define FPGA-to-firmware interfaces and register map specifications.",
+    "Perform simulation and verification of FPGA designs using ModelSim or Questa to validate functional correctness pre-synthesis.",
+    "Implement DSP algorithms such as FFT, filtering, and modulation directly in FPGA fabric for real-time processing.",
+    "Document FPGA architecture, timing constraints, and pin assignments to support board bring-up and production releases."
+  ],
+  "keywords": [
+    "FPGA",
+    "FPGA Engineer",
+    "VHDL",
+    "Verilog",
+    "RTL Design",
+    "FPGA Architecture",
+    "Timing Closure",
+    "Xilinx Vivado",
+    "Intel Quartus",
+    "Place and Route",
+    "Synthesis",
+    "State Machine Design",
+    "HDL Simulation",
+    "ModelSim",
+    "High-Level Synthesis",
+    "HLS",
+    "PCIe",
+    "SerDes",
+    "DSP Algorithms",
+    "MicroBlaze",
+    "NIOS II",
+    "Partial Reconfiguration",
+    "ChipScope",
+    "SignalTap",
+    "Digital Signal Processing"
+  ]
+}

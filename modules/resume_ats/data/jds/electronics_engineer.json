@@ -1,0 +1,89 @@
+{
+  "role_key": "ELECTRONICS_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Electronics Design Engineer",
+    "Hardware Engineer",
+    "Analog Electronics Engineer",
+    "Electronics Engineer (EE)",
+    "Circuit Design Engineer"
+  ],
+  "required_skills": [
+    "Analog Circuit Design",
+    "Digital Circuit Design",
+    "PCB Design (Printed Circuit Board Design)",
+    "Schematic Capture",
+    "Signal Integrity Analysis",
+    "Embedded Hardware Design",
+    "Soldering & Rework",
+    "Oscilloscope & Multimeter Usage",
+    "Electronic Component Selection",
+    "Mixed-Signal Design"
+  ],
+  "preferred_skills": [
+    "RF Circuit Design",
+    "Power Supply Design",
+    "FPGA-based Hardware Design",
+    "EMI/EMC Compliance Testing",
+    "Microcontroller Interfacing",
+    "High-Speed PCB Layout",
+    "Thermal Management Design"
+  ],
+  "tools": [
+    "Altium Designer",
+    "OrCAD",
+    "Cadence Allegro",
+    "KiCad",
+    "Eagle CAD",
+    "LTspice",
+    "Keysight Oscilloscope",
+    "National Instruments Multisim"
+  ],
+  "frameworks": [
+    "SPICE",
+    "PSpice",
+    "Simulink",
+    "HSPICE",
+    "Cadence Virtuoso",
+    "ModelSim"
+  ],
+  "responsibilities": [
+    "Design and prototype analog and digital circuits for consumer, industrial, or automotive electronic products from concept to production.",
+    "Develop multi-layer PCB layouts using Altium Designer, ensuring signal integrity, thermal performance, and manufacturability.",
+    "Select and qualify electronic components such as microcontrollers, sensors, and power ICs based on cost, availability, and performance requirements.",
+    "Conduct bring-up, debugging, and validation testing of prototype boards using oscilloscopes, logic analyzers, and spectrum analyzers.",
+    "Collaborate with firmware and mechanical engineering teams to integrate electronic hardware into complete product assemblies.",
+    "Perform EMI/EMC pre-compliance testing and implement design changes to meet regulatory certification standards.",
+    "Create and maintain schematic diagrams, bill of materials, and design documentation throughout the product development lifecycle.",
+    "Lead root-cause analysis and failure investigations for hardware defects identified during testing or field deployment.",
+    "Optimize circuit designs for power efficiency, cost reduction, and manufacturability while meeting performance specifications.",
+    "Support transition from prototype to mass production by working with contract manufacturers on DFM and DFT reviews."
+  ],
+  "keywords": [
+    "Electronics Engineering",
+    "Hardware Engineer",
+    "Analog Circuit Design",
+    "Digital Circuit Design",
+    "PCB Design",
+    "Printed Circuit Board",
+    "Schematic Capture",
+    "Altium Designer",
+    "OrCAD",
+    "Cadence Allegro",
+    "KiCad",
+    "SPICE",
+    "LTspice",
+    "Signal Integrity",
+    "EMI",
+    "EMC",
+    "RF Design",
+    "Power Supply Design",
+    "FPGA",
+    "Microcontroller",
+    "Mixed-Signal Design",
+    "DFM",
+    "DFT",
+    "Component Selection",
+    "High-Speed PCB Layout"
+  ]
+}

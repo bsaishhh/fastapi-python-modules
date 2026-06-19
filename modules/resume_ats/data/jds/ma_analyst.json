@@ -1,0 +1,78 @@
+{
+  "role_key": "MA_ANALYST",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Mergers and Acquisitions Analyst",
+    "M&A Strategy Analyst",
+    "Corporate Development Analyst",
+    "Transaction Advisory Analyst",
+    "Deal Analyst"
+  ],
+  "required_skills": [
+    "Mergers and Acquisitions Analysis",
+    "M&A Analysis",
+    "Valuation Modeling",
+    "Discounted Cash Flow Analysis",
+    "DCF Modeling",
+    "Due Diligence Coordination",
+    "Financial Modeling",
+    "Synergy Analysis",
+    "Excel Modeling",
+    "Industry Research"
+  ],
+  "preferred_skills": [
+    "Leveraged Buyout Modeling",
+    "LBO Modeling",
+    "Python Programming",
+    "Integration Planning",
+    "Comparable Company Analysis",
+    "PowerPoint Presentation Design",
+    "Antitrust Analysis Basics"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "CapitalIQ",
+    "FactSet",
+    "Bloomberg Terminal",
+    "PitchBook",
+    "Datasite"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Build merger models and synergy analyses to evaluate the financial impact of potential acquisitions and divestitures",
+    "Conduct valuation analysis using DCF, comparable company, and precedent transaction methodologies to inform deal pricing",
+    "Coordinate due diligence workstreams across finance, legal, and operational teams during active M&A transactions",
+    "Screen and evaluate potential acquisition targets based on strategic fit, financial performance, and valuation attractiveness",
+    "Prepare board-level presentations summarizing deal rationale, valuation, and financial impact of proposed transactions",
+    "Support post-merger integration planning by identifying synergy capture opportunities and tracking integration milestones",
+    "Analyze target company financial statements to identify risks, opportunities, and key value drivers ahead of negotiations",
+    "Monitor industry M&A activity and competitive transactions to inform corporate development strategy and target pipeline"
+  ],
+  "keywords": [
+    "M&A Analyst",
+    "Mergers and Acquisitions",
+    "Corporate Development",
+    "Valuation",
+    "DCF",
+    "Discounted Cash Flow",
+    "Synergy Analysis",
+    "Due Diligence",
+    "Deal Structuring",
+    "LBO",
+    "Comparable Company Analysis",
+    "Precedent Transactions",
+    "Financial Modeling",
+    "Post-Merger Integration",
+    "Excel",
+    "CapitalIQ",
+    "FactSet",
+    "PitchBook",
+    "Target Screening",
+    "Board Presentations",
+    "Transaction Advisory"
+  ]
+}

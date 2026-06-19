@@ -1,0 +1,77 @@
+{
+  "role_key": "ANALYTICS_CONSULTANT",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Analytics Consultant",
+    "Data and Analytics Consultant",
+    "Business Analytics Consultant",
+    "Analytics Strategy Consultant",
+    "Client-Facing Data Consultant"
+  ],
+  "required_skills": [
+    "Data Analysis",
+    "SQL",
+    "Client Relationship Management",
+    "Business Requirements Gathering",
+    "Data Visualization",
+    "Statistical Analysis",
+    "Consultative Problem Solving",
+    "Presentation and Storytelling"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Machine Learning Fundamentals",
+    "Project Scoping and Management",
+    "Industry-Specific Domain Knowledge",
+    "Change Management",
+    "Data Strategy Development",
+    "R Programming"
+  ],
+  "tools": [
+    "Tableau",
+    "Power BI",
+    "Excel",
+    "Snowflake",
+    "Looker",
+    "Salesforce",
+    "Jira",
+    "Google Analytics"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "Statsmodels"
+  ],
+  "responsibilities": [
+    "Partner with client stakeholders to understand business challenges and translate them into analytics solutions",
+    "Design and deliver data analyses and dashboards that drive measurable improvements in client business outcomes",
+    "Lead discovery workshops to gather requirements and scope analytics engagements with clients",
+    "Present findings, insights, and strategic recommendations to client executives and key decision-makers",
+    "Develop data-driven business cases that quantify the value and ROI of proposed analytics initiatives",
+    "Manage multiple client engagements simultaneously, balancing timelines, deliverables, and stakeholder expectations",
+    "Build reusable analytics frameworks and templates that can be adapted across different client engagements",
+    "Train client teams on analytics tools and dashboards to enable long-term self-sufficiency",
+    "Collaborate with technical teams to ensure data solutions are scalable and aligned with client infrastructure",
+    "Identify upsell and expansion opportunities by uncovering additional analytics needs during client engagements"
+  ],
+  "keywords": [
+    "Analytics Consultant",
+    "Data Analysis",
+    "Client Relationship Management",
+    "Business Requirements Gathering",
+    "Data Visualization",
+    "Statistical Analysis",
+    "Consulting",
+    "Data Strategy",
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "Stakeholder Presentations",
+    "Business Case Development",
+    "ROI Analysis",
+    "Project Scoping",
+    "Workshop Facilitation",
+    "Client Engagement",
+    "Domain Expertise"
+  ]
+}

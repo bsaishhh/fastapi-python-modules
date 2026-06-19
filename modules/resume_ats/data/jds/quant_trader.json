@@ -1,0 +1,85 @@
+{
+  "role_key": "QUANT_TRADER",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Quantitative Trader",
+    "Systematic Trader",
+    "Junior Quant Trader",
+    "Senior Quant Trader",
+    "Proprietary Trader"
+  ],
+  "required_skills": [
+    "Statistical Arbitrage",
+    "Market Microstructure",
+    "Risk Management",
+    "Python Programming",
+    "Options Pricing Theory",
+    "Trading Strategy Development",
+    "P&L Attribution",
+    "Quantitative Analysis",
+    "Order Execution Strategy",
+    "Probability Theory"
+  ],
+  "preferred_skills": [
+    "Machine Learning",
+    "C++ Programming",
+    "Volatility Trading",
+    "Cross-Asset Trading",
+    "Game Theory",
+    "Algorithmic Execution",
+    "Portfolio Hedging"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "KDB+",
+    "Refinitiv Eikon",
+    "Excel",
+    "Linux",
+    "Jupyter",
+    "TradingView",
+    "Git"
+  ],
+  "frameworks": [
+    "NumPy",
+    "pandas",
+    "scikit-learn",
+    "QuantLib",
+    "Zipline"
+  ],
+  "responsibilities": [
+    "Manage live trading books across equities, futures, or options while monitoring real-time risk exposure and P&L performance",
+    "Design and refine systematic trading strategies using statistical models to capture short-term and medium-term market inefficiencies",
+    "Execute discretionary and algorithmic trades while dynamically adjusting position sizing based on volatility and liquidity conditions",
+    "Monitor intraday market events and macroeconomic data releases to adjust trading positions and hedge portfolio risk",
+    "Backtest and stress-test new trading strategies against historical data before allocating capital for live deployment",
+    "Collaborate with quant researchers and developers to enhance signal quality and improve trade execution algorithms",
+    "Conduct daily post-trade analysis to evaluate strategy performance, slippage, and adherence to risk limits",
+    "Identify and exploit arbitrage opportunities across correlated instruments using real-time pricing discrepancies"
+  ],
+  "keywords": [
+    "Quant Trader",
+    "Quantitative Trader",
+    "Systematic Trader",
+    "Proprietary Trading",
+    "Statistical Arbitrage",
+    "Stat Arb",
+    "Market Microstructure",
+    "Options Trading",
+    "Volatility Trading",
+    "Risk Management",
+    "P&L Management",
+    "Algorithmic Trading",
+    "Trade Execution",
+    "Position Sizing",
+    "Hedging Strategies",
+    "Python",
+    "Derivatives",
+    "Futures Trading",
+    "Equities Trading",
+    "Backtesting",
+    "Series 7",
+    "Series 63",
+    "CFA",
+    "Liquidity Analysis"
+  ]
+}

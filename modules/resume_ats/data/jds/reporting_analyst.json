@@ -1,0 +1,77 @@
+{
+  "role_key": "REPORTING_ANALYST",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Reporting Analyst",
+    "Reporting and Analytics Specialist",
+    "Operational Reporting Analyst",
+    "MIS Analyst",
+    "Reporting Coordinator"
+  ],
+  "required_skills": [
+    "Report Development",
+    "SQL",
+    "Excel",
+    "Data Visualization",
+    "Dashboard Maintenance",
+    "Data Validation",
+    "KPI Tracking",
+    "Recurring Report Automation"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Statistical Analysis",
+    "Business Process Understanding",
+    "Power Query",
+    "Stakeholder Communication",
+    "VBA Scripting",
+    "Data Warehousing Concepts"
+  ],
+  "tools": [
+    "Power BI",
+    "Tableau",
+    "Excel",
+    "SQL Server",
+    "SSRS",
+    "Looker",
+    "Google Sheets",
+    "Snowflake"
+  ],
+  "frameworks": [
+    "DAX",
+    "Power Query"
+  ],
+  "responsibilities": [
+    "Develop and maintain recurring operational reports that track key performance metrics across departments",
+    "Write SQL queries to extract and aggregate data from multiple systems for standardized reporting needs",
+    "Automate manual reporting processes to reduce turnaround time and minimize risk of human error",
+    "Validate report accuracy by reconciling data across source systems and resolving identified discrepancies",
+    "Maintain and update dashboards in Power BI and Tableau to reflect changing business requirements",
+    "Respond to ad hoc reporting requests from business stakeholders within agreed-upon turnaround times",
+    "Document report specifications, data sources, and calculation logic to ensure consistency and auditability",
+    "Collaborate with data teams to identify and resolve data quality issues affecting report accuracy",
+    "Train end users on accessing and interpreting standard reports and self-service dashboards",
+    "Monitor scheduled report jobs and troubleshoot failures to ensure timely report delivery"
+  ],
+  "keywords": [
+    "Reporting Analyst",
+    "Report Development",
+    "Recurring Reporting",
+    "Report Automation",
+    "SQL",
+    "Excel",
+    "Data Visualization",
+    "Dashboard Maintenance",
+    "KPI Tracking",
+    "Data Validation",
+    "Power BI",
+    "Tableau",
+    "SSRS",
+    "DAX",
+    "Power Query",
+    "MIS Reporting",
+    "Ad Hoc Reporting",
+    "Data Reconciliation",
+    "Stakeholder Support"
+  ]
+}

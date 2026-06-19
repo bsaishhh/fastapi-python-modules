@@ -1,0 +1,86 @@
+{
+  "role_key": "REINFORCEMENT_LEARNING_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "RL Engineer",
+    "Senior Reinforcement Learning Engineer",
+    "RLHF Engineer",
+    "Reinforcement Learning Researcher",
+    "Decision Systems Engineer"
+  ],
+  "required_skills": [
+    "Reinforcement Learning",
+    "RL",
+    "Markov Decision Processes (MDP)",
+    "Python Programming",
+    "Policy Gradient Methods",
+    "Deep Learning",
+    "Simulation Environment Design",
+    "Reward Function Design"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning from Human Feedback (RLHF)",
+    "Multi-Agent Reinforcement Learning",
+    "Model-Based Reinforcement Learning",
+    "Robotics Control Systems",
+    "Game Theory",
+    "Distributed Training",
+    "Research Publication Experience"
+  ],
+  "tools": [
+    "NVIDIA CUDA",
+    "AWS SageMaker",
+    "Weights & Biases",
+    "Docker",
+    "Ray",
+    "MuJoCo",
+    "Slurm",
+    "Unity ML-Agents",
+    "Gymnasium"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "Stable-Baselines3",
+    "RLlib",
+    "JAX",
+    "OpenAI Gym"
+  ],
+  "responsibilities": [
+    "Design and implement reinforcement learning algorithms such as PPO, DQN, and SAC for sequential decision-making tasks",
+    "Build and tune simulation environments that accurately model real-world dynamics for agent training",
+    "Engineer reward functions that align agent behavior with desired business and safety outcomes",
+    "Train and evaluate RL agents at scale using distributed compute frameworks such as Ray RLlib",
+    "Implement RLHF pipelines to fine-tune language models based on human preference data",
+    "Debug instability and convergence issues in policy optimization and value function approximation",
+    "Collaborate with research scientists to translate experimental RL algorithms into deployable production systems",
+    "Develop multi-agent reinforcement learning systems for competitive or cooperative agent environments",
+    "Benchmark RL agents against baseline policies and human performance across standardized evaluation suites",
+    "Document algorithmic design choices, hyperparameters, and experimental results for reproducibility"
+  ],
+  "keywords": [
+    "Reinforcement Learning Engineer",
+    "RL",
+    "Reinforcement Learning",
+    "Markov Decision Process",
+    "MDP",
+    "Policy Gradient",
+    "PPO",
+    "DQN",
+    "SAC",
+    "RLHF",
+    "Reward Modeling",
+    "Multi-Agent Reinforcement Learning",
+    "Simulation Environments",
+    "Ray RLlib",
+    "Stable-Baselines3",
+    "OpenAI Gym",
+    "Gymnasium",
+    "MuJoCo",
+    "Deep Learning",
+    "Distributed Training",
+    "Robotics Control",
+    "Game Theory",
+    "PyTorch"
+  ]
+}

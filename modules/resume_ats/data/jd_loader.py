@@ -29,7 +29,7 @@ ROLE_ALIASES = {
 }
 
 
-@lru_cache(maxsize=32)
+@lru_cache(maxsize=512)
 def load_jd(role: str) -> RoleJD:
     normalized = ROLE_ALIASES.get(role.upper(), role.lower())
     path = DATA_DIR / f"{normalized}.json"

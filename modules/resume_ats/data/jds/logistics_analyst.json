@@ -1,0 +1,88 @@
+{
+  "role_key": "LOGISTICS_ANALYST",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Logistics Analyst",
+    "Transportation Analyst",
+    "Distribution Analyst",
+    "Freight Analyst",
+    "Logistics Performance Analyst"
+  ],
+  "required_skills": [
+    "Transportation Management and Logistics Operations",
+    "Freight Cost Analysis and Optimization",
+    "Supply Chain Data Analysis",
+    "Warehouse and Distribution Analytics",
+    "Logistics Network Analysis",
+    "Key Performance Indicator (KPI) Reporting",
+    "Advanced Microsoft Excel and Data Modeling",
+    "Transportation Planning and Route Optimization"
+  ],
+  "preferred_skills": [
+    "Predictive Analytics for Logistics",
+    "Carrier Performance Management",
+    "Business Intelligence Reporting",
+    "Inventory Flow Optimization",
+    "Risk Analysis and Contingency Planning",
+    "Lean Logistics Methodologies",
+    "Geospatial Analysis",
+    "International Logistics and Trade Operations"
+  ],
+  "tools": [
+    "SAP Transportation Management",
+    "Oracle Transportation Management",
+    "Power BI",
+    "Tableau",
+    "Microsoft Excel",
+    "Snowflake",
+    "Alteryx",
+    "Descartes Systems",
+    "Manhattan Associates",
+    "Project44"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "Apache Spark",
+    "scikit-learn",
+    "dbt",
+    "Apache Airflow"
+  ],
+  "responsibilities": [
+    "Analyze transportation costs, carrier performance, and freight spend data to identify opportunities for logistics cost reduction initiatives.",
+    "Develop logistics dashboards that track shipment performance, delivery accuracy, transportation efficiency, and customer service metrics.",
+    "Evaluate distribution network performance using operational data to improve routing efficiency and reduce transit times.",
+    "Conduct freight and carrier benchmarking analyses to support transportation procurement and contract negotiation decisions.",
+    "Collaborate with warehouse, procurement, and transportation teams to improve material flow and logistics execution processes.",
+    "Build predictive models to forecast shipment volumes, transportation demand, and capacity requirements across logistics networks.",
+    "Investigate shipment delays, delivery failures, and logistics bottlenecks to recommend data-driven corrective actions.",
+    "Prepare detailed logistics performance reports and present operational insights to supply chain leadership and business stakeholders."
+  ],
+  "keywords": [
+    "Logistics Analytics",
+    "Transportation Management",
+    "Freight Analysis",
+    "Freight Cost Optimization",
+    "Distribution Analytics",
+    "Supply Chain Analytics",
+    "Route Optimization",
+    "Carrier Performance",
+    "Transportation Planning",
+    "Shipment Visibility",
+    "Logistics KPIs",
+    "Power BI",
+    "Tableau",
+    "SAP TM",
+    "Oracle Transportation Management",
+    "Freight Spend",
+    "Warehouse Analytics",
+    "Delivery Performance",
+    "Transportation Network",
+    "Predictive Analytics",
+    "Supply Chain Visibility",
+    "Operational Reporting",
+    "Data Modeling",
+    "Logistics Operations",
+    "Distribution Network"
+  ]
+}

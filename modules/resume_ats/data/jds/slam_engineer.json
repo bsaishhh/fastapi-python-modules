@@ -1,0 +1,90 @@
+{
+  "role_key": "SLAM_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "SLAM Software Engineer",
+    "Localization and Mapping Engineer",
+    "Visual SLAM Engineer",
+    "Senior SLAM Engineer",
+    "State Estimation Engineer"
+  ],
+  "required_skills": [
+    "SLAM (Simultaneous Localization and Mapping)",
+    "Visual SLAM",
+    "LiDAR SLAM",
+    "Sensor Fusion",
+    "State Estimation",
+    "Kalman Filtering",
+    "C++ Programming",
+    "3D Geometry",
+    "Point Cloud Processing",
+    "Robot Operating System (ROS)"
+  ],
+  "preferred_skills": [
+    "Loop Closure Detection",
+    "Bundle Adjustment",
+    "Graph Optimization",
+    "Visual-Inertial Odometry",
+    "GPS-Denied Navigation",
+    "Pose Graph Optimization",
+    "Embedded Systems Optimization"
+  ],
+  "tools": [
+    "ROS",
+    "ROS2",
+    "GTSAM",
+    "g2o",
+    "NVIDIA Jetson",
+    "Git",
+    "Docker",
+    "RViz",
+    "PCL (Point Cloud Library)",
+    "CUDA"
+  ],
+  "frameworks": [
+    "OpenCV",
+    "Eigen",
+    "Ceres Solver",
+    "PyTorch",
+    "Open3D",
+    "ORB-SLAM"
+  ],
+  "responsibilities": [
+    "Design and implement real-time SLAM pipelines that fuse camera, LiDAR, and IMU data for accurate robot localization and mapping",
+    "Develop visual-inertial odometry algorithms to estimate robot pose with low drift in GPS-denied and indoor environments",
+    "Implement loop closure detection and pose graph optimization to correct accumulated drift in long-duration mapping sessions",
+    "Build and tune Kalman filter and particle filter based state estimation systems for robust multi-sensor localization",
+    "Optimize SLAM algorithms using bundle adjustment and graph-based optimization techniques to improve map accuracy and consistency",
+    "Profile and optimize SLAM software to run in real time within compute and power constraints on embedded robot hardware",
+    "Evaluate SLAM system accuracy against ground-truth trajectories using standard metrics such as absolute trajectory error",
+    "Collaborate with perception and planning teams to ensure localization outputs meet downstream navigation accuracy requirements",
+    "Test and validate SLAM performance across diverse environments including indoor, outdoor, and GPS-denied scenarios"
+  ],
+  "keywords": [
+    "SLAM",
+    "Simultaneous Localization and Mapping",
+    "Visual SLAM",
+    "LiDAR SLAM",
+    "Sensor Fusion",
+    "State Estimation",
+    "Kalman Filter",
+    "Extended Kalman Filter",
+    "Particle Filter",
+    "Loop Closure",
+    "Bundle Adjustment",
+    "Pose Graph Optimization",
+    "Visual-Inertial Odometry",
+    "VIO",
+    "GPS-Denied Navigation",
+    "Localization",
+    "Mapping",
+    "Point Cloud Processing",
+    "ROS",
+    "ROS2",
+    "GTSAM",
+    "Ceres Solver",
+    "ORB-SLAM",
+    "C++",
+    "Autonomous Navigation"
+  ]
+}

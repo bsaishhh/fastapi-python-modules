@@ -1,0 +1,88 @@
+{
+  "role_key": "DEMAND_PLANNER",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Demand Planner",
+    "Demand Planning Analyst",
+    "Forecasting Manager",
+    "Supply and Demand Planner",
+    "Demand Planning Specialist"
+  ],
+  "required_skills": [
+    "Demand Forecasting and Statistical Forecasting",
+    "Sales and Operations Planning (S&OP)",
+    "Demand Planning and Forecast Management",
+    "Data Analysis and Predictive Analytics",
+    "Market Trend Analysis and Demand Insights",
+    "Forecast Accuracy Measurement and Improvement",
+    "Supply Chain Planning and Collaboration",
+    "Advanced Microsoft Excel and Forecast Modeling"
+  ],
+  "preferred_skills": [
+    "Integrated Business Planning (IBP)",
+    "Machine Learning for Demand Forecasting",
+    "Promotional and Seasonal Demand Analysis",
+    "Inventory Planning Coordination",
+    "Scenario Modeling and Sensitivity Analysis",
+    "Business Intelligence Dashboard Development",
+    "Customer Demand Segmentation",
+    "Risk Management and Demand Volatility Planning"
+  ],
+  "tools": [
+    "SAP Integrated Business Planning",
+    "Kinaxis RapidResponse",
+    "Oracle SCM Cloud",
+    "Blue Yonder",
+    "Microsoft Excel",
+    "Power BI",
+    "Tableau",
+    "Anaplan",
+    "Snowflake",
+    "SAP S/4HANA"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "scikit-learn",
+    "Apache Spark",
+    "dbt",
+    "Apache Airflow"
+  ],
+  "responsibilities": [
+    "Develop statistical demand forecasts using historical sales data, market intelligence, and business assumptions to improve planning accuracy.",
+    "Collaborate with sales, marketing, finance, and supply chain teams during S&OP cycles to align demand plans.",
+    "Analyze forecast performance metrics and identify drivers of demand variability to continuously improve forecast accuracy.",
+    "Build demand planning dashboards that provide visibility into forecast trends, customer demand patterns, and planning assumptions.",
+    "Conduct scenario planning exercises to evaluate demand impacts from promotions, seasonality, and changing market conditions.",
+    "Implement forecasting methodologies and predictive models that support proactive supply planning and inventory management decisions.",
+    "Monitor market trends, customer behavior, and product performance data to identify emerging demand opportunities and risks.",
+    "Prepare executive demand planning reports and recommendations that support strategic decision-making and business growth initiatives."
+  ],
+  "keywords": [
+    "Demand Planning",
+    "Demand Forecasting",
+    "Statistical Forecasting",
+    "Forecast Management",
+    "S&OP",
+    "Sales and Operations Planning",
+    "IBP",
+    "Integrated Business Planning",
+    "Predictive Analytics",
+    "Forecast Accuracy",
+    "Demand Modeling",
+    "Supply Planning",
+    "Inventory Planning",
+    "Market Intelligence",
+    "SAP IBP",
+    "Kinaxis RapidResponse",
+    "Blue Yonder",
+    "Anaplan",
+    "Power BI",
+    "Tableau",
+    "Machine Learning Forecasting",
+    "Demand Segmentation",
+    "Scenario Planning",
+    "Demand Sensing",
+    "Planning Analytics"
+  ]
+}

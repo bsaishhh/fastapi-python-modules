@@ -1,0 +1,77 @@
+{
+  "role_key": "STRATEGY_CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Corporate Strategy Consultant",
+    "Strategy & Growth Consultant",
+    "Senior Strategy Consultant",
+    "Strategy Advisor",
+    "Strategic Planning Consultant"
+  ],
+  "required_skills": [
+    "Corporate Strategy Development",
+    "Market Entry Analysis",
+    "Competitive Analysis",
+    "Financial Modeling",
+    "Business Case Development",
+    "Hypothesis-Driven Analysis",
+    "Growth Strategy Design",
+    "Stakeholder Management",
+    "Industry Research",
+    "Strategic Planning"
+  ],
+  "preferred_skills": [
+    "Mergers and Acquisitions Strategy",
+    "Python Programming",
+    "Scenario Planning",
+    "Pricing Strategy",
+    "Organizational Design",
+    "SQL Database Querying",
+    "Portfolio Strategy Analysis"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "CapitalIQ",
+    "FactSet",
+    "Salesforce",
+    "Power BI"
+  ],
+  "frameworks": [
+    "Python pandas"
+  ],
+  "responsibilities": [
+    "Develop corporate growth strategies by analyzing market trends, competitive dynamics, and emerging opportunities across industries",
+    "Lead market entry assessments evaluating total addressable market, competitive landscape, and go-to-market approach for new ventures",
+    "Build financial models to evaluate strategic options including organic growth, partnerships, and acquisition scenarios",
+    "Conduct competitive benchmarking to identify white space opportunities and inform client positioning and differentiation strategy",
+    "Facilitate executive strategy workshops to align leadership on long-term vision, priorities, and strategic trade-offs",
+    "Synthesize market research and financial analysis into compelling strategic narratives presented to senior executive stakeholders",
+    "Evaluate potential M&A targets and partnership opportunities to support inorganic growth strategy recommendations",
+    "Develop multi-year strategic roadmaps translating high-level vision into actionable initiatives and resource requirements"
+  ],
+  "keywords": [
+    "Strategy Consultant",
+    "Corporate Strategy",
+    "Growth Strategy",
+    "Market Entry Strategy",
+    "Competitive Analysis",
+    "Strategic Planning",
+    "Business Case",
+    "Financial Modeling",
+    "Mergers and Acquisitions",
+    "M&A Strategy",
+    "Go-to-Market Strategy",
+    "TAM Analysis",
+    "Scenario Planning",
+    "Executive Presentations",
+    "PowerPoint",
+    "Excel",
+    "Industry Research",
+    "Portfolio Strategy",
+    "Strategic Roadmap",
+    "MBA",
+    "Pricing Strategy"
+  ]
+}

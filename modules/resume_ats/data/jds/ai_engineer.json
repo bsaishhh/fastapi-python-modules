@@ -1,0 +1,91 @@
+{
+  "role_key": "AI_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Applied AI Engineer",
+    "Generative AI Engineer",
+    "AI Solutions Engineer",
+    "LLM Engineer",
+    "AI Application Developer"
+  ],
+  "required_skills": [
+    "Large Language Models (LLM)",
+    "Prompt Engineering",
+    "Retrieval-Augmented Generation (RAG)",
+    "Python Programming",
+    "API Integration",
+    "Vector Databases",
+    "Natural Language Processing (NLP)",
+    "Model Fine-Tuning",
+    "Generative AI"
+  ],
+  "preferred_skills": [
+    "Multi-Agent Systems",
+    "Model Evaluation and Benchmarking",
+    "MLOps",
+    "Cloud Architecture",
+    "Knowledge Graphs",
+    "Semantic Search",
+    "Cost and Latency Optimization for LLM Inference"
+  ],
+  "tools": [
+    "OpenAI API",
+    "Anthropic API",
+    "Pinecone",
+    "Weaviate",
+    "AWS",
+    "Azure",
+    "Docker",
+    "Postman",
+    "Redis",
+    "MongoDB"
+  ],
+  "frameworks": [
+    "LangChain",
+    "LlamaIndex",
+    "Hugging Face Transformers",
+    "FastAPI",
+    "PyTorch",
+    "AutoGen",
+    "CrewAI"
+  ],
+  "responsibilities": [
+    "Design and build production-grade applications powered by large language models such as GPT-4 and Claude",
+    "Develop retrieval-augmented generation pipelines that integrate vector databases with LLM inference for accurate responses",
+    "Engineer and iterate on prompt templates and chaining strategies to optimize output quality and reliability",
+    "Build and maintain APIs and microservices that expose AI capabilities to internal and external applications",
+    "Fine-tune and evaluate open-source and proprietary language models against domain-specific benchmarks and datasets",
+    "Implement guardrails, evaluation harnesses, and monitoring systems to ensure safe and reliable AI outputs",
+    "Collaborate with product managers and designers to translate user needs into AI-powered features and workflows",
+    "Optimize inference latency, token usage, and cost across LLM-powered services running at production scale",
+    "Architect multi-agent workflows that orchestrate tool use, memory, and reasoning across complex tasks",
+    "Stay current with emerging AI research and rapidly prototype new techniques into shippable product features"
+  ],
+  "keywords": [
+    "AI Engineer",
+    "Large Language Models",
+    "LLM",
+    "Generative AI",
+    "GenAI",
+    "Prompt Engineering",
+    "RAG",
+    "Retrieval-Augmented Generation",
+    "Vector Databases",
+    "Embeddings",
+    "Semantic Search",
+    "NLP",
+    "Natural Language Processing",
+    "Fine-Tuning",
+    "LangChain",
+    "LlamaIndex",
+    "Hugging Face",
+    "OpenAI",
+    "Anthropic Claude",
+    "Multi-Agent Systems",
+    "Agentic Workflows",
+    "MLOps",
+    "Python",
+    "FastAPI",
+    "Model Evaluation"
+  ]
+}

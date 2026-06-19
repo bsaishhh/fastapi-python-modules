@@ -1,0 +1,83 @@
+{
+  "role_key": "BIM_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "BIM Coordinator",
+    "BIM Manager",
+    "Senior BIM Engineer",
+    "Virtual Design and Construction (VDC) Engineer",
+    "BIM Specialist"
+  ],
+  "required_skills": [
+    "Building Information Modeling (BIM)",
+    "3D Modeling",
+    "Clash Detection",
+    "BIM Standards Development",
+    "Construction Documentation",
+    "Multi-Disciplinary Model Coordination",
+    "Revit Family Creation",
+    "Quantity Take-off",
+    "Project Workflow Management"
+  ],
+  "preferred_skills": [
+    "Virtual Design and Construction (VDC)",
+    "4D Scheduling Simulation",
+    "Point Cloud Processing",
+    "Digital Twin Development",
+    "Parametric Design",
+    "Construction Sequencing",
+    "GIS Integration"
+  ],
+  "tools": [
+    "Revit",
+    "Navisworks",
+    "AutoCAD",
+    "BIM 360",
+    "Autodesk Construction Cloud",
+    "Civil 3D",
+    "Bluebeam",
+    "Trimble Connect"
+  ],
+  "frameworks": [
+    "ISO 19650",
+    "AIA BIM Standards",
+    "Level of Development (LOD) Standards",
+    "Dynamo"
+  ],
+  "responsibilities": [
+    "Develop and maintain coordinated multi-disciplinary BIM models in Revit to support design and construction phases",
+    "Perform clash detection and coordination reviews using Navisworks to identify and resolve design conflicts before construction",
+    "Establish and enforce BIM execution plans and modeling standards to ensure consistency across project teams",
+    "Generate quantity take-offs and construction documentation directly from BIM models to support estimating and procurement",
+    "Coordinate with architects, engineers, and contractors to integrate structural, MEP, and civil models into a unified BIM environment",
+    "Create custom Revit families and templates to standardize modeling workflows across multiple projects",
+    "Facilitate BIM coordination meetings and document resolution of identified clashes and design issues",
+    "Develop 4D scheduling simulations to visualize construction sequencing and identify potential scheduling conflicts"
+  ],
+  "keywords": [
+    "BIM",
+    "Building Information Modeling",
+    "3D Modeling",
+    "Clash Detection",
+    "BIM Standards",
+    "BIM Execution Plan",
+    "Model Coordination",
+    "Revit",
+    "Navisworks",
+    "Quantity Take-off",
+    "VDC",
+    "Virtual Design and Construction",
+    "4D Scheduling",
+    "Point Cloud",
+    "Digital Twin",
+    "ISO 19650",
+    "LOD Standards",
+    "Level of Development",
+    "Dynamo",
+    "BIM 360",
+    "Autodesk Construction Cloud",
+    "Construction Documentation",
+    "Parametric Design",
+    "Multi-Disciplinary Coordination"
+  ]
+}

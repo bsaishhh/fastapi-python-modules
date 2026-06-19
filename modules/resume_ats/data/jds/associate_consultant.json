@@ -1,0 +1,77 @@
+{
+  "role_key": "ASSOCIATE_CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Junior Consultant",
+    "Associate",
+    "Business Consultant Associate",
+    "Management Consulting Associate",
+    "Consultant I"
+  ],
+  "required_skills": [
+    "Problem Structuring",
+    "Data Analysis",
+    "Market Research",
+    "Client Communication",
+    "Excel Modeling",
+    "PowerPoint Presentation Design",
+    "Hypothesis-Driven Analysis",
+    "Financial Modeling",
+    "Project Management",
+    "Business Case Development"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "SQL Database Querying",
+    "Industry Benchmarking",
+    "Change Management",
+    "Process Optimization",
+    "Tableau Dashboard Development",
+    "Survey Design"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "SharePoint",
+    "Salesforce",
+    "Microsoft Teams",
+    "Smartsheet"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Conduct primary and secondary research to support client engagements across strategy, operations, and organizational design projects",
+    "Build financial and operational models in Excel to analyze business performance and quantify potential improvement opportunities",
+    "Develop polished PowerPoint presentations synthesizing analysis into clear, client-ready insights and recommendations",
+    "Support senior consultants in structuring problems using hypothesis-driven frameworks to guide engagement workstreams",
+    "Conduct interviews with client stakeholders to gather qualitative insights informing strategic and operational recommendations",
+    "Analyze industry benchmarks and competitive data to contextualize client performance against market peers",
+    "Assist in project management activities including timeline tracking, deliverable coordination, and status reporting",
+    "Contribute to internal knowledge-building by documenting case learnings and best practices for future engagements"
+  ],
+  "keywords": [
+    "Associate Consultant",
+    "Management Consulting",
+    "Problem Structuring",
+    "Hypothesis-Driven Analysis",
+    "Market Research",
+    "Financial Modeling",
+    "Business Case",
+    "Client Communication",
+    "PowerPoint",
+    "Excel",
+    "Competitive Benchmarking",
+    "Project Management",
+    "Stakeholder Interviews",
+    "Strategy Consulting",
+    "Operations Consulting",
+    "Data Analysis",
+    "SQL",
+    "Tableau",
+    "Change Management",
+    "Case Study"
+  ]
+}

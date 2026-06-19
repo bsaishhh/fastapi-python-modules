@@ -1,0 +1,78 @@
+{
+  "role_key": "BUSINESS_ANALYST",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Business Analyst",
+    "Business Systems Analyst",
+    "Business Process Analyst",
+    "IT Business Analyst",
+    "Business Analytics Consultant"
+  ],
+  "required_skills": [
+    "Requirements Gathering",
+    "Business Process Analysis",
+    "SQL",
+    "Data Analysis",
+    "Stakeholder Management",
+    "Process Mapping",
+    "Documentation",
+    "Excel"
+  ],
+  "preferred_skills": [
+    "Project Management",
+    "Data Visualization",
+    "Agile Methodology",
+    "Cost-Benefit Analysis",
+    "Change Management",
+    "Python Programming",
+    "Business Case Development"
+  ],
+  "tools": [
+    "Excel",
+    "Tableau",
+    "Power BI",
+    "Jira",
+    "Confluence",
+    "Visio",
+    "Salesforce",
+    "SQL Server"
+  ],
+  "frameworks": [
+    "Pandas",
+    "BPMN"
+  ],
+  "responsibilities": [
+    "Gather and document business requirements from stakeholders to support new system and process initiatives",
+    "Analyze existing business processes to identify inefficiencies and recommend data-driven improvements",
+    "Translate business requirements into clear functional specifications for engineering and technical teams",
+    "Conduct cost-benefit and impact analyses to evaluate proposed process changes and technology investments",
+    "Facilitate workshops and meetings with stakeholders to align on project scope, priorities, and timelines",
+    "Create process maps and workflow diagrams that document current and future state business operations",
+    "Support user acceptance testing to ensure delivered solutions meet documented business requirements",
+    "Analyze operational data to identify trends and support evidence-based recommendations for leadership",
+    "Bridge communication between business stakeholders and technical teams throughout the project lifecycle",
+    "Monitor and report on project progress, risks, and dependencies to keep initiatives on track"
+  ],
+  "keywords": [
+    "Business Analyst",
+    "Requirements Gathering",
+    "Business Process Analysis",
+    "Process Mapping",
+    "Stakeholder Management",
+    "SQL",
+    "Data Analysis",
+    "Functional Specifications",
+    "Business Case Development",
+    "Cost-Benefit Analysis",
+    "Agile",
+    "BPMN",
+    "User Acceptance Testing",
+    "UAT",
+    "Change Management",
+    "Project Management",
+    "Workflow Documentation",
+    "Jira",
+    "Confluence",
+    "Excel"
+  ]
+}

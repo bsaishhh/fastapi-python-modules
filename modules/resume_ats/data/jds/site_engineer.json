@@ -1,0 +1,83 @@
+{
+  "role_key": "SITE_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Field Engineer",
+    "Site Civil Engineer",
+    "Senior Site Engineer",
+    "Construction Site Engineer",
+    "Resident Engineer"
+  ],
+  "required_skills": [
+    "Site Supervision",
+    "Construction Drawing Review",
+    "Quality Control Inspection",
+    "Site Surveying",
+    "Construction Scheduling",
+    "Material Testing Oversight",
+    "Safety Compliance",
+    "Engineering Calculations",
+    "Site Layout and Setting Out"
+  ],
+  "preferred_skills": [
+    "Building Information Modeling (BIM) Coordination",
+    "Earthworks Management",
+    "Contract Administration",
+    "Professional Engineer (PE) Licensure",
+    "Subcontractor Coordination",
+    "Total Station Surveying",
+    "OSHA Certification"
+  ],
+  "tools": [
+    "AutoCAD",
+    "Total Station",
+    "Procore",
+    "Bluebeam",
+    "Microsoft Project",
+    "Civil 3D",
+    "PlanGrid",
+    "GPS Surveying Equipment"
+  ],
+  "frameworks": [
+    "OSHA Standards",
+    "ASCE Standards",
+    "ASTM Standards",
+    "ICC Codes"
+  ],
+  "responsibilities": [
+    "Supervise daily on-site construction activities to ensure work is performed in accordance with approved drawings and specifications",
+    "Conduct site layout and setting-out using total station and GPS equipment to establish accurate construction reference points",
+    "Perform quality control inspections of concrete, earthworks, and structural elements to verify compliance with project standards",
+    "Coordinate material testing and laboratory sampling to confirm soil, concrete, and asphalt meet specification requirements",
+    "Monitor construction progress against the project schedule and report delays or deviations to project management",
+    "Liaise with subcontractors, suppliers, and site personnel to resolve daily construction issues and maintain workflow",
+    "Maintain detailed site records, daily logs, and progress photographs to document construction activities and conditions",
+    "Enforce site safety protocols and conduct regular safety briefings to maintain compliance with OSHA regulations"
+  ],
+  "keywords": [
+    "Site Supervision",
+    "Construction Inspection",
+    "Quality Control",
+    "Site Surveying",
+    "Setting Out",
+    "Construction Scheduling",
+    "Material Testing",
+    "Safety Compliance",
+    "OSHA",
+    "BIM Coordination",
+    "Earthworks",
+    "Contract Administration",
+    "PE License",
+    "Professional Engineer",
+    "Total Station",
+    "GPS Surveying",
+    "Subcontractor Coordination",
+    "Procore",
+    "Site Layout",
+    "Field Engineering",
+    "Resident Engineering",
+    "Construction Documentation",
+    "Civil 3D",
+    "Daily Reporting"
+  ]
+}

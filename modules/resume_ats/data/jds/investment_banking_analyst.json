@@ -1,0 +1,81 @@
+{
+  "role_key": "INVESTMENT_BANKING_ANALYST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "IB Analyst",
+    "M&A Analyst",
+    "Investment Banking Associate",
+    "Corporate Finance Analyst",
+    "Junior Investment Banking Analyst"
+  ],
+  "required_skills": [
+    "Financial Modeling",
+    "Valuation Analysis",
+    "Discounted Cash Flow Analysis",
+    "DCF Modeling",
+    "Mergers and Acquisitions Analysis",
+    "M&A Analysis",
+    "Comparable Company Analysis",
+    "Excel Modeling",
+    "PowerPoint Presentation Design",
+    "Capital Markets Knowledge"
+  ],
+  "preferred_skills": [
+    "Leveraged Buyout Modeling",
+    "LBO Modeling",
+    "Industry Sector Research",
+    "Pitch Book Creation",
+    "Python Programming",
+    "VBA Macro Development",
+    "Due Diligence Coordination"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Bloomberg Terminal",
+    "CapitalIQ",
+    "FactSet",
+    "PitchBook",
+    "Thomson Reuters",
+    "Datasite"
+  ],
+  "frameworks": [
+    "VBA",
+    "Python pandas"
+  ],
+  "responsibilities": [
+    "Build detailed financial models including DCF, LBO, and merger models to support client transaction recommendations",
+    "Prepare pitch books and client presentations summarizing valuation analysis, market positioning, and strategic alternatives",
+    "Conduct comparable company and precedent transaction analysis to benchmark valuation multiples across target industries",
+    "Coordinate due diligence processes with legal, accounting, and client teams during live M&A and capital raising transactions",
+    "Analyze financial statements and industry trends to identify potential acquisition targets and investment opportunities",
+    "Support senior bankers in structuring and negotiating deal terms for mergers, acquisitions, and capital markets transactions",
+    "Draft confidential information memoranda and management presentations for use in sell-side and buy-side engagements",
+    "Perform sensitivity and scenario analysis on financial models to stress-test transaction assumptions and outcomes"
+  ],
+  "keywords": [
+    "Investment Banking",
+    "IB Analyst",
+    "M&A",
+    "Mergers and Acquisitions",
+    "Financial Modeling",
+    "Valuation",
+    "DCF",
+    "Discounted Cash Flow",
+    "LBO",
+    "Leveraged Buyout",
+    "Comparable Company Analysis",
+    "Precedent Transactions",
+    "Pitch Book",
+    "Capital Markets",
+    "Due Diligence",
+    "Excel",
+    "PowerPoint",
+    "CapitalIQ",
+    "FactSet",
+    "Equity Capital Markets",
+    "Debt Capital Markets",
+    "Corporate Finance",
+    "Series 79"
+  ]
+}

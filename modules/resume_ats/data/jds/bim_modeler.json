@@ -1,0 +1,81 @@
+{
+  "role_key": "BIM_MODELER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "BIM Technician",
+    "Revit Modeler",
+    "Senior BIM Modeler",
+    "CAD/BIM Drafter",
+    "Building Modeler"
+  ],
+  "required_skills": [
+    "Building Information Modeling (BIM)",
+    "3D Modeling",
+    "Revit Drafting",
+    "Construction Documentation",
+    "Detailing and Annotation",
+    "As-Built Drawing Production",
+    "Model Quality Assurance",
+    "Blueprint Reading"
+  ],
+  "preferred_skills": [
+    "Clash Detection",
+    "Point Cloud to BIM Conversion",
+    "Sheet Set Management",
+    "Family Creation and Customization",
+    "Quantity Take-off",
+    "Civil 3D Modeling",
+    "MEP Modeling"
+  ],
+  "tools": [
+    "Revit",
+    "AutoCAD",
+    "Navisworks",
+    "BIM 360",
+    "SketchUp",
+    "Bluebeam",
+    "Civil 3D",
+    "Recap Pro"
+  ],
+  "frameworks": [
+    "ISO 19650",
+    "Level of Development (LOD) Standards",
+    "Dynamo"
+  ],
+  "responsibilities": [
+    "Create detailed 3D BIM models in Revit based on architectural, structural, and MEP design documents",
+    "Produce accurate construction drawings, details, and annotations to support permitting and construction documentation needs",
+    "Convert point cloud scan data into accurate as-built BIM models to support renovation and retrofit projects",
+    "Update and maintain BIM models throughout project phases to reflect design changes and field revisions",
+    "Perform quality assurance checks on models to verify dimensional accuracy and compliance with modeling standards",
+    "Generate quantity take-offs and material schedules directly from BIM models to support cost estimating",
+    "Collaborate with engineers and designers to incorporate design changes into model updates within established timelines",
+    "Create and customize Revit families and components to support project-specific modeling requirements"
+  ],
+  "keywords": [
+    "BIM",
+    "Building Information Modeling",
+    "3D Modeling",
+    "Revit",
+    "Construction Documentation",
+    "Detailing",
+    "Annotation",
+    "As-Built Drawings",
+    "Model Quality Assurance",
+    "Blueprint Reading",
+    "Clash Detection",
+    "Point Cloud",
+    "Quantity Take-off",
+    "Family Creation",
+    "MEP Modeling",
+    "Civil 3D",
+    "AutoCAD",
+    "Navisworks",
+    "ISO 19650",
+    "LOD Standards",
+    "Level of Development",
+    "Dynamo",
+    "Sheet Set Management",
+    "Drafting"
+  ]
+}

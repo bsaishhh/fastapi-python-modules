@@ -1,0 +1,87 @@
+{
+  "role_key": "INVENTORY_PLANNER",
+  "family": "Supply Chain & Operations",
+  "sub_roles": [
+    "Senior Inventory Planner",
+    "Inventory Control Planner",
+    "Supply Planner",
+    "Materials Planner",
+    "Inventory Management Analyst"
+  ],
+  "required_skills": [
+    "Inventory Planning and Replenishment Management",
+    "Inventory Optimization and Safety Stock Planning",
+    "Demand and Supply Balancing",
+    "Materials Requirements Planning (MRP)",
+    "Inventory Control and Stock Accuracy",
+    "Forecast Analysis and Inventory Modeling",
+    "Enterprise Resource Planning (ERP) Systems",
+    "Supply Chain Planning and Coordination"
+  ],
+  "preferred_skills": [
+    "Warehouse Operations and Distribution Planning",
+    "Scenario Planning and What-If Analysis",
+    "Supplier Collaboration and Replenishment Programs",
+    "Business Intelligence Reporting",
+    "Risk Management and Supply Continuity",
+    "Lean Inventory Management",
+    "ABC Inventory Classification",
+    "Network Inventory Optimization"
+  ],
+  "tools": [
+    "SAP S/4HANA",
+    "Oracle SCM Cloud",
+    "Kinaxis RapidResponse",
+    "Blue Yonder",
+    "Microsoft Excel",
+    "Power BI",
+    "Tableau",
+    "Snowflake",
+    "Anaplan",
+    "NetSuite"
+  ],
+  "frameworks": [
+    "APICS SCOR Model",
+    "Pandas",
+    "NumPy",
+    "dbt",
+    "Apache Airflow"
+  ],
+  "responsibilities": [
+    "Develop inventory replenishment plans using demand forecasts, lead times, and safety stock policies to maintain target service levels.",
+    "Analyze inventory performance metrics and stock movements to identify excess inventory, shortages, and optimization opportunities.",
+    "Collaborate with procurement, logistics, and production teams to align inventory strategies with operational requirements and demand forecasts.",
+    "Implement inventory control processes that improve stock accuracy, reduce carrying costs, and enhance material availability.",
+    "Monitor inventory health indicators and recommend corrective actions to address slow-moving, obsolete, or at-risk inventory.",
+    "Build inventory planning reports and dashboards that provide visibility into stock levels, turnover rates, and service performance.",
+    "Conduct scenario analyses to evaluate inventory impacts from demand fluctuations, supplier constraints, and capacity limitations.",
+    "Optimize safety stock parameters and replenishment models to balance customer service objectives with working capital efficiency."
+  ],
+  "keywords": [
+    "Inventory Planning",
+    "Inventory Management",
+    "Inventory Optimization",
+    "Safety Stock",
+    "Stock Replenishment",
+    "Inventory Control",
+    "MRP",
+    "Material Requirements Planning",
+    "Supply Planning",
+    "Demand Planning",
+    "ERP",
+    "SAP S/4HANA",
+    "Oracle SCM",
+    "Kinaxis",
+    "Blue Yonder",
+    "Inventory Turnover",
+    "Stock Accuracy",
+    "ABC Analysis",
+    "Working Capital",
+    "Service Levels",
+    "Inventory Analytics",
+    "Forecast Analysis",
+    "Supply Chain Planning",
+    "Replenishment Planning",
+    "Inventory Visibility"
+  ]
+}

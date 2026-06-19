@@ -1,0 +1,85 @@
+{
+  "role_key": "FIRMWARE_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Firmware Developer",
+    "Senior Firmware Engineer",
+    "Embedded Firmware Engineer",
+    "Firmware Software Engineer",
+    "FW Engineer"
+  ],
+  "required_skills": [
+    "Firmware Development",
+    "Embedded C",
+    "Microcontroller Architecture (ARM Cortex-M)",
+    "Bootloader Development",
+    "RTOS (Real-Time Operating Systems)",
+    "Memory Management",
+    "Hardware Abstraction Layer (HAL) Design",
+    "Debugging with JTAG/SWD"
+  ],
+  "preferred_skills": [
+    "Secure Boot & Firmware Security",
+    "Power Management Optimization",
+    "Firmware OTA Update Design",
+    "Functional Safety Standards (ISO 26262/IEC 61508)",
+    "DSP Programming",
+    "Bluetooth/Wireless Stack Integration"
+  ],
+  "tools": [
+    "Keil uVision",
+    "IAR Embedded Workbench",
+    "STM32CubeIDE",
+    "Segger J-Link",
+    "Lauterbach TRACE32",
+    "Git",
+    "Jenkins",
+    "JIRA"
+  ],
+  "frameworks": [
+    "FreeRTOS",
+    "Zephyr OS",
+    "Mbed OS",
+    "ESP-IDF",
+    "CMSIS"
+  ],
+  "responsibilities": [
+    "Develop, test, and maintain low-level firmware in C for ARM Cortex-M based microcontrollers powering embedded products.",
+    "Design and implement bootloaders, firmware update mechanisms, and secure boot processes to ensure reliable field upgrades.",
+    "Write and optimize hardware abstraction layer (HAL) and board support package (BSP) code for new hardware platforms.",
+    "Debug firmware issues at the register level using JTAG/SWD debuggers, oscilloscopes, and logic analyzers.",
+    "Collaborate closely with hardware design teams during board bring-up to validate schematics, peripherals, and power sequencing.",
+    "Implement and tune RTOS task scheduling, interrupt handling, and memory management to meet real-time performance requirements.",
+    "Optimize firmware for power consumption and battery life in resource-constrained, low-power embedded devices.",
+    "Conduct firmware code reviews, static analysis, and unit testing to maintain high reliability and code quality standards.",
+    "Build and maintain continuous integration pipelines for automated firmware builds, flashing, and regression testing.",
+    "Document firmware architecture, interface specifications, and release notes to support cross-functional and customer-facing teams."
+  ],
+  "keywords": [
+    "Firmware Engineering",
+    "Firmware Development",
+    "Embedded C",
+    "ARM Cortex-M",
+    "Bootloader",
+    "Secure Boot",
+    "RTOS",
+    "FreeRTOS",
+    "Zephyr OS",
+    "HAL",
+    "Hardware Abstraction Layer",
+    "BSP",
+    "Board Support Package",
+    "JTAG",
+    "SWD",
+    "Debugging",
+    "Low-Power Design",
+    "OTA Updates",
+    "CMSIS",
+    "Memory Management",
+    "Functional Safety",
+    "ISO 26262",
+    "Continuous Integration",
+    "CI/CD",
+    "Microcontroller Programming"
+  ]
+}

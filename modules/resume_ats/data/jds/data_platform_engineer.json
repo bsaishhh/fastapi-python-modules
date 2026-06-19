@@ -1,0 +1,84 @@
+{
+  "role_key": "DATA_PLATFORM_ENGINEER",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Data Platform Engineer",
+    "Data Infrastructure Engineer",
+    "Platform Reliability Engineer, Data",
+    "Cloud Data Platform Engineer",
+    "Data Systems Engineer"
+  ],
+  "required_skills": [
+    "Data Platform Engineering",
+    "Cloud Infrastructure",
+    "Kubernetes Orchestration",
+    "SQL",
+    "Python Programming",
+    "Infrastructure as Code (IaC)",
+    "Distributed Systems",
+    "Data Pipeline Reliability"
+  ],
+  "preferred_skills": [
+    "Cost Optimization for Data Infrastructure",
+    "Data Security and Access Control",
+    "Observability and Monitoring",
+    "Multi-Tenant Platform Design",
+    "Streaming Infrastructure",
+    "Site Reliability Engineering (SRE) Practices",
+    "Self-Service Data Tooling"
+  ],
+  "tools": [
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Snowflake",
+    "Databricks",
+    "Apache Kafka",
+    "Airflow",
+    "Prometheus",
+    "Grafana",
+    "Docker"
+  ],
+  "frameworks": [
+    "Apache Spark",
+    "Apache Flink",
+    "Apache Iceberg",
+    "Delta Lake"
+  ],
+  "responsibilities": [
+    "Build and maintain scalable, self-service data platform infrastructure used by data engineers and analysts",
+    "Provision and manage cloud data infrastructure using infrastructure-as-code tools such as Terraform",
+    "Ensure high availability and reliability of core data platform services through proactive monitoring and alerting",
+    "Design multi-tenant data platform architectures that balance performance, security, and resource isolation",
+    "Implement observability tooling to track platform health, pipeline SLAs, and resource utilization metrics",
+    "Optimize compute and storage costs across the data platform through resource right-sizing and tiering strategies",
+    "Manage access control and security policies governing data platform usage across the organization",
+    "Collaborate with data engineering teams to standardize tooling and reduce friction in pipeline development",
+    "Automate platform operations such as scaling, failover, and incident response for critical data services",
+    "Evaluate and onboard new data platform technologies to improve developer experience and platform capabilities"
+  ],
+  "keywords": [
+    "Data Platform Engineer",
+    "Data Platform Engineering",
+    "Cloud Infrastructure",
+    "Kubernetes",
+    "K8s",
+    "Infrastructure as Code",
+    "IaC",
+    "Terraform",
+    "Distributed Systems",
+    "Data Pipeline Reliability",
+    "Observability",
+    "Monitoring",
+    "Prometheus",
+    "Grafana",
+    "Site Reliability Engineering",
+    "SRE",
+    "Self-Service Tooling",
+    "Multi-Tenant Architecture",
+    "Cost Optimization",
+    "Apache Kafka",
+    "Snowflake",
+    "Databricks"
+  ]
+}

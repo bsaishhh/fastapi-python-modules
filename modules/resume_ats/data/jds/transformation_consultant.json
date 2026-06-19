@@ -1,0 +1,77 @@
+{
+  "role_key": "TRANSFORMATION_CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Business Transformation Consultant",
+    "Digital Transformation Consultant",
+    "Senior Transformation Consultant",
+    "Organizational Transformation Lead",
+    "Change & Transformation Consultant"
+  ],
+  "required_skills": [
+    "Business Transformation Strategy",
+    "Change Management",
+    "Operating Model Design",
+    "Stakeholder Management",
+    "Process Reengineering",
+    "Project Management",
+    "Financial Modeling",
+    "Organizational Design",
+    "Performance Improvement",
+    "Business Case Development"
+  ],
+  "preferred_skills": [
+    "Digital Transformation Strategy",
+    "Python Programming",
+    "Agile Methodology",
+    "Cost Reduction Analysis",
+    "Cultural Change Facilitation",
+    "Data Governance",
+    "SQL Database Querying"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "Salesforce",
+    "SAP",
+    "Microsoft Project",
+    "Power BI"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Design and lead enterprise-wide transformation programs spanning operating model redesign, process optimization, and culture change",
+    "Develop future-state operating models defining roles, governance structures, and decision rights to support transformation goals",
+    "Build business cases quantifying cost savings, revenue growth, and efficiency gains from proposed transformation initiatives",
+    "Lead change management activities including stakeholder engagement, communication planning, and training to drive adoption",
+    "Facilitate executive alignment workshops to define transformation vision, priorities, and success metrics across business units",
+    "Identify and prioritize process reengineering opportunities to eliminate redundancies and improve organizational efficiency",
+    "Track transformation program performance against KPIs, adjusting implementation plans based on progress and emerging risks",
+    "Coach client leadership teams on sustaining transformation momentum and embedding new ways of working post-implementation"
+  ],
+  "keywords": [
+    "Transformation Consultant",
+    "Business Transformation",
+    "Digital Transformation",
+    "Change Management",
+    "Operating Model Design",
+    "Process Reengineering",
+    "Organizational Design",
+    "Performance Improvement",
+    "Cost Reduction",
+    "Business Case",
+    "Stakeholder Management",
+    "Executive Workshops",
+    "Culture Change",
+    "Financial Modeling",
+    "Project Management",
+    "PowerPoint",
+    "Excel",
+    "Agile",
+    "KPI Tracking",
+    "MBA"
+  ]
+}

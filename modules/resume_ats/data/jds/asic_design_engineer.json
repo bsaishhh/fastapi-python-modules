@@ -1,0 +1,84 @@
+{
+  "role_key": "ASIC_DESIGN_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "ASIC Front-End Design Engineer",
+    "Digital ASIC Engineer",
+    "Chip Design Engineer",
+    "RTL Design Engineer",
+    "SoC Design Engineer"
+  ],
+  "required_skills": [
+    "RTL Design (Register-Transfer Level Design)",
+    "Verilog",
+    "SystemVerilog",
+    "Microarchitecture Design",
+    "ASIC Front-End Design Flow",
+    "Logic Synthesis",
+    "Clock Domain Crossing (CDC) Analysis",
+    "Low-Power Design (UPF)"
+  ],
+  "preferred_skills": [
+    "SoC Architecture (System-on-Chip Architecture)",
+    "AMBA Bus Protocols (AXI, AHB, APB)",
+    "Formal Verification",
+    "DFT Architecture",
+    "Static Timing Analysis (STA)",
+    "Power-Performance-Area (PPA) Optimization"
+  ],
+  "tools": [
+    "Cadence Genus",
+    "Synopsys Design Compiler",
+    "Cadence Innovus",
+    "Synopsys PrimeTime",
+    "Mentor Questa",
+    "Synopsys Formality",
+    "Cadence JasperGold",
+    "Perforce"
+  ],
+  "frameworks": [
+    "UVM",
+    "VHDL",
+    "OVM",
+    "Synopsys Design Constraints (SDC)"
+  ],
+  "responsibilities": [
+    "Architect and implement RTL designs in Verilog/SystemVerilog for complex digital blocks within SoC and ASIC chip projects.",
+    "Define microarchitecture specifications translating system-level requirements into synthesizable, timing-closure-ready RTL implementations.",
+    "Perform clock domain crossing (CDC) analysis and resolve metastability issues across asynchronous interfaces in multi-clock designs.",
+    "Drive logic synthesis using Cadence Genus or Synopsys Design Compiler to achieve power, performance, and area (PPA) targets.",
+    "Collaborate with verification engineers to define test plans, coverage goals, and debug RTL functional failures.",
+    "Integrate IP blocks using AMBA bus protocols such as AXI, AHB, and APB into larger SoC architectures.",
+    "Apply low-power design techniques including clock gating, power gating, and multi-voltage domains using UPF methodology.",
+    "Work with physical design and DFT teams to ensure RTL is synthesis-friendly and scan-insertion compatible.",
+    "Conduct design reviews and lint checks to maintain RTL coding standards and ensure design reusability.",
+    "Support tapeout milestones by resolving timing violations, synthesis warnings, and sign-off checklist items."
+  ],
+  "keywords": [
+    "ASIC Design",
+    "ASIC",
+    "RTL Design",
+    "Register-Transfer Level",
+    "Verilog",
+    "SystemVerilog",
+    "VHDL",
+    "Microarchitecture",
+    "SoC",
+    "System-on-Chip",
+    "Logic Synthesis",
+    "Clock Domain Crossing",
+    "CDC",
+    "Low-Power Design",
+    "UPF",
+    "AMBA",
+    "AXI",
+    "AHB",
+    "APB",
+    "Static Timing Analysis",
+    "STA",
+    "DFT",
+    "PPA Optimization",
+    "Cadence Genus",
+    "Tapeout"
+  ]
+}

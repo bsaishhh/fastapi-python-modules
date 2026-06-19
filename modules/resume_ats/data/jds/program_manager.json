@@ -1,0 +1,78 @@
+{
+  "role_key": "PROGRAM_MANAGER",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Senior Program Manager",
+    "Technical Program Manager",
+    "TPM",
+    "Program Lead",
+    "Cross-Functional Program Manager"
+  ],
+  "required_skills": [
+    "Program Management",
+    "Cross-Functional Team Leadership",
+    "Stakeholder Management",
+    "Risk Management",
+    "Budget Management",
+    "Project Planning",
+    "Agile Methodology",
+    "Resource Allocation",
+    "Roadmap Development",
+    "Vendor Management"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "SQL Database Querying",
+    "Change Management",
+    "PMP Certification Knowledge",
+    "Scrum Master Practices",
+    "Data Visualization",
+    "Process Reengineering"
+  ],
+  "tools": [
+    "Jira",
+    "Confluence",
+    "Microsoft Project",
+    "Asana",
+    "Smartsheet",
+    "Slack",
+    "Tableau",
+    "ServiceNow"
+  ],
+  "frameworks": [
+    "Python pandas"
+  ],
+  "responsibilities": [
+    "Lead end-to-end planning and execution of complex, cross-functional programs spanning multiple teams and business units",
+    "Develop and maintain program roadmaps, tracking key milestones, dependencies, and deliverables against committed timelines",
+    "Identify and proactively mitigate program risks, escalating critical issues to executive sponsors with proposed resolution paths",
+    "Coordinate resource allocation across engineering, product, and business teams to ensure program staffing meets delivery needs",
+    "Manage program budgets, tracking spend against forecast and reporting variances to finance and senior leadership",
+    "Facilitate steering committee meetings and executive status reviews, communicating progress, risks, and key decisions",
+    "Drive process improvements and operational rigor across teams to increase delivery predictability and program efficiency",
+    "Manage vendor and third-party partner relationships to ensure contractual deliverables align with program requirements"
+  ],
+  "keywords": [
+    "Program Manager",
+    "Program Management",
+    "Project Management",
+    "Cross-Functional Leadership",
+    "Stakeholder Management",
+    "Risk Management",
+    "Budget Management",
+    "Roadmap Development",
+    "Agile",
+    "Scrum",
+    "PMP",
+    "Resource Allocation",
+    "Vendor Management",
+    "Executive Reporting",
+    "Jira",
+    "Confluence",
+    "Microsoft Project",
+    "Change Management",
+    "Milestone Tracking",
+    "Process Improvement",
+    "Steering Committee"
+  ]
+}

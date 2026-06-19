@@ -1,0 +1,88 @@
+{
+  "role_key": "QUANTITATIVE_ANALYST",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Quant Analyst",
+    "QA",
+    "Risk Quant",
+    "Senior Quantitative Analyst",
+    "Derivatives Quant Analyst"
+  ],
+  "required_skills": [
+    "Derivatives Pricing",
+    "Risk Management",
+    "Financial Modeling",
+    "Stochastic Calculus",
+    "Statistical Analysis",
+    "Python Programming",
+    "VaR Modeling",
+    "Value at Risk",
+    "Fixed Income Analytics",
+    "Monte Carlo Simulation"
+  ],
+  "preferred_skills": [
+    "C++ Programming",
+    "Credit Risk Modeling",
+    "Regulatory Compliance Reporting",
+    "Machine Learning",
+    "Counterparty Risk Analysis",
+    "Yield Curve Modeling",
+    "SQL Database Querying"
+  ],
+  "tools": [
+    "Bloomberg Terminal",
+    "Murex",
+    "MATLAB",
+    "Excel",
+    "Refinitiv Eikon",
+    "SQL Server",
+    "Git",
+    "Tableau",
+    "Calypso"
+  ],
+  "frameworks": [
+    "NumPy",
+    "pandas",
+    "QuantLib",
+    "SciPy",
+    "scikit-learn",
+    "statsmodels"
+  ],
+  "responsibilities": [
+    "Develop and validate pricing models for derivatives, fixed income, and structured products under varying market conditions",
+    "Conduct stress testing and scenario analysis to quantify portfolio exposure under extreme market and macroeconomic events",
+    "Build Value at Risk and Expected Shortfall models to support enterprise-wide risk reporting and regulatory compliance",
+    "Collaborate with traders and risk managers to calibrate models against live market data and observed pricing discrepancies",
+    "Document model assumptions, limitations, and validation results to satisfy internal audit and regulatory examination requirements",
+    "Automate daily risk and P&L attribution reports using Python scripts integrated with internal trading systems",
+    "Perform model validation and independent review of front-office pricing models to ensure compliance with risk policy",
+    "Analyze yield curves, credit spreads, and volatility surfaces to support trading desk hedging and risk decisions"
+  ],
+  "keywords": [
+    "Quantitative Analyst",
+    "Quant Analyst",
+    "QA",
+    "Derivatives Pricing",
+    "Risk Management",
+    "Value at Risk",
+    "VaR",
+    "Monte Carlo Simulation",
+    "Stochastic Calculus",
+    "Financial Modeling",
+    "Fixed Income",
+    "Credit Risk",
+    "Market Risk",
+    "Model Validation",
+    "Regulatory Reporting",
+    "Basel III",
+    "FRTB",
+    "Python",
+    "C++",
+    "MATLAB",
+    "SQL",
+    "Stress Testing",
+    "Counterparty Risk",
+    "CFA",
+    "FRM"
+  ]
+}

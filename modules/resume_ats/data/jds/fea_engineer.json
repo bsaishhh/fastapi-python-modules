@@ -1,0 +1,82 @@
+{
+  "role_key": "FEA_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior FEA Engineer",
+    "Finite Element Analysis Engineer",
+    "Structural Analysis Engineer",
+    "CAE Engineer",
+    "Stress Engineer"
+  ],
+  "required_skills": [
+    "Finite Element Analysis",
+    "FEA",
+    "Structural Analysis",
+    "Stress Analysis",
+    "Mesh Generation",
+    "Linear Static Analysis",
+    "Modal Analysis",
+    "Fatigue Analysis"
+  ],
+  "preferred_skills": [
+    "Nonlinear Analysis",
+    "Dynamic Analysis",
+    "Vibration Analysis",
+    "Composite Materials Analysis",
+    "Topology Optimization",
+    "Crash and Impact Simulation",
+    "Python Scripting for Automation"
+  ],
+  "tools": [
+    "ANSYS Mechanical",
+    "Abaqus",
+    "Hypermesh",
+    "Nastran",
+    "Patran",
+    "SolidWorks Simulation",
+    "LS-DYNA",
+    "MATLAB"
+  ],
+  "frameworks": [
+    "ANSYS Workbench",
+    "Altair HyperWorks",
+    "MSC Nastran",
+    "Python NumPy"
+  ],
+  "responsibilities": [
+    "Perform finite element analysis to evaluate structural integrity, stress distribution, and durability of mechanical components",
+    "Build and refine finite element meshes to accurately represent complex geometries while maintaining solver efficiency",
+    "Conduct linear static, modal, fatigue, and nonlinear simulations to validate designs against load and safety requirements",
+    "Interpret simulation results and provide clear design recommendations to mechanical and product design engineers",
+    "Correlate FEA predictions with physical test data to validate model accuracy and refine boundary conditions",
+    "Support topology optimization studies to reduce part weight while maintaining structural performance targets",
+    "Document analysis methodologies, assumptions, and results in formal engineering reports for design reviews",
+    "Collaborate with design teams early in the development cycle to influence design decisions using simulation-driven insights",
+    "Automate repetitive analysis workflows using scripting to improve simulation turnaround time and consistency"
+  ],
+  "keywords": [
+    "FEA",
+    "Finite Element Analysis",
+    "Structural Analysis",
+    "Stress Analysis",
+    "CAE",
+    "Computer-Aided Engineering",
+    "Mesh Generation",
+    "Linear Static Analysis",
+    "Modal Analysis",
+    "Fatigue Analysis",
+    "Nonlinear Analysis",
+    "Dynamic Analysis",
+    "Vibration Analysis",
+    "Topology Optimization",
+    "ANSYS Mechanical",
+    "Abaqus",
+    "Hypermesh",
+    "Nastran",
+    "LS-DYNA",
+    "Composite Materials",
+    "Crash Simulation",
+    "Python Scripting",
+    "Simulation Validation"
+  ]
+}

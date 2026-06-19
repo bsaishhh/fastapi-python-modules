@@ -1,0 +1,80 @@
+{
+  "role_key": "DATA_ANALYST",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Data Analyst",
+    "Junior Data Analyst",
+    "Analytics Associate",
+    "Operations Data Analyst",
+    "Reporting Analyst"
+  ],
+  "required_skills": [
+    "SQL",
+    "Data Analysis",
+    "Excel",
+    "Data Visualization",
+    "Statistical Analysis",
+    "Dashboard Reporting",
+    "Data Cleaning",
+    "Exploratory Data Analysis (EDA)"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "A/B Testing",
+    "Forecasting and Trend Analysis",
+    "R Programming",
+    "Business Acumen",
+    "Survey Design and Analysis",
+    "Presentation and Storytelling"
+  ],
+  "tools": [
+    "Tableau",
+    "Power BI",
+    "Excel",
+    "Looker",
+    "Google Sheets",
+    "Snowflake",
+    "SQL Server",
+    "Google Analytics"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  "responsibilities": [
+    "Extract, clean, and analyze data from multiple sources to answer key business questions accurately",
+    "Build and maintain recurring reports and dashboards that track operational and business performance metrics",
+    "Write efficient SQL queries to aggregate and join data across relational databases and data warehouses",
+    "Conduct exploratory data analysis to identify trends, patterns, and anomalies in business datasets",
+    "Present analytical findings and actionable recommendations to stakeholders through clear visualizations and summaries",
+    "Collaborate with cross-functional teams to understand data needs and translate them into analytical deliverables",
+    "Validate data accuracy and consistency across reports, flagging and resolving discrepancies proactively",
+    "Support ad hoc analysis requests with quick turnaround to inform time-sensitive business decisions",
+    "Document data definitions, calculation methodologies, and report logic for organizational knowledge sharing",
+    "Identify opportunities to automate repetitive reporting tasks and streamline analytics workflows"
+  ],
+  "keywords": [
+    "Data Analyst",
+    "SQL",
+    "Excel",
+    "Data Analysis",
+    "Data Visualization",
+    "Dashboard Reporting",
+    "Statistical Analysis",
+    "Exploratory Data Analysis",
+    "EDA",
+    "Data Cleaning",
+    "Tableau",
+    "Power BI",
+    "Looker",
+    "Python",
+    "A/B Testing",
+    "Trend Analysis",
+    "Forecasting",
+    "Ad Hoc Analysis",
+    "Reporting Automation",
+    "Data Storytelling"
+  ]
+}

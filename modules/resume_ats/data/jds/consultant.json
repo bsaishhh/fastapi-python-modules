@@ -1,0 +1,79 @@
+{
+  "role_key": "CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Management Consultant",
+    "Business Consultant",
+    "Strategy & Operations Consultant",
+    "Consultant II",
+    "Engagement Consultant"
+  ],
+  "required_skills": [
+    "Problem Structuring",
+    "Client Relationship Management",
+    "Financial Modeling",
+    "Data Analysis",
+    "Project Management",
+    "PowerPoint Presentation Design",
+    "Business Strategy Development",
+    "Hypothesis-Driven Analysis",
+    "Stakeholder Management",
+    "Change Management"
+  ],
+  "preferred_skills": [
+    "SQL Database Querying",
+    "Python Programming",
+    "Industry Vertical Expertise",
+    "Operational Due Diligence",
+    "Organizational Design",
+    "Tableau Dashboard Development",
+    "Negotiation Skills"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "Power BI",
+    "Salesforce",
+    "SharePoint",
+    "Smartsheet",
+    "Microsoft Project"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Lead workstreams within client engagements, structuring problems and developing data-driven recommendations for business challenges",
+    "Manage day-to-day client relationships, serving as primary point of contact for engagement deliverables and updates",
+    "Build comprehensive financial and operational models to evaluate strategic options and quantify business impact",
+    "Facilitate client workshops and executive presentations to align stakeholders on findings, recommendations, and implementation plans",
+    "Mentor and review work of junior analysts and associates to ensure quality and rigor of engagement deliverables",
+    "Conduct competitive and market analysis to inform client strategy across growth, cost reduction, or operational initiatives",
+    "Develop implementation roadmaps and change management plans to support client adoption of recommended solutions",
+    "Manage project timelines, budgets, and resource allocation to ensure on-time, on-budget delivery of client engagements"
+  ],
+  "keywords": [
+    "Consultant",
+    "Management Consulting",
+    "Strategy Consulting",
+    "Operations Consulting",
+    "Client Relationship Management",
+    "Problem Structuring",
+    "Financial Modeling",
+    "Business Strategy",
+    "Project Management",
+    "Change Management",
+    "Stakeholder Management",
+    "Implementation Roadmap",
+    "Data Analysis",
+    "PowerPoint",
+    "Excel",
+    "Workshop Facilitation",
+    "Market Analysis",
+    "Competitive Analysis",
+    "SQL",
+    "Organizational Design",
+    "MBA"
+  ]
+}

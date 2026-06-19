@@ -1,0 +1,83 @@
+{
+  "role_key": "CFD_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior CFD Engineer",
+    "Computational Fluid Dynamics Engineer",
+    "Thermal-Fluids Engineer",
+    "CFD Analyst",
+    "Aerodynamics Engineer"
+  ],
+  "required_skills": [
+    "Computational Fluid Dynamics",
+    "CFD",
+    "Fluid Mechanics",
+    "Heat Transfer",
+    "Mesh Generation",
+    "Turbulence Modeling",
+    "Thermal Analysis",
+    "Numerical Methods"
+  ],
+  "preferred_skills": [
+    "Multiphase Flow Simulation",
+    "Aerodynamics",
+    "Conjugate Heat Transfer",
+    "Combustion Modeling",
+    "High-Performance Computing",
+    "HPC",
+    "Python Scripting for Automation",
+    "Design of Experiments"
+  ],
+  "tools": [
+    "ANSYS Fluent",
+    "ANSYS CFX",
+    "STAR-CCM+",
+    "OpenFOAM",
+    "MATLAB",
+    "Tecplot",
+    "ParaView",
+    "Linux HPC Clusters"
+  ],
+  "frameworks": [
+    "ANSYS Workbench",
+    "OpenFOAM",
+    "Simcenter STAR-CCM+",
+    "Python NumPy"
+  ],
+  "responsibilities": [
+    "Develop and run high-fidelity CFD simulations to predict fluid flow, pressure drop, and thermal performance of components",
+    "Generate high-quality computational meshes using structured and unstructured techniques to balance accuracy and solve time",
+    "Apply turbulence and heat transfer models to simulate real-world operating conditions across diverse engineering systems",
+    "Analyze simulation results and translate findings into actionable design recommendations for mechanical engineering teams",
+    "Validate CFD models against experimental test data to ensure simulation accuracy and build confidence in predictions",
+    "Automate simulation workflows using scripting languages to accelerate design of experiments and parametric studies",
+    "Collaborate with thermal and mechanical design engineers to optimize cooling systems, ducting, and airflow pathways",
+    "Present simulation findings and technical recommendations to cross-functional stakeholders and leadership",
+    "Run simulations on high-performance computing clusters to manage large-scale, computationally intensive models"
+  ],
+  "keywords": [
+    "CFD",
+    "Computational Fluid Dynamics",
+    "Fluid Mechanics",
+    "Heat Transfer",
+    "Thermal Analysis",
+    "Turbulence Modeling",
+    "Mesh Generation",
+    "Meshing",
+    "ANSYS Fluent",
+    "ANSYS CFX",
+    "STAR-CCM+",
+    "OpenFOAM",
+    "MATLAB",
+    "Aerodynamics",
+    "Multiphase Flow",
+    "Combustion Modeling",
+    "High-Performance Computing",
+    "HPC",
+    "Numerical Methods",
+    "Design of Experiments",
+    "DOE",
+    "Simulation Validation",
+    "Python Scripting"
+  ]
+}

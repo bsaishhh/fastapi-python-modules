@@ -1,0 +1,84 @@
+{
+  "role_key": "VLSI_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "VLSI Design Engineer",
+    "ASIC Design Engineer",
+    "Digital Design Engineer",
+    "RTL Design Engineer",
+    "Physical Design Engineer"
+  ],
+  "required_skills": [
+    "RTL Design (Register-Transfer Level Design)",
+    "Verilog",
+    "VHDL",
+    "ASIC Design (Application-Specific Integrated Circuit Design)",
+    "Digital Logic Design",
+    "Synthesis",
+    "Static Timing Analysis (STA)",
+    "Verification & Testbench Development"
+  ],
+  "preferred_skills": [
+    "Physical Design (Place & Route)",
+    "Low-Power Design Techniques (UPF)",
+    "UVM (Universal Verification Methodology)",
+    "FPGA Prototyping",
+    "DFT (Design for Testability)",
+    "CMOS Circuit Design"
+  ],
+  "tools": [
+    "Cadence Virtuoso",
+    "Synopsys Design Compiler",
+    "Cadence Innovus",
+    "Mentor Graphics Questa",
+    "Synopsys PrimeTime",
+    "Xilinx Vivado",
+    "Cadence Genus",
+    "Synopsys VCS"
+  ],
+  "frameworks": [
+    "UVM",
+    "SystemVerilog",
+    "OVM",
+    "Synopsys Design Constraints (SDC)"
+  ],
+  "responsibilities": [
+    "Design and implement RTL code in Verilog/VHDL for digital blocks, ensuring functional correctness and timing closure.",
+    "Develop and execute synthesis, static timing analysis (STA), and timing closure flows using Synopsys Design Compiler and PrimeTime.",
+    "Build UVM-based verification testbenches and constrained-random test environments to validate functional coverage of RTL designs.",
+    "Collaborate with physical design teams on floorplanning, place and route, and clock tree synthesis for chip layout.",
+    "Perform design-for-testability (DFT) insertion including scan chains, ATPG, and built-in self-test for manufacturing test coverage.",
+    "Debug simulation mismatches, timing violations, and functional bugs using waveform analysis tools and formal verification methods.",
+    "Implement low-power design techniques such as clock gating, power gating, and multi-voltage domains using UPF methodology.",
+    "Review design specifications and architecture documents to translate system requirements into synthesizable RTL implementations.",
+    "Coordinate with foundry and EDA vendor teams on process design kits (PDK) and tapeout readiness reviews.",
+    "Conduct code reviews and maintain coding guidelines to ensure RTL design quality and reusability across projects."
+  ],
+  "keywords": [
+    "VLSI",
+    "VLSI Design",
+    "RTL Design",
+    "Register-Transfer Level",
+    "Verilog",
+    "VHDL",
+    "SystemVerilog",
+    "ASIC Design",
+    "Digital Logic Design",
+    "Synthesis",
+    "Static Timing Analysis",
+    "STA",
+    "UVM",
+    "Universal Verification Methodology",
+    "Physical Design",
+    "Place and Route",
+    "DFT",
+    "Design for Testability",
+    "CMOS",
+    "Low-Power Design",
+    "UPF",
+    "Cadence Virtuoso",
+    "Synopsys Design Compiler",
+    "FPGA Prototyping",
+    "Tapeout"
+  ]
+}

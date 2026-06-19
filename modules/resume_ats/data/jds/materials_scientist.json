@@ -1,0 +1,82 @@
+{
+  "role_key": "MATERIALS_SCIENTIST",
+  "family": "Core Science & R&D",
+  "sub_roles": [
+    "Materials Engineer",
+    "Senior Materials Scientist",
+    "R&D Materials Scientist",
+    "Polymer Scientist",
+    "Materials Research Scientist"
+  ],
+  "required_skills": [
+    "Materials Characterization",
+    "Scanning Electron Microscopy (SEM)",
+    "X-Ray Diffraction (XRD)",
+    "Mechanical Testing",
+    "Thermal Analysis",
+    "Polymer Science",
+    "Metallurgy",
+    "Failure Analysis",
+    "Materials Selection"
+  ],
+  "preferred_skills": [
+    "Nanomaterials",
+    "Composite Materials",
+    "Finite Element Analysis (FEA)",
+    "Additive Manufacturing",
+    "Surface Engineering",
+    "Computational Materials Modeling",
+    "Corrosion Analysis"
+  ],
+  "tools": [
+    "JEOL SEM",
+    "Bruker XRD",
+    "Instron",
+    "TA Instruments DSC",
+    "ANSYS",
+    "MATLAB",
+    "Zeiss Microscopy Systems",
+    "Malvern Panalytical"
+  ],
+  "frameworks": [
+    "ASTM Standards",
+    "Six Sigma",
+    "ISO 9001"
+  ],
+  "responsibilities": [
+    "Characterize material properties using SEM, XRD, and thermal analysis techniques to support new product development",
+    "Design and conduct mechanical testing protocols to evaluate tensile strength, fatigue, and durability of new materials",
+    "Investigate field and lab failures through root cause failure analysis to determine fracture mechanisms and material defects",
+    "Develop novel polymer and composite formulations to meet performance, cost, and sustainability targets",
+    "Collaborate with manufacturing and process engineering teams to scale lab-validated materials into production environments",
+    "Author technical reports and present materials characterization findings to cross-functional product development teams",
+    "Apply computational modeling and finite element analysis to predict material behavior under varying environmental conditions",
+    "Evaluate alternative materials and suppliers to optimize cost, performance, and regulatory compliance across product lines"
+  ],
+  "keywords": [
+    "Materials Characterization",
+    "SEM",
+    "Scanning Electron Microscopy",
+    "XRD",
+    "X-Ray Diffraction",
+    "Mechanical Testing",
+    "Thermal Analysis",
+    "Polymer Science",
+    "Metallurgy",
+    "Failure Analysis",
+    "Nanomaterials",
+    "Composite Materials",
+    "FEA",
+    "Finite Element Analysis",
+    "Additive Manufacturing",
+    "3D Printing",
+    "Surface Engineering",
+    "Corrosion Analysis",
+    "ASTM Standards",
+    "Materials Selection",
+    "Computational Materials Modeling",
+    "Six Sigma",
+    "Product Development",
+    "R&D"
+  ]
+}

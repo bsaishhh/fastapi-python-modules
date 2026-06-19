@@ -1,0 +1,85 @@
+{
+  "role_key": "OPTIMIZATION_ENGINEER",
+  "family": "Core Science & R&D",
+  "sub_roles": [
+    "Optimization Scientist",
+    "Senior Optimization Engineer",
+    "Algorithm Engineer",
+    "Mathematical Optimization Engineer",
+    "Applied Optimization Researcher"
+  ],
+  "required_skills": [
+    "Mathematical Optimization",
+    "Convex Optimization",
+    "Linear Programming",
+    "Nonlinear Programming",
+    "Algorithm Design",
+    "Python Programming",
+    "C++ Programming",
+    "Numerical Methods",
+    "Operations Research"
+  ],
+  "preferred_skills": [
+    "Mixed-Integer Programming (MIP)",
+    "Metaheuristics",
+    "Reinforcement Learning",
+    "Constraint Programming",
+    "Distributed Computing",
+    "Cloud-Based Optimization Solvers",
+    "Graph Theory"
+  ],
+  "tools": [
+    "Gurobi",
+    "IBM CPLEX",
+    "FICO Xpress",
+    "AWS",
+    "Google Cloud Platform",
+    "Docker",
+    "Git",
+    "Jupyter Notebook"
+  ],
+  "frameworks": [
+    "Pyomo",
+    "SciPy",
+    "PuLP",
+    "Google OR-Tools",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "responsibilities": [
+    "Design and implement mathematical optimization models to solve complex scheduling, routing, and resource allocation problems",
+    "Develop efficient algorithms in Python and C++ to reduce solver runtime for large-scale combinatorial optimization problems",
+    "Formulate mixed-integer and nonlinear programming models to optimize business-critical operational and engineering processes",
+    "Benchmark and tune commercial solvers such as Gurobi and CPLEX to improve convergence speed and solution quality",
+    "Collaborate with software engineering teams to integrate optimization models into production-grade decision systems",
+    "Conduct sensitivity and scenario analysis to validate model robustness against real-world operational constraints",
+    "Research and prototype novel heuristic and metaheuristic algorithms to solve NP-hard optimization challenges",
+    "Document mathematical formulations and algorithmic approaches to support reproducibility and knowledge transfer"
+  ],
+  "keywords": [
+    "Mathematical Optimization",
+    "Convex Optimization",
+    "Linear Programming",
+    "LP",
+    "Nonlinear Programming",
+    "Mixed-Integer Programming",
+    "MIP",
+    "Algorithm Design",
+    "Python",
+    "C++",
+    "Numerical Methods",
+    "Operations Research",
+    "Metaheuristics",
+    "Reinforcement Learning",
+    "Constraint Programming",
+    "Distributed Computing",
+    "Gurobi",
+    "CPLEX",
+    "OR-Tools",
+    "Combinatorial Optimization",
+    "Scheduling Optimization",
+    "Resource Allocation",
+    "Graph Theory",
+    "Solver Tuning"
+  ]
+}

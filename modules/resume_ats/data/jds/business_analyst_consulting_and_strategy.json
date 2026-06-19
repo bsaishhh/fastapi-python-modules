@@ -1,0 +1,81 @@
+{
+  "role_key": "BUSINESS_ANALYST",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "BA",
+    "Business Systems Analyst",
+    "Junior Business Analyst",
+    "Process Analyst",
+    "Business Operations Analyst"
+  ],
+  "required_skills": [
+    "Requirements Gathering",
+    "Business Process Mapping",
+    "Stakeholder Management",
+    "Data Analysis",
+    "SQL Database Querying",
+    "Excel Modeling",
+    "Gap Analysis",
+    "Process Improvement",
+    "Documentation Writing",
+    "Problem Solving"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Agile Methodology",
+    "Data Visualization",
+    "Financial Analysis",
+    "Change Management",
+    "User Acceptance Testing",
+    "Business Case Development"
+  ],
+  "tools": [
+    "Excel",
+    "Jira",
+    "Confluence",
+    "Tableau",
+    "Power BI",
+    "SQL Server",
+    "Visio",
+    "SharePoint"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Gather and document detailed business requirements through stakeholder interviews, workshops, and process observation sessions",
+    "Analyze existing business processes to identify inefficiencies and recommend data-driven improvements to operations and workflows",
+    "Create process flow diagrams, use cases, and functional specifications to guide technical teams during solution development",
+    "Conduct gap analysis between current state and desired future state to define scope for process or system improvements",
+    "Build and maintain dashboards and reports using SQL and BI tools to track key performance indicators for stakeholders",
+    "Facilitate cross-functional meetings between business units and technology teams to align on project requirements and priorities",
+    "Support user acceptance testing by developing test cases and validating that delivered solutions meet business requirements",
+    "Prepare business cases and cost-benefit analyses to justify proposed process changes or technology investments"
+  ],
+  "keywords": [
+    "Business Analyst",
+    "BA",
+    "Requirements Gathering",
+    "Business Process Mapping",
+    "Process Improvement",
+    "Gap Analysis",
+    "Stakeholder Management",
+    "Data Analysis",
+    "SQL",
+    "Excel",
+    "Agile",
+    "Scrum",
+    "Use Cases",
+    "Functional Specifications",
+    "User Acceptance Testing",
+    "UAT",
+    "Business Case",
+    "KPI Reporting",
+    "Tableau",
+    "Power BI",
+    "Jira",
+    "Change Management",
+    "CBAP"
+  ]
+}

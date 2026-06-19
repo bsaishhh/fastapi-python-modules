@@ -1,0 +1,77 @@
+{
+  "role_key": "SENIOR_CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Senior Management Consultant",
+    "Engagement Manager",
+    "Project Lead Consultant",
+    "Senior Strategy Consultant",
+    "Consultant III"
+  ],
+  "required_skills": [
+    "Engagement Leadership",
+    "Client Relationship Management",
+    "Business Strategy Development",
+    "Team Management",
+    "Financial Modeling",
+    "Problem Structuring",
+    "Project Management",
+    "Stakeholder Management",
+    "Business Development",
+    "Change Management"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Industry Vertical Expertise",
+    "Mergers and Acquisitions Strategy",
+    "Organizational Transformation",
+    "Negotiation Skills",
+    "SQL Database Querying",
+    "Proposal Writing"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "Power BI",
+    "Salesforce",
+    "Microsoft Project",
+    "SharePoint"
+  ],
+  "frameworks": [
+    "Python pandas"
+  ],
+  "responsibilities": [
+    "Lead end-to-end client engagements, owning overall project scope, timeline, budget, and quality of final deliverables",
+    "Manage and mentor teams of consultants and analysts, providing guidance on analytical approach and professional development",
+    "Build and sustain senior client relationships, identifying opportunities to expand engagement scope and drive follow-on work",
+    "Develop and present strategic recommendations to C-suite executives and boards, translating complex analysis into clear narratives",
+    "Oversee development of financial models and business cases that quantify the impact of proposed strategic initiatives",
+    "Contribute to business development efforts including proposal writing, client pitches, and scoping of new engagements",
+    "Drive organizational change initiatives by designing implementation plans and managing client-side stakeholder buy-in",
+    "Identify and resolve engagement risks proactively, escalating issues and ensuring alignment with partner and client expectations"
+  ],
+  "keywords": [
+    "Senior Consultant",
+    "Engagement Manager",
+    "Management Consulting",
+    "Strategy Consulting",
+    "Client Relationship Management",
+    "Team Management",
+    "Business Development",
+    "Financial Modeling",
+    "Project Management",
+    "C-Suite Presentations",
+    "Change Management",
+    "Organizational Transformation",
+    "Proposal Writing",
+    "Stakeholder Management",
+    "Business Strategy",
+    "PowerPoint",
+    "Excel",
+    "Mergers and Acquisitions",
+    "Mentorship",
+    "MBA",
+    "P&L Ownership"
+  ]
+}

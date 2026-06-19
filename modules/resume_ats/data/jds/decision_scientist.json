@@ -1,0 +1,83 @@
+{
+  "role_key": "DECISION_SCIENTIST",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Senior Decision Scientist",
+    "Business Decision Scientist",
+    "Decision Analytics Scientist",
+    "Quantitative Decision Scientist",
+    "Strategy and Decision Science Lead"
+  ],
+  "required_skills": [
+    "Decision Modeling",
+    "Statistical Analysis",
+    "Causal Inference",
+    "Python Programming",
+    "SQL",
+    "Optimization Techniques",
+    "A/B Testing",
+    "Business Strategy Analysis"
+  ],
+  "preferred_skills": [
+    "Machine Learning",
+    "Operations Research",
+    "Econometrics",
+    "Forecasting and Demand Planning",
+    "Simulation Modeling",
+    "R Programming",
+    "Stakeholder Communication"
+  ],
+  "tools": [
+    "Tableau",
+    "Snowflake",
+    "Databricks",
+    "Looker",
+    "Excel",
+    "AWS",
+    "Power BI",
+    "Jupyter"
+  ],
+  "frameworks": [
+    "Pandas",
+    "Scikit-learn",
+    "Statsmodels",
+    "PuLP",
+    "NumPy",
+    "SciPy"
+  ],
+  "responsibilities": [
+    "Translate complex business questions into structured analytical frameworks that drive executive decision-making",
+    "Build optimization models that recommend resource allocation, pricing, or operational strategies under constraints",
+    "Design and analyze controlled experiments to isolate causal impact of business interventions on key metrics",
+    "Develop forecasting models to predict demand, revenue, and operational metrics across business units",
+    "Partner with senior leadership to evaluate trade-offs between competing strategic initiatives using quantitative analysis",
+    "Build simulation models to stress-test business scenarios and quantify risk under varying assumptions",
+    "Communicate complex analytical findings through clear narratives and visualizations tailored to executive audiences",
+    "Collaborate with data engineering teams to ensure reliable, high-quality data feeds for decision models",
+    "Develop and maintain econometric models to measure long-term effects of pricing and marketing decisions",
+    "Establish frameworks for ongoing measurement and monitoring of strategic initiative performance"
+  ],
+  "keywords": [
+    "Decision Scientist",
+    "Decision Science",
+    "Decision Modeling",
+    "Causal Inference",
+    "Optimization",
+    "Operations Research",
+    "Econometrics",
+    "A/B Testing",
+    "Experimental Design",
+    "Forecasting",
+    "Demand Planning",
+    "Simulation Modeling",
+    "Statistical Analysis",
+    "Business Strategy",
+    "Python",
+    "SQL",
+    "Pandas",
+    "Scikit-learn",
+    "Quantitative Analysis",
+    "Resource Allocation",
+    "Risk Analysis"
+  ]
+}

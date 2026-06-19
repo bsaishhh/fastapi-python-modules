@@ -1,0 +1,77 @@
+{
+  "role_key": "MANAGEMENT_CONSULTANT",
+  "family": "Consulting & Strategy",
+  "sub_roles": [
+    "Business Consultant",
+    "Strategy & Operations Consultant",
+    "Senior Management Consultant",
+    "Generalist Consultant",
+    "MBB Consultant"
+  ],
+  "required_skills": [
+    "Problem Structuring",
+    "Business Strategy Development",
+    "Financial Modeling",
+    "Client Relationship Management",
+    "Data-Driven Decision Making",
+    "Project Management",
+    "Stakeholder Management",
+    "Hypothesis-Driven Analysis",
+    "Operational Improvement",
+    "Change Management"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "SQL Database Querying",
+    "Organizational Design",
+    "Industry Vertical Expertise",
+    "Mergers and Acquisitions Strategy",
+    "Tableau Dashboard Development",
+    "Negotiation Skills"
+  ],
+  "tools": [
+    "Excel",
+    "PowerPoint",
+    "Tableau",
+    "Power BI",
+    "Salesforce",
+    "SharePoint",
+    "Microsoft Project"
+  ],
+  "frameworks": [
+    "Python pandas",
+    "VBA"
+  ],
+  "responsibilities": [
+    "Lead client engagements to diagnose business problems and develop data-driven strategic and operational recommendations",
+    "Structure complex business problems into testable hypotheses and design analytical approaches to validate them",
+    "Build financial and operational models to quantify the impact of proposed strategic initiatives on client performance",
+    "Facilitate executive workshops and steering committee meetings to align client leadership on strategic direction and priorities",
+    "Manage cross-functional project teams, coordinating analysts and subject matter experts to deliver engagement milestones",
+    "Develop and present compelling findings and recommendations to C-suite executives in client-ready presentations",
+    "Design implementation roadmaps and change management plans to drive client adoption of recommended initiatives",
+    "Cultivate long-term client relationships, identifying opportunities for follow-on engagements and expanded scope of work"
+  ],
+  "keywords": [
+    "Management Consultant",
+    "Management Consulting",
+    "Strategy Consulting",
+    "Operations Consulting",
+    "Problem Structuring",
+    "Business Strategy",
+    "Financial Modeling",
+    "Project Management",
+    "Change Management",
+    "Stakeholder Management",
+    "Client Relationship Management",
+    "Implementation Roadmap",
+    "Hypothesis-Driven Analysis",
+    "PowerPoint",
+    "Excel",
+    "C-Suite Presentations",
+    "Organizational Design",
+    "Operational Improvement",
+    "MBA",
+    "Mergers and Acquisitions"
+  ]
+}

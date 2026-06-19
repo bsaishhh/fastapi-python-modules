@@ -1,0 +1,84 @@
+{
+  "role_key": "SPEECH_AI_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Speech Recognition Engineer",
+    "Voice AI Engineer",
+    "Senior Speech AI Engineer",
+    "Audio Machine Learning Engineer",
+    "Conversational Voice Engineer"
+  ],
+  "required_skills": [
+    "Automatic Speech Recognition (ASR)",
+    "Text-to-Speech (TTS)",
+    "Audio Signal Processing",
+    "Python Programming",
+    "Deep Learning",
+    "Acoustic Modeling",
+    "Model Fine-Tuning"
+  ],
+  "preferred_skills": [
+    "Speaker Diarization",
+    "Voice Activity Detection (VAD)",
+    "Multilingual Speech Processing",
+    "Real-Time Audio Streaming",
+    "Natural Language Processing (NLP)",
+    "Noise Suppression and Echo Cancellation",
+    "Edge Deployment for Audio Models"
+  ],
+  "tools": [
+    "NVIDIA CUDA",
+    "AWS SageMaker",
+    "Docker",
+    "Weights & Biases",
+    "Label Studio",
+    "FFmpeg",
+    "Jetson",
+    "ONNX Runtime"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "TensorFlow",
+    "Hugging Face Transformers",
+    "Whisper",
+    "Kaldi",
+    "ESPnet",
+    "Coqui TTS"
+  ],
+  "responsibilities": [
+    "Design and train automatic speech recognition models that accurately transcribe audio across diverse accents",
+    "Develop text-to-speech systems that generate natural, expressive synthetic voices for product applications",
+    "Build audio preprocessing pipelines including noise suppression, voice activity detection, and signal normalization",
+    "Fine-tune pretrained speech models such as Whisper on domain-specific and multilingual audio datasets",
+    "Optimize speech model inference for real-time, low-latency streaming applications on edge and cloud devices",
+    "Implement speaker diarization systems to distinguish and label multiple speakers within audio recordings",
+    "Evaluate speech model accuracy using word error rate and other domain-specific quality metrics",
+    "Collaborate with product teams to integrate voice capabilities into conversational AI and IVR systems",
+    "Curate and annotate audio datasets, establishing labeling guidelines to ensure transcription quality",
+    "Deploy optimized speech models to production using ONNX and quantization techniques for efficient inference"
+  ],
+  "keywords": [
+    "Speech AI Engineer",
+    "ASR",
+    "Automatic Speech Recognition",
+    "TTS",
+    "Text-to-Speech",
+    "Speech Recognition",
+    "Audio Signal Processing",
+    "Acoustic Modeling",
+    "Speaker Diarization",
+    "Voice Activity Detection",
+    "VAD",
+    "Whisper",
+    "Kaldi",
+    "ESPnet",
+    "Voice AI",
+    "Conversational AI",
+    "Multilingual Speech Processing",
+    "Real-Time Streaming",
+    "Word Error Rate",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow"
+  ]
+}

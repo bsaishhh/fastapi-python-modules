@@ -1,0 +1,78 @@
+{
+  "role_key": "DATA_GOVERNANCE_SPECIALIST",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Data Governance Specialist",
+    "Data Governance Analyst",
+    "Data Stewardship Lead",
+    "Data Quality and Governance Specialist",
+    "Master Data Governance Manager"
+  ],
+  "required_skills": [
+    "Data Governance",
+    "Data Quality Management",
+    "Master Data Management (MDM)",
+    "Metadata Management",
+    "Data Cataloging",
+    "Data Stewardship",
+    "Regulatory Compliance",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "Data Privacy Regulations (GDPR, CCPA)",
+    "Data Lineage Mapping",
+    "Python Programming",
+    "Data Classification and Tagging",
+    "Change Management",
+    "Cross-Functional Training Delivery",
+    "Data Security Frameworks"
+  ],
+  "tools": [
+    "Collibra",
+    "Alation",
+    "Snowflake",
+    "Informatica",
+    "AWS",
+    "Microsoft Purview",
+    "SQL Server",
+    "ServiceNow"
+  ],
+  "frameworks": [
+    "DAMA-DMBOK",
+    "Pandas"
+  ],
+  "responsibilities": [
+    "Develop and implement data governance policies and standards that ensure data quality and consistency",
+    "Establish data stewardship processes that assign clear ownership and accountability for critical data assets",
+    "Build and maintain a centralized data catalog that documents data definitions, lineage, and ownership",
+    "Conduct data quality assessments and implement remediation plans to address identified data issues",
+    "Ensure organizational compliance with data privacy regulations such as GDPR and CCPA across all data assets",
+    "Define and enforce master data management standards to maintain a single source of truth for key entities",
+    "Collaborate with data engineering and IT teams to implement data lineage tracking across the data lifecycle",
+    "Train business and technical teams on data governance policies, tools, and best practices",
+    "Monitor and report on data governance KPIs, including data quality scores and policy compliance rates",
+    "Lead cross-functional governance councils to resolve data ownership conflicts and prioritize remediation efforts"
+  ],
+  "keywords": [
+    "Data Governance Specialist",
+    "Data Governance",
+    "Data Quality Management",
+    "Master Data Management",
+    "MDM",
+    "Metadata Management",
+    "Data Cataloging",
+    "Data Stewardship",
+    "Data Lineage",
+    "Regulatory Compliance",
+    "GDPR",
+    "CCPA",
+    "Data Privacy",
+    "Data Classification",
+    "Collibra",
+    "Alation",
+    "Microsoft Purview",
+    "DAMA-DMBOK",
+    "Data Security",
+    "Compliance Monitoring"
+  ]
+}

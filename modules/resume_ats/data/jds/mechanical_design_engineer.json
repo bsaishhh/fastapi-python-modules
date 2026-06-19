@@ -1,0 +1,88 @@
+{
+  "role_key": "MECHANICAL_DESIGN_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Mechanical Design Engineer",
+    "Mechanical Engineer",
+    "Design Engineer",
+    "Mechanical Engineering Specialist",
+    "Product Mechanical Engineer"
+  ],
+  "required_skills": [
+    "Mechanical Design",
+    "Geometric Dimensioning and Tolerancing",
+    "GD&T",
+    "Design for Manufacturing",
+    "DFM",
+    "Design for Assembly",
+    "DFA",
+    "3D Modeling",
+    "Engineering Drawings",
+    "Material Selection"
+  ],
+  "preferred_skills": [
+    "Tolerance Stack-Up Analysis",
+    "Sheet Metal Design",
+    "Injection Molded Part Design",
+    "Root Cause Analysis",
+    "Design Verification Testing",
+    "DVT",
+    "Vendor and Supplier Coordination",
+    "Cost Reduction Engineering"
+  ],
+  "tools": [
+    "SolidWorks",
+    "Creo",
+    "AutoCAD",
+    "PTC Windchill",
+    "PDM",
+    "Siemens NX",
+    "Jira",
+    "Microsoft Project",
+    "Teamcenter"
+  ],
+  "frameworks": [
+    "SolidWorks Simulation",
+    "ANSYS Mechanical",
+    "MathCAD",
+    "Minitab"
+  ],
+  "responsibilities": [
+    "Design and develop mechanical components and assemblies from concept through production using 3D CAD modeling tools",
+    "Create detailed engineering drawings with GD&T callouts to communicate manufacturing and inspection requirements clearly",
+    "Conduct tolerance stack-up analyses to ensure proper fit, form, and function across complex mechanical assemblies",
+    "Collaborate with manufacturing and supply chain teams to optimize designs for cost-effective production and assembly",
+    "Lead design reviews with cross-functional stakeholders to validate engineering decisions against product requirements",
+    "Select appropriate materials and manufacturing processes based on mechanical, thermal, and cost constraints",
+    "Build and test functional prototypes to validate design intent prior to tooling and mass production",
+    "Manage engineering change orders and maintain accurate documentation within the PDM system",
+    "Troubleshoot field and production issues by performing root cause analysis and implementing corrective design changes"
+  ],
+  "keywords": [
+    "Mechanical Design",
+    "GD&T",
+    "Geometric Dimensioning and Tolerancing",
+    "Design for Manufacturing",
+    "DFM",
+    "Design for Assembly",
+    "DFA",
+    "SolidWorks",
+    "Creo",
+    "AutoCAD",
+    "Siemens NX",
+    "3D Modeling",
+    "CAD",
+    "Engineering Drawings",
+    "Tolerance Stack-Up Analysis",
+    "Sheet Metal Design",
+    "Injection Molding",
+    "Prototyping",
+    "Material Selection",
+    "Bill of Materials",
+    "BOM",
+    "Engineering Change Order",
+    "ECO",
+    "PDM",
+    "Root Cause Analysis"
+  ]
+}

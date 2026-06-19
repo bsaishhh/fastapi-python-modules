@@ -1,0 +1,87 @@
+{
+  "role_key": "MLOPS_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "Machine Learning Operations Engineer",
+    "Senior MLOps Engineer",
+    "ML Platform Engineer",
+    "ML Infrastructure Engineer",
+    "AI Platform Engineer"
+  ],
+  "required_skills": [
+    "MLOps",
+    "CI/CD for Machine Learning",
+    "Model Deployment",
+    "Containerization",
+    "Python Programming",
+    "Infrastructure as Code (IaC)",
+    "Model Monitoring and Observability",
+    "Kubernetes Orchestration"
+  ],
+  "preferred_skills": [
+    "Feature Store Design",
+    "Distributed Training Infrastructure",
+    "GPU Cluster Management",
+    "Data Versioning",
+    "Cost Optimization for ML Workloads",
+    "Model Registry Management",
+    "A/B Testing Infrastructure"
+  ],
+  "tools": [
+    "Kubernetes",
+    "Docker",
+    "AWS SageMaker",
+    "MLflow",
+    "Terraform",
+    "Airflow",
+    "Kubeflow",
+    "Prometheus",
+    "Grafana",
+    "Jenkins"
+  ],
+  "frameworks": [
+    "TensorFlow Extended (TFX)",
+    "PyTorch",
+    "Kubeflow Pipelines",
+    "Apache Spark MLlib",
+    "BentoML"
+  ],
+  "responsibilities": [
+    "Design and maintain CI/CD pipelines that automate model training, validation, and deployment to production",
+    "Build and manage scalable ML infrastructure on Kubernetes to support training and real-time inference workloads",
+    "Implement model monitoring systems that detect data drift, performance degradation, and prediction anomalies",
+    "Develop infrastructure-as-code templates using Terraform to provision reproducible ML training environments",
+    "Manage feature stores and model registries to ensure consistency and governance across ML teams",
+    "Optimize GPU and compute resource allocation to reduce training and inference costs across the ML platform",
+    "Collaborate with data scientists and ML engineers to streamline the path from experimentation to production",
+    "Establish versioning and rollback strategies for models, datasets, and training pipelines to ensure reliability",
+    "Build observability dashboards using Prometheus and Grafana to track model and infrastructure health metrics",
+    "Troubleshoot production ML system incidents, conducting root cause analysis and implementing preventive measures"
+  ],
+  "keywords": [
+    "MLOps Engineer",
+    "MLOps",
+    "CI/CD",
+    "Continuous Integration",
+    "Continuous Deployment",
+    "Model Deployment",
+    "Model Monitoring",
+    "Model Registry",
+    "Feature Store",
+    "Kubernetes",
+    "K8s",
+    "Docker",
+    "Containerization",
+    "Infrastructure as Code",
+    "IaC",
+    "Terraform",
+    "Kubeflow",
+    "MLflow",
+    "Data Versioning",
+    "GPU Cluster Management",
+    "Observability",
+    "Prometheus",
+    "Grafana",
+    "ML Platform Engineering"
+  ]
+}

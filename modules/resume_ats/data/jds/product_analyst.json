@@ -1,0 +1,79 @@
+{
+  "role_key": "PRODUCT_ANALYST",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Product Analyst",
+    "Product Data Analyst",
+    "Growth Analyst",
+    "Product Insights Analyst",
+    "Product Analytics Lead"
+  ],
+  "required_skills": [
+    "Product Analytics",
+    "SQL",
+    "A/B Testing",
+    "Funnel Analysis",
+    "Data Visualization",
+    "User Behavior Analysis",
+    "Experimentation Design",
+    "Cohort Analysis"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Causal Inference",
+    "Statistical Analysis",
+    "SQL Query Optimization",
+    "Product Strategy Collaboration",
+    "Retention and Churn Modeling",
+    "R Programming"
+  ],
+  "tools": [
+    "Amplitude",
+    "Mixpanel",
+    "Looker",
+    "Tableau",
+    "Snowflake",
+    "Google Analytics",
+    "Segment",
+    "Jira"
+  ],
+  "frameworks": [
+    "Pandas",
+    "NumPy",
+    "Statsmodels"
+  ],
+  "responsibilities": [
+    "Analyze user behavior data to identify opportunities for improving product engagement and retention",
+    "Design and analyze A/B tests to measure the impact of new features on key product metrics",
+    "Build funnel and cohort analyses to uncover drop-off points and opportunities across the user journey",
+    "Partner with product managers to define success metrics and instrumentation requirements for new features",
+    "Develop self-service dashboards that allow product teams to monitor key performance indicators independently",
+    "Conduct deep-dive analyses into user segments to inform targeted product and growth strategies",
+    "Translate complex data findings into clear, actionable recommendations for product roadmap prioritization",
+    "Collaborate with data engineering teams to ensure accurate, reliable event tracking and data instrumentation",
+    "Monitor product health metrics and proactively flag anomalies or significant shifts in user behavior",
+    "Present analytical insights and experiment results to product and leadership teams to guide decision-making"
+  ],
+  "keywords": [
+    "Product Analyst",
+    "Product Analytics",
+    "A/B Testing",
+    "Experimentation",
+    "Funnel Analysis",
+    "Cohort Analysis",
+    "User Behavior Analysis",
+    "Retention Analysis",
+    "Churn Analysis",
+    "SQL",
+    "Amplitude",
+    "Mixpanel",
+    "Google Analytics",
+    "Data Visualization",
+    "Product Metrics",
+    "Growth Analytics",
+    "Statistical Analysis",
+    "Causal Inference",
+    "Event Tracking",
+    "Python"
+  ]
+}

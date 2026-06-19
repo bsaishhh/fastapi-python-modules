@@ -1,0 +1,91 @@
+{
+  "role_key": "ROBOTICS_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "Robotics Systems Engineer",
+    "Mechatronics Engineer",
+    "Robotics R&D Engineer",
+    "Autonomous Systems Engineer",
+    "Robotics Engineer II"
+  ],
+  "required_skills": [
+    "Robot Operating System (ROS)",
+    "ROS2",
+    "Embedded Systems Programming",
+    "C++ Programming",
+    "Control Systems Design",
+    "Kinematics and Dynamics",
+    "Sensor Integration",
+    "Python Programming",
+    "Mechatronics",
+    "Real-Time Systems"
+  ],
+  "preferred_skills": [
+    "Path Planning Algorithms",
+    "Motion Control",
+    "PID Tuning",
+    "CAD Design",
+    "Robot Kinematics Simulation",
+    "Embedded Linux",
+    "Firmware Development",
+    "PCB Design"
+  ],
+  "tools": [
+    "ROS",
+    "ROS2",
+    "Gazebo",
+    "SolidWorks",
+    "MATLAB",
+    "Simulink",
+    "Git",
+    "Jira",
+    "Jenkins",
+    "Docker"
+  ],
+  "frameworks": [
+    "ROS",
+    "ROS2",
+    "MoveIt",
+    "OpenCV",
+    "PyTorch",
+    "Eigen"
+  ],
+  "responsibilities": [
+    "Design and prototype robotic mechanisms and control systems for autonomous mobile platforms operating in unstructured environments",
+    "Develop and integrate embedded firmware for motor controllers, sensors, and actuators using C++ and real-time operating systems",
+    "Build and tune control loops including PID and model predictive control for precise robotic arm and platform movement",
+    "Collaborate with mechanical and electrical engineering teams to integrate sensors, actuators, and compute hardware into robot platforms",
+    "Implement and validate kinematic and dynamic models to simulate robot behavior before physical deployment using MATLAB and Simulink",
+    "Conduct hardware-in-the-loop testing and field trials to validate robot performance, reliability, and safety under real-world conditions",
+    "Architect ROS-based software stacks that coordinate perception, planning, and control modules across distributed robotic subsystems",
+    "Debug and optimize embedded code to meet strict latency, power, and memory constraints on resource-limited robotics hardware",
+    "Document system architecture, test procedures, and design decisions to support cross-functional collaboration and regulatory compliance"
+  ],
+  "keywords": [
+    "Robotics",
+    "ROS",
+    "ROS2",
+    "Robot Operating System",
+    "C++",
+    "Python",
+    "Embedded Systems",
+    "Control Systems",
+    "PID Control",
+    "Kinematics",
+    "Dynamics",
+    "Mechatronics",
+    "Sensor Fusion",
+    "Motion Planning",
+    "Path Planning",
+    "Gazebo Simulation",
+    "SolidWorks",
+    "MATLAB",
+    "Simulink",
+    "Real-Time Systems",
+    "Embedded Linux",
+    "Firmware Development",
+    "Autonomous Systems",
+    "Robotic Arms",
+    "Hardware-in-the-Loop Testing"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "role_key": "PRODUCTION_ENGINEER",
+  "family": "Mechanical & Manufacturing",
+  "sub_roles": [
+    "Senior Production Engineer",
+    "Production Support Engineer",
+    "Manufacturing Production Engineer",
+    "Production Process Engineer",
+    "Plant Production Engineer"
+  ],
+  "required_skills": [
+    "Production Line Optimization",
+    "Root Cause Analysis",
+    "Statistical Process Control",
+    "SPC",
+    "Lean Manufacturing",
+    "Equipment Troubleshooting",
+    "Production Scheduling",
+    "Quality Control Inspection"
+  ],
+  "preferred_skills": [
+    "Overall Equipment Effectiveness",
+    "OEE",
+    "Preventive Maintenance Planning",
+    "Automation and PLC Integration",
+    "Cost Reduction Analysis",
+    "Cross-Functional Team Leadership",
+    "ISO 9001 Compliance"
+  ],
+  "tools": [
+    "SAP",
+    "AutoCAD",
+    "Minitab",
+    "SolidWorks",
+    "Oracle ERP",
+    "Siemens TIA Portal",
+    "JIRA",
+    "Power BI",
+    "Rockwell FactoryTalk",
+    "Microsoft Project"
+  ],
+  "frameworks": [
+    "8D Problem Solving",
+    "DMAIC",
+    "Kaizen Methodology",
+    "5S Methodology"
+  ],
+  "responsibilities": [
+    "Monitor and optimize daily production line performance to meet throughput, quality, and on-time delivery targets",
+    "Troubleshoot equipment malfunctions and production bottlenecks, coordinating with maintenance to minimize downtime",
+    "Lead root cause analysis for production defects and implement corrective actions to sustain quality improvements",
+    "Develop and update production schedules and capacity plans in coordination with operations and supply chain teams",
+    "Drive continuous improvement projects using Lean and Kaizen methods to reduce scrap rates and cycle times",
+    "Train and support production floor staff on new processes, standard work instructions, and safety procedures",
+    "Track and report key production metrics including OEE, yield, and downtime to identify improvement opportunities",
+    "Collaborate with engineering teams to implement process changes and validate new equipment on the production floor"
+  ],
+  "keywords": [
+    "Production Engineering",
+    "Production Line Optimization",
+    "SPC",
+    "Statistical Process Control",
+    "Root Cause Analysis",
+    "Lean Manufacturing",
+    "OEE",
+    "Overall Equipment Effectiveness",
+    "Kaizen",
+    "5S Methodology",
+    "Production Scheduling",
+    "Quality Control",
+    "Equipment Troubleshooting",
+    "Preventive Maintenance",
+    "Downtime Reduction",
+    "Cycle Time Reduction",
+    "PLC Integration",
+    "Automation",
+    "ISO 9001",
+    "Continuous Improvement",
+    "Capacity Planning",
+    "8D Problem Solving",
+    "DMAIC",
+    "Standard Work Instructions",
+    "Scrap Reduction"
+  ]
+}

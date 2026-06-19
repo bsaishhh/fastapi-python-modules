@@ -1,0 +1,86 @@
+{
+  "role_key": "ALGORITHMIC_TRADER",
+  "family": "Quant Finance & Trading",
+  "sub_roles": [
+    "Algo Trader",
+    "Systematic Trading Strategist",
+    "High-Frequency Trader",
+    "HFT Trader",
+    "Senior Algorithmic Trader"
+  ],
+  "required_skills": [
+    "Algorithmic Trading Strategy Design",
+    "Market Microstructure",
+    "Low-Latency Execution",
+    "Python Programming",
+    "C++ Programming",
+    "Statistical Modeling",
+    "Backtesting Frameworks",
+    "Order Book Dynamics",
+    "Risk Management",
+    "Signal Processing"
+  ],
+  "preferred_skills": [
+    "Machine Learning",
+    "FPGA Development",
+    "Co-location Infrastructure Knowledge",
+    "FIX Protocol",
+    "Cross-Exchange Arbitrage",
+    "Reinforcement Learning",
+    "Network Latency Optimization"
+  ],
+  "tools": [
+    "KDB+",
+    "Bloomberg Terminal",
+    "Linux",
+    "Git",
+    "Redis",
+    "Kafka",
+    "Grafana",
+    "Prometheus"
+  ],
+  "frameworks": [
+    "NumPy",
+    "pandas",
+    "Zipline",
+    "Backtrader",
+    "scikit-learn",
+    "Boost"
+  ],
+  "responsibilities": [
+    "Design and deploy automated trading algorithms that execute orders across multiple exchanges with minimal market impact",
+    "Optimize execution algorithms to reduce slippage and latency while adhering to predefined risk and exposure limits",
+    "Analyze order book dynamics and market microstructure to identify short-term price inefficiencies for algorithmic exploitation",
+    "Monitor live algorithmic strategies in real time, intervening to halt or adjust trading in response to anomalous market conditions",
+    "Backtest and simulate new algorithmic strategies against tick-level historical data to validate expected performance and risk",
+    "Collaborate with infrastructure engineers to minimize network latency and improve co-location and exchange connectivity",
+    "Conduct post-trade transaction cost analysis to measure execution quality against industry benchmark metrics",
+    "Continuously refine signal decay and alpha capture models to maintain strategy profitability amid changing market regimes"
+  ],
+  "keywords": [
+    "Algorithmic Trading",
+    "Algo Trading",
+    "High-Frequency Trading",
+    "HFT",
+    "Market Microstructure",
+    "Order Book",
+    "Low Latency",
+    "Execution Algorithms",
+    "Transaction Cost Analysis",
+    "TCA",
+    "Slippage",
+    "Backtesting",
+    "Python",
+    "C++",
+    "Signal Processing",
+    "Machine Learning",
+    "Reinforcement Learning",
+    "Co-location",
+    "FIX Protocol",
+    "Risk Management",
+    "Statistical Modeling",
+    "Cross-Exchange Arbitrage",
+    "Market Making",
+    "Tick Data Analysis"
+  ]
+}

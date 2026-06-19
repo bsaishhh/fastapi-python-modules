@@ -1,0 +1,91 @@
+{
+  "role_key": "DRONE_ENGINEER",
+  "family": "Robotics & Autonomous Systems",
+  "sub_roles": [
+    "UAV Engineer",
+    "Unmanned Aerial Systems Engineer",
+    "Flight Controls Engineer",
+    "Drone Software Engineer",
+    "Senior Drone Engineer"
+  ],
+  "required_skills": [
+    "Unmanned Aerial Vehicle (UAV) Systems",
+    "Flight Controller Programming",
+    "Autopilot Systems",
+    "GPS and IMU Integration",
+    "C++ Programming",
+    "Python Programming",
+    "PID Control",
+    "Aerodynamics Fundamentals",
+    "Embedded Systems Programming",
+    "Sensor Fusion"
+  ],
+  "preferred_skills": [
+    "Computer Vision for UAVs",
+    "Swarm Robotics",
+    "FAA Part 107 Regulations",
+    "Battery and Power Management Systems",
+    "RF Communication Protocols",
+    "Autonomous Flight Path Planning",
+    "Simulation-Based Flight Testing"
+  ],
+  "tools": [
+    "PX4",
+    "ArduPilot",
+    "QGroundControl",
+    "Mission Planner",
+    "Pixhawk",
+    "Git",
+    "Gazebo",
+    "MATLAB",
+    "Docker",
+    "ROS"
+  ],
+  "frameworks": [
+    "PX4 Autopilot",
+    "ArduPilot",
+    "ROS",
+    "ROS2",
+    "MAVLink",
+    "OpenCV"
+  ],
+  "responsibilities": [
+    "Design and develop flight controller software and autopilot logic for stable and reliable unmanned aerial vehicle operation",
+    "Integrate and calibrate GPS, IMU, barometer, and other sensors to achieve accurate state estimation during flight",
+    "Implement and tune PID and other control algorithms to ensure stable attitude, altitude, and position hold performance",
+    "Develop autonomous flight path planning and waypoint navigation features using MAVLink-based ground control communication protocols",
+    "Conduct simulated flight testing using Gazebo and software-in-the-loop environments to validate flight software before real-world flights",
+    "Perform field flight testing and telemetry analysis to diagnose and resolve flight stability and performance issues",
+    "Collaborate with mechanical engineers to optimize airframe design, weight distribution, and propulsion system selection for flight efficiency",
+    "Ensure drone systems comply with relevant aviation safety regulations and operational guidelines for commercial and research flights",
+    "Design and implement battery management and power distribution systems to maximize flight time and operational safety"
+  ],
+  "keywords": [
+    "UAV",
+    "Unmanned Aerial Vehicle",
+    "Drone",
+    "Flight Controller",
+    "Autopilot",
+    "PX4",
+    "ArduPilot",
+    "MAVLink",
+    "GPS",
+    "IMU",
+    "Sensor Fusion",
+    "PID Control",
+    "Aerodynamics",
+    "Embedded Systems",
+    "Flight Path Planning",
+    "Waypoint Navigation",
+    "QGroundControl",
+    "Mission Planner",
+    "Pixhawk",
+    "Swarm Robotics",
+    "FAA Part 107",
+    "Battery Management",
+    "RF Communication",
+    "Computer Vision",
+    "C++",
+    "Python"
+  ]
+}

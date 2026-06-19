@@ -1,0 +1,89 @@
+{
+  "role_key": "GENERATIVE_AI_ENGINEER",
+  "family": "AI / ML / Data Science",
+  "sub_roles": [
+    "GenAI Engineer",
+    "Generative AI Developer",
+    "Senior Generative AI Engineer",
+    "AI Product Engineer",
+    "Diffusion Models Engineer"
+  ],
+  "required_skills": [
+    "Generative AI",
+    "GenAI",
+    "Diffusion Models",
+    "Large Language Models (LLM)",
+    "Python Programming",
+    "Model Fine-Tuning",
+    "Prompt Engineering",
+    "Image and Text Generation Pipelines",
+    "Retrieval-Augmented Generation (RAG)"
+  ],
+  "preferred_skills": [
+    "Multi-Modal Model Development",
+    "GANs (Generative Adversarial Networks)",
+    "Low-Rank Adaptation (LoRA)",
+    "Reinforcement Learning from Human Feedback (RLHF)",
+    "Content Safety and Moderation Systems",
+    "Synthetic Data Generation",
+    "Audio and Speech Generation"
+  ],
+  "tools": [
+    "OpenAI API",
+    "Stability AI",
+    "Replicate",
+    "AWS SageMaker",
+    "Hugging Face Hub",
+    "Weights & Biases",
+    "Docker",
+    "Runway",
+    "ComfyUI",
+    "Modal"
+  ],
+  "frameworks": [
+    "PyTorch",
+    "Diffusers",
+    "Hugging Face Transformers",
+    "LangChain",
+    "Stable Diffusion",
+    "Keras",
+    "PEFT"
+  ],
+  "responsibilities": [
+    "Design and build generative AI products that produce text, image, audio, or video content for end users",
+    "Fine-tune diffusion and language models using LoRA and other parameter-efficient techniques on domain-specific data",
+    "Develop pipelines that combine generative models with retrieval systems to ground outputs in factual data",
+    "Implement content safety, moderation, and filtering systems to ensure generated outputs meet quality and policy standards",
+    "Optimize generative model inference for latency and GPU cost across high-throughput production workloads",
+    "Collaborate with product and design teams to translate creative requirements into generative AI capabilities",
+    "Curate and prepare training and fine-tuning datasets, including synthetic data generation for underrepresented cases",
+    "Evaluate generative outputs using automated metrics and human-in-the-loop review processes for quality assurance",
+    "Prototype and ship new generative AI features such as image editing, style transfer, or conversational agents",
+    "Stay current with rapidly evolving generative AI research and incorporate state-of-the-art techniques into production"
+  ],
+  "keywords": [
+    "Generative AI Engineer",
+    "GenAI",
+    "Generative AI",
+    "Diffusion Models",
+    "Stable Diffusion",
+    "GANs",
+    "Generative Adversarial Networks",
+    "LLM",
+    "Large Language Models",
+    "LoRA",
+    "Low-Rank Adaptation",
+    "RLHF",
+    "Fine-Tuning",
+    "Prompt Engineering",
+    "RAG",
+    "Multi-Modal AI",
+    "Text-to-Image",
+    "Synthetic Data",
+    "PyTorch",
+    "Hugging Face",
+    "Content Moderation",
+    "AI Safety",
+    "Model Inference Optimization"
+  ]
+}

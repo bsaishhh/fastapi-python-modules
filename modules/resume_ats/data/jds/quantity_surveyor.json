@@ -1,0 +1,83 @@
+{
+  "role_key": "QUANTITY_SURVEYOR",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Cost Engineer",
+    "Senior Quantity Surveyor",
+    "Construction Cost Estimator",
+    "Commercial Manager",
+    "Chartered Quantity Surveyor"
+  ],
+  "required_skills": [
+    "Quantity Take-off",
+    "Cost Estimation",
+    "Bill of Quantities Preparation",
+    "Contract Administration",
+    "Tender and Bid Evaluation",
+    "Cost Planning",
+    "Construction Drawing Review",
+    "Variation and Change Order Management",
+    "Procurement Strategy"
+  ],
+  "preferred_skills": [
+    "Building Information Modeling (BIM) Quantification",
+    "Value Engineering",
+    "Risk and Contingency Analysis",
+    "Royal Institution of Chartered Surveyors (RICS) Accreditation",
+    "Final Account Settlement",
+    "Life Cycle Costing",
+    "FIDIC Contract Knowledge"
+  ],
+  "tools": [
+    "CostX",
+    "Bluebeam",
+    "AutoCAD",
+    "Procore",
+    "Microsoft Excel",
+    "Revit",
+    "Causeway",
+    "Buildsoft"
+  ],
+  "frameworks": [
+    "RICS Standards",
+    "NEC Contracts",
+    "FIDIC Contracts",
+    "JCT Contracts"
+  ],
+  "responsibilities": [
+    "Prepare detailed bills of quantities and cost estimates from architectural and engineering drawings for tender purposes",
+    "Conduct quantity take-offs using CostX and BIM models to ensure accurate measurement of construction materials and labor",
+    "Evaluate contractor tenders and bids to recommend the most cost-effective and technically compliant procurement option",
+    "Administer construction contracts including valuation of works, interim payment certificates, and final account settlement",
+    "Assess and negotiate variations and change orders to ensure accurate cost tracking throughout the project lifecycle",
+    "Develop cost plans and budget forecasts at each project stage to support client decision-making and financial control",
+    "Conduct risk and contingency analysis to identify potential cost overruns and recommend mitigation strategies",
+    "Liaise with architects, engineers, and contractors to resolve cost-related queries and ensure value engineering opportunities are captured"
+  ],
+  "keywords": [
+    "Quantity Surveying",
+    "Quantity Take-off",
+    "Cost Estimation",
+    "Bill of Quantities",
+    "BOQ",
+    "Contract Administration",
+    "Tender Evaluation",
+    "Bid Evaluation",
+    "Cost Planning",
+    "Change Order Management",
+    "Variation Management",
+    "Procurement Strategy",
+    "BIM Quantification",
+    "Value Engineering",
+    "RICS",
+    "Royal Institution of Chartered Surveyors",
+    "Final Account Settlement",
+    "Life Cycle Costing",
+    "NEC Contracts",
+    "FIDIC Contracts",
+    "JCT Contracts",
+    "CostX",
+    "Cost Engineering",
+    "Construction Cost Management"
+  ]
+}

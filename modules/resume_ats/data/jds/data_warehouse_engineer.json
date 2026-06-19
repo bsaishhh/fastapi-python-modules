@@ -1,0 +1,80 @@
+{
+  "role_key": "DATA_WAREHOUSE_ENGINEER",
+  "family": "Data Engineering & Analytics",
+  "sub_roles": [
+    "Senior Data Warehouse Engineer",
+    "DW Engineer",
+    "Data Warehouse Architect",
+    "Enterprise Data Warehouse Engineer",
+    "Cloud Data Warehouse Engineer"
+  ],
+  "required_skills": [
+    "Data Warehousing",
+    "Dimensional Modeling",
+    "SQL",
+    "ETL Development",
+    "Star Schema Design",
+    "Data Modeling",
+    "Performance Tuning",
+    "Cloud Data Platforms"
+  ],
+  "preferred_skills": [
+    "Python Programming",
+    "Slowly Changing Dimensions (SCD) Implementation",
+    "Data Warehouse Automation",
+    "Workflow Orchestration",
+    "Data Governance",
+    "Real-Time Data Warehousing",
+    "Data Lakehouse Architecture"
+  ],
+  "tools": [
+    "Snowflake",
+    "Redshift",
+    "BigQuery",
+    "AWS",
+    "Azure",
+    "Airflow",
+    "dbt",
+    "SQL Server",
+    "Teradata"
+  ],
+  "frameworks": [
+    "dbt",
+    "Apache Spark",
+    "Apache Iceberg"
+  ],
+  "responsibilities": [
+    "Design and implement star and snowflake schema data models that support enterprise reporting and analytics",
+    "Build and optimize data warehouse architecture to handle growing data volumes while maintaining query performance",
+    "Develop ETL processes that load data into the warehouse while enforcing data quality and consistency standards",
+    "Implement slowly changing dimension strategies to accurately track historical changes in business entities",
+    "Tune warehouse queries, indexing, and partitioning strategies to reduce report and dashboard load times",
+    "Migrate on-premise data warehouse systems to cloud platforms such as Snowflake, Redshift, or BigQuery",
+    "Collaborate with analytics engineers and BI developers to ensure warehouse models meet reporting requirements",
+    "Establish data retention, archiving, and partitioning policies to manage warehouse storage costs effectively",
+    "Monitor warehouse performance and capacity, proactively addressing bottlenecks before they impact users",
+    "Document data warehouse schema, ETL logic, and data lineage to support governance and troubleshooting"
+  ],
+  "keywords": [
+    "Data Warehouse Engineer",
+    "Data Warehousing",
+    "Dimensional Modeling",
+    "Star Schema",
+    "Snowflake Schema",
+    "Slowly Changing Dimensions",
+    "SCD",
+    "ETL",
+    "SQL",
+    "Snowflake",
+    "Redshift",
+    "BigQuery",
+    "Data Modeling",
+    "Performance Tuning",
+    "Cloud Data Warehouse",
+    "Data Lakehouse",
+    "Apache Iceberg",
+    "dbt",
+    "Data Lineage",
+    "Capacity Planning"
+  ]
+}

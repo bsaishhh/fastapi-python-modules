@@ -1,0 +1,84 @@
+{
+  "role_key": "SEMICONDUCTOR_PROCESS_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Process Integration Engineer",
+    "Semiconductor Manufacturing Engineer",
+    "Fab Process Engineer",
+    "Wafer Fabrication Engineer",
+    "Process Development Engineer"
+  ],
+  "required_skills": [
+    "Semiconductor Fabrication Process",
+    "Thin Film Deposition",
+    "Photolithography",
+    "Etch Process Development",
+    "Process Integration",
+    "Statistical Process Control (SPC)",
+    "Yield Analysis",
+    "Cleanroom Operations"
+  ],
+  "preferred_skills": [
+    "Chemical Vapor Deposition (CVD)",
+    "Ion Implantation",
+    "Chemical Mechanical Planarization (CMP)",
+    "Design of Experiments (DOE)",
+    "Failure Analysis (FA)",
+    "Advanced Node Process Development (FinFET, EUV)"
+  ],
+  "tools": [
+    "Applied Materials Centura",
+    "Lam Research Versys",
+    "ASML TWINSCAN",
+    "KLA Surfscan",
+    "JMP Statistical Software",
+    "SECS/GEM Software",
+    "Minitab",
+    "Cadence Virtuoso"
+  ],
+  "frameworks": [
+    "SPC Control Charts",
+    "Six Sigma DMAIC",
+    "Design of Experiments (DOE) Methodology",
+    "SEMI Standards"
+  ],
+  "responsibilities": [
+    "Develop and optimize semiconductor fabrication processes including deposition, etch, and photolithography steps for wafer manufacturing.",
+    "Monitor process performance using statistical process control (SPC) charts to detect drift and maintain process capability.",
+    "Conduct yield analysis and root-cause investigations to identify and resolve sources of wafer defects and process excursions.",
+    "Design and execute experiments (DOE) to characterize process windows and optimize critical process parameters.",
+    "Collaborate with equipment engineers to qualify new process tools and integrate them into production fabrication lines.",
+    "Perform process integration across multiple fabrication steps to ensure compatibility and achieve target device performance.",
+    "Analyze metrology and inspection data from KLA and other tools to validate process control and specification compliance.",
+    "Support advanced node process development including FinFET, EUV lithography, and high-k metal gate technologies.",
+    "Drive continuous improvement initiatives using Six Sigma methodologies to reduce cycle time and improve fab throughput.",
+    "Document process flows, specifications, and control plans to support technology transfer and production ramp."
+  ],
+  "keywords": [
+    "Semiconductor Process Engineering",
+    "Wafer Fabrication",
+    "Photolithography",
+    "Thin Film Deposition",
+    "Etch Process",
+    "Process Integration",
+    "Statistical Process Control",
+    "SPC",
+    "Yield Analysis",
+    "Cleanroom",
+    "CVD",
+    "Chemical Vapor Deposition",
+    "Ion Implantation",
+    "CMP",
+    "Chemical Mechanical Planarization",
+    "Design of Experiments",
+    "DOE",
+    "Failure Analysis",
+    "FinFET",
+    "EUV Lithography",
+    "Six Sigma",
+    "Applied Materials",
+    "Lam Research",
+    "ASML",
+    "KLA Metrology"
+  ]
+}

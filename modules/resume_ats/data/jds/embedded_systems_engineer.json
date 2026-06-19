@@ -1,0 +1,86 @@
+{
+  "role_key": "EMBEDDED_SYSTEMS_ENGINEER",
+  "family": "Electrical & Electronics",
+  "sub_roles": [
+    "Embedded Software Engineer",
+    "Embedded Engineer",
+    "Embedded Systems Developer",
+    "Firmware & Embedded Engineer",
+    "IoT Embedded Engineer"
+  ],
+  "required_skills": [
+    "Embedded C",
+    "Embedded C++",
+    "RTOS (Real-Time Operating Systems)",
+    "Microcontroller Programming",
+    "Embedded Linux",
+    "Device Driver Development",
+    "Hardware-Software Integration",
+    "Communication Protocols (UART, SPI, I2C)"
+  ],
+  "preferred_skills": [
+    "IoT Protocols (MQTT, CoAP)",
+    "Bootloader Development",
+    "Low-Power Embedded Design",
+    "Embedded Security",
+    "Yocto Project",
+    "Wireless Connectivity (BLE, Zigbee, LoRa)"
+  ],
+  "tools": [
+    "JTAG Debugger",
+    "Keil uVision",
+    "IAR Embedded Workbench",
+    "STM32CubeIDE",
+    "Segger J-Link",
+    "Logic Analyzer",
+    "Git",
+    "JIRA"
+  ],
+  "frameworks": [
+    "FreeRTOS",
+    "Zephyr OS",
+    "Embedded Linux Kernel",
+    "Arduino Framework",
+    "Mbed OS",
+    "ESP-IDF"
+  ],
+  "responsibilities": [
+    "Design and develop embedded firmware in C/C++ for microcontroller-based products across automotive, industrial, or IoT domains.",
+    "Implement and optimize real-time operating system (RTOS) tasks, schedulers, and interrupt service routines for deterministic system behavior.",
+    "Develop and debug low-level device drivers for peripherals including SPI, I2C, UART, ADC, and GPIO interfaces.",
+    "Integrate embedded software with custom hardware boards, performing bring-up, debugging, and validation using JTAG and logic analyzers.",
+    "Collaborate with hardware engineers to define memory maps, interrupt architecture, and power management strategies for embedded systems.",
+    "Build and maintain bootloaders and firmware update mechanisms supporting secure over-the-air (OTA) updates.",
+    "Optimize embedded code for memory footprint, power consumption, and real-time performance constraints on resource-limited devices.",
+    "Conduct unit testing, hardware-in-the-loop testing, and static code analysis to ensure firmware reliability and quality.",
+    "Implement communication protocol stacks such as Modbus, CAN, BLE, and MQTT for device-to-device and cloud connectivity.",
+    "Document firmware architecture, design decisions, and test results to support certification and production handoff."
+  ],
+  "keywords": [
+    "Embedded Systems",
+    "Embedded C",
+    "Embedded C++",
+    "RTOS",
+    "Real-Time Operating System",
+    "FreeRTOS",
+    "Zephyr OS",
+    "Microcontroller Programming",
+    "Embedded Linux",
+    "Device Drivers",
+    "UART",
+    "SPI",
+    "I2C",
+    "CAN Bus",
+    "JTAG",
+    "Bootloader",
+    "OTA Updates",
+    "Over-the-Air Updates",
+    "BLE",
+    "Bluetooth Low Energy",
+    "IoT",
+    "MQTT",
+    "Low-Power Design",
+    "STM32",
+    "ARM Cortex"
+  ]
+}

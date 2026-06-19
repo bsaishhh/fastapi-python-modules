@@ -1,0 +1,82 @@
+{
+  "role_key": "GEOTECHNICAL_ENGINEER",
+  "family": "Civil & Infrastructure",
+  "sub_roles": [
+    "Geotechnical Design Engineer",
+    "Senior Geotechnical Engineer",
+    "Foundation Engineer",
+    "Soils Engineer",
+    "Geo-Environmental Engineer"
+  ],
+  "required_skills": [
+    "Soil Mechanics",
+    "Foundation Design",
+    "Geotechnical Site Investigation",
+    "Slope Stability Analysis",
+    "Bearing Capacity Analysis",
+    "Settlement Analysis",
+    "Subsurface Exploration",
+    "Geotechnical Report Writing",
+    "Engineering Calculations"
+  ],
+  "preferred_skills": [
+    "Seismic Site Response Analysis",
+    "Ground Improvement Techniques",
+    "Retaining Wall Design",
+    "Groundwater Analysis",
+    "Professional Engineer (PE) Licensure",
+    "Pile Foundation Design",
+    "Geo-Environmental Assessment"
+  ],
+  "tools": [
+    "AutoCAD",
+    "gINT",
+    "PLAXIS",
+    "GeoStudio",
+    "LPILE",
+    "Settle3",
+    "Bluebeam",
+    "ArcGIS"
+  ],
+  "frameworks": [
+    "ASTM Standards",
+    "AASHTO LRFD",
+    "IBC Codes",
+    "ASCE Standards"
+  ],
+  "responsibilities": [
+    "Plan and oversee subsurface exploration programs including soil borings, sampling, and in-situ testing for site characterization",
+    "Analyze soil and rock properties to develop foundation design recommendations for buildings, bridges, and infrastructure projects",
+    "Perform slope stability and settlement analyses using PLAXIS and GeoStudio to evaluate geotechnical risks",
+    "Prepare comprehensive geotechnical engineering reports summarizing findings, analyses, and design recommendations for clients",
+    "Design shallow and deep foundation systems, including spread footings, piles, and drilled shafts, to support structural loads",
+    "Conduct seismic site response analyses to evaluate liquefaction potential and ground motion amplification effects",
+    "Collaborate with structural and civil engineers to integrate geotechnical recommendations into overall project design",
+    "Perform field observation and construction monitoring to verify compliance with geotechnical design specifications"
+  ],
+  "keywords": [
+    "Soil Mechanics",
+    "Foundation Design",
+    "Geotechnical Engineering",
+    "Site Investigation",
+    "Slope Stability Analysis",
+    "Bearing Capacity",
+    "Settlement Analysis",
+    "Subsurface Exploration",
+    "Soil Borings",
+    "Liquefaction Analysis",
+    "Seismic Site Response",
+    "Ground Improvement",
+    "Retaining Wall Design",
+    "Pile Foundation Design",
+    "PLAXIS",
+    "GeoStudio",
+    "PE License",
+    "Professional Engineer",
+    "ASTM",
+    "AASHTO LRFD",
+    "Geotechnical Report Writing",
+    "Construction Monitoring",
+    "Groundwater Analysis"
+  ]
+}
